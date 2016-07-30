@@ -1,29 +1,51 @@
 <!doctype html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-<title>{% block title %}Welcome{% endblock %} — Norsk Målungdom</title>
-<body>
-  <header>
-    <h1>Norsk Målungdom</h1>
-    <nav>
-      <ul class="nav navbar-nav">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Welcome</a></li>
-        {% for href, title in [
-          ['/blog', 'Blog'],
-          ['/projects', 'Projects'],
-          ['/about', 'About']
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
-      </ul>
+<meta charset=utf-8>
+<title>{% block full_title %}{% block title %}Velkomen{% endblock %} — Norsk Målungdom{% endblock %}</title>
+<!-- Responsive and mobile friendly stuff -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link type=text/css rel=stylesheet href="{{ '/static/style.css'|url }}">
+
+<div class="wrapper front-page">
+  <div class="top-section">
+    <header class=main-title>
+      <h1><a href=/>Norsk Målungdom</a></h1>
+      <!--div class=tag-line><p>Me arbeider for å fremja nynorsk, dialektbruk og språkleg mangfald på alle samfunnsområde</div-->
+    </header>
+    <nav class="main-nav hpad">
+      <label class=nav-button for=menu-checkbox>☰<span>Meny</span></label>
+      <input type=checkbox id=menu-checkbox>
+      <div class=items>
+        <ul class=main>
+          {% for href, title in [
+            ['/om-nmu', 'Om NMU'],
+            ['/nynorsk', 'Nynorsk'],
+            ['/politikk', 'Politikk'],
+            ['/2016/sumarleir', 'Sumarleir 2016'],
+          ] %}
+            <li{% if this.is_child_of(href) %} class=active{% endif
+              %}><a href="{{ href|url }}">{{ title }}</a></li>
+          {% endfor %}
+        </ul>
+        <ul class=extra>
+          {% for href, title in [
+            ['/kontakt', 'Kontakt og presse'],
+            ['/engasjer-deg', 'Engasjer deg'],
+          ] %}
+            <li{% if this.is_child_of(href) %} class=active{% endif
+              %}><a href="{{ href|url }}">{{ title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
     </nav>
-  </header>
-  <div class="page">
-    {% block body %}{% endblock %}
   </div>
+
+  <main>
+    {% block body %}{% endblock %}
+  </main>
+
   <footer>
-    &copy; Copyright 2016 by Odin Hørthe Omdal,,,,.
+    &copy; Copyright 2016 by Odin Hørthe Omdal.
   </footer>
-</body>
+</div>

@@ -1,6 +1,25 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h2>{{ this.title }}</h2>
-  {{ this.body }}
+  <section class="hero">
+    <div class=hero-bg>
+      <!--
+      <video src=https://d11sa1anfvm2xk.cloudfront.net/newyear/homepage.webm autoplay loop></video>
+      -->
+    </div>
+    <div class=hero-content>
+      <h1>{{ this.title }}</h1>
+      {% if False %}
+      <div class=hero-summary>
+        <p>Sjølv om Johanne og eg takka for oss på sumarleiren skal eg jobbe litt ut i juli. Eg tenkte difor eg ville nytte høve til å legge ut eit biletesamandrag frå sumarleiren. Dette er det.
+      </div>
+      {% endif %}
+    </div>
+  </section>
+
+  <section class=content>
+    <article class="main-article box">
+      {{ this.body }}
+    </article>
+  </section>
 {% endblock %}
