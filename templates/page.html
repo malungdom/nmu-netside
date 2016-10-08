@@ -1,5 +1,5 @@
 {% extends "layout.html" %}
-{% block title %}{{ this.title }}{% endblock %}
+{% block tittel %}{{ this.tittel }}{% endblock %}
 {% block body %}
   <section class="hero">
     <div class=hero-bg>
@@ -8,7 +8,7 @@
       -->
     </div>
     <div class=hero-content>
-      <h1>{{ this.title }}</h1>
+      <h1>{{ this.tittel }}</h1>
       {% if False %}
       <div class=hero-summary>
         <p>Sjølv om Johanne og eg takka for oss på sumarleiren skal eg jobbe litt ut i juli. Eg tenkte difor eg ville nytte høve til å legge ut eit biletesamandrag frå sumarleiren. Dette er det.
@@ -18,8 +18,10 @@
   </section>
 
   <section class=content>
-    <article class="main-article box">
-      {{ this.body }}
-    </article>
+    {% block content %}
+      <article class="main-article box">
+        {{ this.tekst }}
+      </article>
+    {% endblock %}
   </section>
 {% endblock %}

@@ -1,9 +1,9 @@
-title: Hello Website
+tittel: Hello Website
 ---
-pub_date: 2016-07-05
+publisert_dato: 2016-07-05
 ---
-author: Odin Hørthe Omdal,,,,
+forfattar: Odin Hørthe Omdal,,,,
 ---
-body:
+tekst:
 
 This is an example blog post.  Not much here but that's not the point :)
