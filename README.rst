@@ -24,3 +24,12 @@ endringar so vil lektor bygga prosjektet på ny, og du kan gjera ei omlasting i
 netlesaren din for å sjå resultatet av endringane du gjorde.
 
 Lukke til!
+
+Få endringane ut på netsida
+---------------------------
+
+For å få endringane til å visast på http://ny.malungdom.no/ so må du lasta det
+opp til tenaren.  Det kan du gjera ved denne lektor kommandoen (pass på at du
+har aktivert virtualenv):
+
+    $ lektor deploy production

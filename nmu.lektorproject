@@ -1,2 +1,8 @@
 [project]
 name = Norsk Målungdom
+
+[servers.production]
+name = Production
+enabled = yes
+default = yes
+target = rsync://ny.malungdom.no/srv/www/ny.malungdom.no/htdocs
