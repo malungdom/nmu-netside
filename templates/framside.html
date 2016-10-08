@@ -1,0 +1,141 @@
+{% extends "layout.html" %}
+{% block tittel %}{{ this.tittel }}{% endblock %}
+{% block body %}
+  <section class="hero hero--vbig hero">
+    <div class="hero-bg hero-bg--top hero-bg--transparent">
+      <img src="folk.jpg" style='opacity:0.01' onload='this.style.opacity=1'>
+    </div>
+    <div class=hero-content>
+      <h1>{{ this.tittel }}</h1>
+      <form class=meld-deg-inn action=/>
+        <h2>Bli medlem! &hearts;</h2>
+        <div class=box>
+          <input placeholder="Namn" name=namn>
+          <input placeholder="Tilskrift (adresse)" name=tilskrift>
+          <input placeholder="Postnr" name=postnr>
+          <input placeholder="Telefonnr" name=tlfnr>
+          <input placeholder="Epost" name=epost>
+        </div>
+        <input class=submit type=submit value="Send inn">
+      </form>
+    </div>
+  </section>
+
+  {#
+  <section class=content>
+    {% block content %}
+      <article class="main-article box">
+        {{ this.tekst }}
+      </article>
+    {% endblock %}
+  </section>
+  #}
+
+  <section class=content>
+  <!-- KVA MEINER ME -->
+  <div class="box kva-meiner-me vmargin hpad">
+    <a href=/artikkel.html#kvameinerme>
+    <h1>Kva meiner me?</h1>
+    <div class=group>
+      <div class="col span_1_of_3">
+        <h2>Språk i skulen</h2>
+        <p>Me arbeider for å betre undervisninga i nynorsk både som hovudmål
+        og sidemål.
+      </div>
+      <div class="col span_1_of_3">
+        <h2>Nynorsk i media</h2>
+        <p>Nynorsk er forbode i mange riksdekkjande medie. Dette kjem
+        ingen til gode.
+      </div>
+      <div class="col span_1_of_3">
+        <h2>Språklege rettar</h2>
+        <p>Me må ha eit lovverk som står stør opp om det språklege
+        mangfaldet.
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <!-- KVA GJER ME -->
+  <div class="box kva-gjer-me vmargin hpad">
+    <a href=/artikkel-ubilde.html#kvagjerme>
+    <h1>Kva gjer me?</h1>
+    <div class=group>
+      <div class="col span_1_of_3">
+        <h2>Målferd</h2>
+        <p>Kvart år vitjar me over 60 skular og held føredrag om
+        nynorsk, norsk målsoge og haldningar til språk.
+      </div>
+      <div class="col span_1_of_3">
+        <h2>Påverknad</h2>
+        <p>Me arbeider tett med politiske organisasjonar og
+        styringsorgan slik at dei fattar fornuftige vedtak om språk.
+      </div>
+      <div class="col span_1_of_3">
+        <h2>Organisasjon</h2>
+        <p>Me er over 1200 medlemar og har lokallag over heile landet.
+        Alle skal få bidra, læra noko og ha det
+        moro.
+      </div>
+    </div>
+    </a>
+  </div>
+
+  <!-- TILSKIPINGAR -->
+  <div class="box tilskipingar vmargin hpad">
+    <h1><a href=#>Tilskipingar</a></h1>
+
+    <div class=group>
+      <div class="col span_4_of_8">
+        <img src=2013/eghjartann-bilete.jpg>
+      </div>
+      <div class="col span_4_of_8">
+        <img src=2013/eghjartann-bilete.jpg>
+      </div>
+    </div>
+    <div class=group>
+      <div class="col span_4_of_8">
+        <img src=http://blogg.malungdom.no/files/2013/07/IMG_0464-640x426.jpg>
+      </div>
+      <div class="col span_4_of_8">
+        <img src=http://blogg.malungdom.no/files/2013/07/IMG_0597-640x426.jpg>
+      </div>
+    </div>
+  </div>
+
+  <!-- FRÅ BLOGGEN -->
+  <div class="box bloggen vmargin hpad group">
+    <h1><a href=#>Frå bloggen</a></h1>
+    <div class="col span_5_of_8">
+      <h2>Sumarleir 2013</h2>
+      <p>Sjølv om Johanne og eg takka for oss på sumarleiren skal eg
+      jobbe litt ut i juli. Eg tenkte difor eg ville nytte høve til å
+      legge ut eit biletesamandrag frå sumarleiren. Dette til glede for
+      dei som sjølv var der, men òg slik at dei som kanskje ynskjer å
+      kome får eit innblikk i kva me gjer på sumarleir. Det er ikkje alt
+      me har bilete av, so programmet kan til tider vere betre pekepinn.
+      Om nokon skulle ynskje å nytte bileta kan de kreditere NMU.
+      <p>Les <a href=http://blogg.malungdom.no>resten på bloggen</a>
+    </div>
+    <div class="col span_5_of_8">
+      <h2>Ting og tang</h2>
+      <p>Her skjer ting og tang og ein del tekst her. Ikkje for mykje
+      men heller ikkje ingenting. Jada.
+      <p>Les <a href=http://blogg.malungdom.no>resten på bloggen</a>
+    </div>
+  </div>
+
+  <!-- TILFANG -->
+  <div class="box tilfang vmargin hpad">
+    <h1><a href=#>Tilfang</a></h1>
+    <img src=2013/eghjartann-bilete.jpg>
+    <div class=group>
+      <div class="col span_5_of_8">
+        <p>Jakkemerker, t-skjorter og so bortetter...
+      </div>
+      <div class="col span_3_of_8 button">
+        <a href=#>Kjøp tilfang</a>
+      </div>
+    </div>
+  </section><!-- .content -->
+{% endblock %}
