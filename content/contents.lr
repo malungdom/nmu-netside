@@ -4,5 +4,20 @@ tittel: Velkomen til Norsk Målungdom
 ---
 tekst:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+#### hero ####
+body:
+
+<h1>Velkomen til Norsk målungdom</h1>
+<form class=meld-deg-inn action=/>
+  <h2>Bli medlem! &hearts;</h2>
+  <div class=box>
+    <input placeholder="Namn" name=namn>
+    <input placeholder="Tilskrift (adresse)" name=tilskrift>
+    <input placeholder="Postnr" name=postnr>
+    <input placeholder="Telefonnr" name=tlfnr>
+    <input placeholder="Epost" name=epost>
+  </div>
+  <input class=submit type=submit value="Send inn">
+</form>
+----
+bilete: folk.jpg

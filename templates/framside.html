@@ -1,25 +1,7 @@
 {% extends "layout.html" %}
 {% block tittel %}{{ this.tittel }}{% endblock %}
 {% block body %}
-  <section class="hero hero--vbig hero">
-    <div class="hero-bg hero-bg--top hero-bg--transparent">
-      <img src="folk.jpg" style='opacity:0.01' onload='this.style.opacity=1'>
-    </div>
-    <div class=hero-content>
-      <h1>{{ this.tittel }}</h1>
-      <form class=meld-deg-inn action=/>
-        <h2>Bli medlem! &hearts;</h2>
-        <div class=box>
-          <input placeholder="Namn" name=namn>
-          <input placeholder="Tilskrift (adresse)" name=tilskrift>
-          <input placeholder="Postnr" name=postnr>
-          <input placeholder="Telefonnr" name=tlfnr>
-          <input placeholder="Epost" name=epost>
-        </div>
-        <input class=submit type=submit value="Send inn">
-      </form>
-    </div>
-  </section>
+  {{ this.tekst }}
 
   {#
   <section class=content>
@@ -39,8 +21,8 @@
     <div class=group>
       <div class="col span_1_of_3">
         <h2>Språk i skulen</h2>
-        <p>Me arbeider for å betre undervisninga i nynorsk både som hovudmål
-        og sidemål.
+        <p>Me arbeider for å betre undervisninga i nynorsk både som
+        hovudmål og sidemål.
       </div>
       <div class="col span_1_of_3">
         <h2>Nynorsk i media</h2>
