@@ -1,0 +1,9 @@
+NOTES
+
+For å setja opp produksjonsmiljø:
+- du må la cgi-bin/ mappa køyra skript
+  - for nginx brukar du fcgiwrap til det
+- chown www-data cgi-bin/*
+- cgi-bin/send.py:
+  - sett miljøvariabel: TO_EMAIL
+  - lag /var/tmp/postings.txt (evt SAVEFILE) og chown www-data

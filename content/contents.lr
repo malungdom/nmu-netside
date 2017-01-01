@@ -8,14 +8,15 @@ tekst:
 body:
 
 <h1>Velkomen til Norsk målungdom</h1>
-<form class=meld-deg-inn action=/>
+<form class=meld-deg-inn action=/cgi-bin/send.py?_type=innmelding method=POST>
   <h2>Bli medlem! &hearts;</h2>
   <div class=box>
-    <input placeholder="Namn" name=namn>
+    <input placeholder="Namn" name=namn required>
     <input placeholder="Tilskrift (adresse)" name=tilskrift>
-    <input placeholder="Postnr" name=postnr>
+    <input placeholder="Postnr" name=postnr required>
     <input placeholder="Telefonnr" name=tlfnr>
-    <input placeholder="Epost" name=epost>
+    <input type=number placeholder="Født (årstal)" name=fodt required>
+    <input type=email placeholder="Epost" name=epost>
   </div>
   <input class=submit type=submit value="Send inn">
 </form>
