@@ -1,5 +1,8 @@
 tittel: Politikk
 ---
-tekst:
+_model: politikk
+---
+ingress:
 
-Politikk ting.
+Her finn du tufta vår og dei politiske programma våre. I tillegg kan
+du lese fråsegner vedtekne av landsmøta og landsstyret.
