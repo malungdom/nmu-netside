@@ -1,0 +1,16 @@
+{% extends "page.html" %}
+{% block content %}
+    <article class="main-article box">
+      {{ this.tekst }}
+      {% set first = this.children.first() %}
+      <h1>{{ first.tittel }}</h1>
+      {{ first.tekst }}
+
+      <h1>Alle sider</h1>
+      <ul>
+      {% for child in this.children.all() %}
+        <li><a href="{{ child|url }}">{{ child.tittel }}</a>
+      {% endfor %}
+      </ul>
+    </article>
+{% endblock %}

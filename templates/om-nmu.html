@@ -1,0 +1,17 @@
+{% extends "page.html" %}
+{% block tittel %}{{ this.tittel }}{% endblock %}
+{% block content %}
+  {% if this.tekst %}
+    <article class="main-article box">
+      {{ this.tekst }}
+    </article>
+  {% endif %}
+  {% for child in this.children.all() %}
+    <div class="box kva-meiner-me vmargin hpad">
+      <a href={{ child|url }}>
+        <h1>{{ child.tittel }}</h1>
+        {{ child.ingress }}
+      </a>
+    </div>
+  {% endfor %}
+{% endblock %}
