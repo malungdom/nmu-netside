@@ -1,7 +1,7 @@
 {% set bilete = record.attachments.get(this.bilete) %}
 <section class="hero hero--vbig hero">
   <div class="hero-bg hero-bg--top hero-bg--transparent">
-    <img src="{{ bilete|url }}" style="opacity:0.01"
+    <img src="{{ bilete.thumbnail(1280)|url }}" style="opacity:0.01"
         onload="this.style.opacity=1">
   </div>
   <div class=hero-content>
