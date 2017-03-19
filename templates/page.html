@@ -18,8 +18,22 @@
   <section class=content>
     {% block content %}
       <article class="main-article box">
-        {{ this.tekst }}
+        {% block main_article %}
+          {{ this.tekst }}
+        {% endblock %}
       </article>
+
+      {% set children = this.children.all() %}
+      {% if children %}
+        <article class="box">
+          <h1>Undersider</h1>
+          <ul>
+          {% for child in this.children.all() %}
+            <li><a href="{{ child|url }}">{{ child.tittel }}</a>
+          {% endfor %}
+          </ul>
+        </article>
+      {% endif %}
     {% endblock %}
   </section>
 {% endblock %}
