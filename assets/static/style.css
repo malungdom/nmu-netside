@@ -20,13 +20,44 @@ main {
  background-color: rgba(0, 102, 128, 0.03);
  flex: 1;
 }
-footer {
- background: #f0f0f0;
- padding: 3em 0;
- text-align: center;
+footer.kolofon {
+  display: flex;
+  background: rgba(0, 102, 128, 1);
+  margin: 0;
+  padding: 2em 0 3em 0;
+  justify-content: center;
+}
+footer.kolofon a {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+}
+footer.kolofon a:hover {
+  color: rgba(255, 255, 255, 1);
+  text-decoration: underline;
+}
+footer.kolofon h2 {
+  color: white;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+footer.kolofon > div {
+  margin: 0 30px;
+}
+footer.kolofon ul {
+  margin: 0;
+  padding: 0
+}
+footer.kolofon li {
+  display: block;
+  margin: 0
+}
+footer.kontakt {
+  background: #f0f0f0;
+  padding: 0.5em 0 3em 0;
+  text-align: center;
 }
 input:focus {
- box-shadow: 0 0 0 3px rgba(60, 140, 160, 0.5);
+  box-shadow: 0 0 0 3px rgba(60, 140, 160, 0.5);
 }
 .top-section {
  position: absolute;
@@ -352,7 +383,7 @@ h2 {
   font-size: 1.75em;
   margin-bottom: 0.25em;
 }
-.box h2 {
+.box h2, footer h2 {
   color: #000;
   font-size: 1em;
   font-weight: 300;
