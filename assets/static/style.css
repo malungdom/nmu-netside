@@ -366,7 +366,7 @@ h2 {
   flex-wrap: wrap;
   justify-content: space-around;
 }
-.box {
+.box, .big-box {
   box-shadow: 0 10px 24px -13px rgba(0, 0, 0, 0.5);
   color: #333;
   margin: 1rem 0 0;
@@ -395,7 +395,7 @@ h2 {
   margin-top: 0;
 }
 
-.main-article {
+.main-article, .big-box  {
   font-size: 1.2em;
   line-height: 1.5;
   max-width: 38rem;
