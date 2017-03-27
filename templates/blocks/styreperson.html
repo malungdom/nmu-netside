@@ -1,5 +1,16 @@
-<strong>{{ this.tittel }}</strong> &ndash; {{ this.namn }}
+<div class=block-styreperson>
+  {% if this.tittel %}
+    <span class=tittel>{{ this.tittel }}</span> &ndash;
+  {% endif %}
+  <strong class=namn>{{ this.namn }}</strong>
+  {% if this.kortom %}
+    (<em class=kortom>{{ this.kortom }}</em>)
+  {% endif %}
 
-<div>
-  {{ this.om }}
+  {% if this.om %}
+    <div class=om>{{ this.om }}</div>
+  {% endif %}
+  {% if this.kontakt %}
+    <div class=kontakt>{{ this.kontakt }}</div>
+  {% endif %}
 </div>
