@@ -17,7 +17,6 @@ Vil du vere med? Ta kontakt med lokallaget ditt allereie i dag
 ikkje noko lokallag? Då er du hjarteleg velkomen som observatør!
 ----
 class: big-box
-
 #### text-block ####
 content:
 
@@ -70,3 +69,14 @@ Dersom du eller lokallaget ditt ynskjer å fremje ei fråsegn til landsmøtet, t
 me gjerne imot. Fråsegner må vere skrivarstova i hende seinast 29. mars.
 ----
 class: box
+#### attachments-block ####
+description:
+
+Sakpapir
+========
+
+Me legg ut sakspapira her etter kvart som det er praktisk mogeleg å få dei klare.
+----
+filter: LM17
+----
+classes: box
