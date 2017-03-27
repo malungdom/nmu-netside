@@ -11,6 +11,12 @@ h1, h2, h3, h4 {
 img, video {
  max-width: 100%;
 }
+a {
+  color: rgba(50, 150, 175, 1);
+}
+a:hover {
+  color: rgba(50, 200, 240, 1);
+}
 input {
  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
  transition: 100ms box-shadow;
@@ -19,10 +25,11 @@ input {
 main {
  background-color: rgba(0, 102, 128, 0.03);
  flex: 1;
+ padding-bottom: 5em;
 }
 footer.kolofon {
   display: flex;
-  background: rgba(0, 102, 128, 1);
+  background: rgba(140, 140, 140, 1);
   margin: 0;
   padding: 2em 0 3em 0;
   justify-content: center;
@@ -52,7 +59,9 @@ footer.kolofon li {
   margin: 0
 }
 footer.kontakt {
-  background: #f0f0f0;
+  background: rgba(200, 200, 200, 1);
+  font-size: 0.8em;
+  opacity: 0.7;
   padding: 0.5em 0 3em 0;
   text-align: center;
 }
@@ -109,6 +118,9 @@ input:focus {
  flex-direction: column;
  justify-content: center;
  align-items: center;
+}
+.hero a {
+  color: white;
 }
 .hero--big {
  min-height: 50vh;
@@ -374,7 +386,7 @@ h2 {
   padding: 0.8rem 1.5rem;
   background: white;
 }
-.box a {
+.box > a {
   color: black;
   text-decoration: none;
 }
@@ -399,6 +411,21 @@ h2 {
   font-size: 1.2em;
   line-height: 1.5;
   max-width: 38rem;
+}
+
+.content ul {
+  margin: 0.5em 0;
+  padding: 0;
+}
+.content li {
+  list-style-type: none;
+  margin-left: 16px;
+  text-indent: -8px;
+}
+.content li:before {
+  content: '–';
+  display: inline-block;
+  width: 8px;
 }
 
 @media only screen and (max-width: 1000px) {
