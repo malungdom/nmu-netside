@@ -1,6 +1,6 @@
 tittel: Norsk Målungdom
 ---
-_model: om-nmu
+_template: organisasjon.html
 ---
 tekst:
 
