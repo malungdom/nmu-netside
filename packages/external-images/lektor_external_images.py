@@ -12,19 +12,22 @@ class ExternalImagesPlugin(Plugin):
 
     def on_setup_env(self):
         config = self.get_config()
-        default_remote = config.get('config.default')
+        default_remote = ''
         content_path = os.path.join(self.env.root_path, 'content')
         for setup, remote_fn in config.iteritems():
-            if setup.startswith('config.'):
-                continue
             out_path, out_fn = setup.split('.', 1)
+            if out_fn == 'default':
+                default_remote = remote_fn;
+                continue
             new_path = os.path.sep.join((content_path, out_path, out_fn))
             new_path = os.path.normpath(new_path)
             if os.path.isfile(new_path):
                 continue
             if not remote_fn:
                 remote_fn = out_fn
-            resource_uri = default_remote + remote_fn
+            resource_uri = remote_fn
+            if 'http' not in resource_uri:
+                resource_uri = default_remote + resource_uri
             print "%s -> %s" % (resource_uri, new_path)
             response = requests.get(resource_uri)
             with open(new_path, 'wb') as fp:
