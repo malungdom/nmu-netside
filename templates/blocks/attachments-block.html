@@ -1,7 +1,9 @@
 <div class="attachments-block {{ this.classes }}">
-  {{ this.description }}
+  {% if this.description %}
+    {{ this.description }}
+  {% endif %}
   <ul>
-  {% for file in record.attachments.documents.filter(F._id.contains(this.filter)).order_by('_id') %}
+  {% for file in record.attachments.documents.filter(F._id.contains(this.filter or '')).order_by('_id') %}
     <li><a href="{{ file|url }}">{{ file._id|replace("_", " ") }}</a> {{ (file.contents.bytes/1024)|round }} KB
   {% endfor %}
   </ul>

@@ -1,0 +1,11 @@
+_model: page-advanced
+---
+tittel: Dokument
+---
+ingress:
+Her finn du ulike dokument. Ikkje eigentleg meint som ei side du skal bruka,
+men gratulerer om du fann ho!
+---
+tekst:
+#### attachments-block ####
+classes: main_article
