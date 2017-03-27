@@ -1,1 +1,6 @@
 env/
+
+# Ikkje vis vedlegg (held dei utanfor Git-repoet)
+*.pdf
+*.jpg
+*.png
