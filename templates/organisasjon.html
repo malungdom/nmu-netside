@@ -10,7 +10,7 @@
     <div class="box kva-meiner-me vmargin hpad">
       <a href={{ child|url }}>
         <h1>{{ child.tittel }}</h1>
-        {{ child.ingress }}
+        {{ child.ingress|striptags }}
       </a>
     </div>
   {% endfor %}
