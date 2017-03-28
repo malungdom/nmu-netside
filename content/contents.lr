@@ -7,7 +7,7 @@ tekst:
 #### hero ####
 body:
 
-<h1>Velkomen til Norsk målungdom</h1>
+<h1>Velkomen til Norsk Målungdom</h1>
 <form class=meld-deg-inn action=/cgi-bin/send.py?_type=innmelding method=POST>
   <h2>Bli medlem! &hearts;</h2>
   <div class=box>
