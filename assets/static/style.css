@@ -376,15 +376,16 @@ h2 {
   flex: 1;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 .box, .big-box {
+  background: white;
   box-shadow: 0 10px 24px -13px rgba(0, 0, 0, 0.5);
   color: #333;
-  margin: 1rem 0 0;
+  margin: 2rem 20px 1rem;
   max-width: 18rem;
+  min-width: 12rem;
   padding: 0.8rem 1.5rem;
-  background: white;
 }
 .box > a {
   color: black;
