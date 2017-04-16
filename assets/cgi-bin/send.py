@@ -18,7 +18,7 @@ SAVEFILE = os.environ.get('SAVEFILE', '/var/tmp/postings.txt')
 
 def save_data(data, realm):
     with open(SAVEFILE, 'a') as f:
-        f.write('# %s\n%s\n' % (realm, json.dumps(data, indent=2)))
+        f.write(json.dumps(data, indent=2))
 
 
 def send_email(data, realm, subject):
@@ -56,12 +56,15 @@ def redirect(location, type_):
 form = cgi.FieldStorage()
 
 _type = form.getfirst('_type', '')
-data = collections.OrderedDict(_meta={
-    'ip': os.environ.get('REMOTE_ADDR'),
-    'lang': os.environ.get('HTTP_ACCEPT_LANGUAGE'),
-    'time': datetime.utcnow().isoformat(),
-    'ua': os.environ.get('HTTP_USER_AGENT')})
+meta = collections.OrderedDict(
+    type=_type,
+    ip=os.environ.get('REMOTE_ADDR'),
+    lang=os.environ.get('HTTP_ACCEPT_LANGUAGE'),
+    time=datetime.utcnow().isoformat(),
+    ua=os.environ.get('HTTP_USER_AGENT'))
+data = collections.OrderedDict(_meta=meta)
 first_value = ''
+# fill in data gotten from form
 for k in form.list:
     if k.name.startswith('_'):
         continue
