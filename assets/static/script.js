@@ -16,6 +16,8 @@ function form_feedback() {
   form.appendChild(msg_div)
   requestAnimationFrame(function() { msg_div.classList.remove('hidden') })
   form.onclick = function() { msg_div.remove() }
+  params.delete('success')
+  history.replaceState(null, '', '?' + params + location.hash)
 }
 
 if (['interactive', 'complete'].includes(document.readyState))
