@@ -191,6 +191,24 @@ input:focus {
  max-width: 38rem;
  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.4);
 }
+.success {
+  background-color: rgba(80, 180, 120, 0.9);
+  border-radius: 2px;
+  color: white;
+  font-size: 1.2em;
+  left: 0;
+  opacity: 1;
+  padding: 1rem;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  transition: opacity 500ms;
+  transition-delay: 300ms;
+  z-index: 3;
+}
+.success.hidden {
+  opacity: 0;
+}
 .meld-deg-inn {
  display: flex;
  flex-direction: column;
