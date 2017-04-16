@@ -18,7 +18,6 @@ function form_feedback() {
   form.onclick = function() { msg_div.remove() }
 }
 
-console.log(document.readyState)
 if (['interactive', 'complete'].includes(document.readyState))
   ready()
 else
