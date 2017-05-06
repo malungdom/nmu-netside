@@ -6,12 +6,12 @@
       {{ this.tekst }}
     </article>
   {% endif %}
-  {% for child in this.children.all() %}
+  {% for child in this.children.all() if not child.oversikt_skjult %}
     <div class=box>
       <a href={{ child|url }}>
         <h1>{{ child.tittel }}</h1>
-        {% if child.ekstern_ingress %}
-          {{ child.ekstern_ingress|striptags }}
+        {% if child.oversikt_ingress %}
+          {{ child.oversikt_ingress|striptags }}
         {% else %}
           {{ child.ingress|striptags }}
         {% endif %}
