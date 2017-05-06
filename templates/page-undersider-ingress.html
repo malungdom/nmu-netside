@@ -7,7 +7,7 @@
     </article>
   {% endif %}
   {% for child in this.children.all() %}
-    <div class="box kva-meiner-me vmargin hpad">
+    <div class=box>
       <a href={{ child|url }}>
         <h1>{{ child.tittel }}</h1>
         {% if child.ekstern_ingress %}

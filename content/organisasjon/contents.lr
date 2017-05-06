@@ -1,6 +1,6 @@
-tittel: Norsk Målungdom
+_template: page-undersider-ingress.html
 ---
-_template: organisasjon.html
+tittel: Norsk Målungdom
 ---
 tekst:
 
