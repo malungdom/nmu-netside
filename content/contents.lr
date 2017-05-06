@@ -2,9 +2,11 @@ _model: framside
 ---
 tittel: Velkomen til Norsk Målungdom
 ---
-tekst:
+ingress:
 
 #### hero ####
+bilete: heia-snjo.jpg
+----
 body:
 
 <h1>Velkomen til Norsk Målungdom</h1>
@@ -23,5 +25,59 @@ body:
   </div>
   <input class=submit type=submit value="Send inn">
 </form>
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Kven er me?
+======
+Me er ein landsdekkjande ungdomsorganisasjon som jobbar for nynorsk, dialektar og språkmangfald.
+
+Me arbeider for at alle skal ha høve og rett til å skrive nynorsk, for å take vare på det språklege mangfaldet og å styrkje dei språklege rettane.
+
+Dette inneber at nynorskbrukarar får bli møtt av språket sitt i media, skulekvardagen og elles i samfunnet og at ein skal kunne bruke dialekten sin der ein vil.
+
+Me meiner òg at det norske samfunnet har eit ansvar for at brukarar av kvensk, dei samiske språka og andre minoritetsspråk skal respekterast og bli støtta opp om.
 ----
-bilete: heia-snjo.jpg
+class: box
+#### text-block ####
+content:
+
+Kva meiner me?
+=====
+
+Språk i skulen
+--------
+Me arbeider for å betre undervisninga i nynorsk både som hovudmål og sidemål.
+
+Nynorsk i media
+-------
+Nynorsk er forbode i mange riksdekkjande medie. Dette kjem ingen til gode.
+
+Språklege rettar
+--------
+Me må ha eit lovverk som står stør opp om det språklege mangfaldet.
+----
+class: box
+#### text-block ####
+content:
+
+Kva gjer me?
+============
+
+Målferd
+----------
+Kvart år vitjar me over 60 skular og held føredrag om nynorsk, norsk målsoge og haldningar til språk.
+
+Påverknad
+----------------
+Me arbeider tett med politiske organisasjonar og styringsorgan slik at dei fattar fornuftige vedtak om språk.
+
+Organisasjon
+--------
+Me er over 1200 medlemar og har lokallag over heile landet. Alle skal få bidra, læra noko og ha det moro.
+----
+class: box
