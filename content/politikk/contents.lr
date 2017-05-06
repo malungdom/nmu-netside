@@ -1,8 +1,41 @@
 tittel: Politikk
 ---
-_model: politikk
+_model: page-advanced
 ---
 ingress:
 
 Her finn du tufta vår og dei politiske programma våre. I tillegg kan
 du lese fråsegner vedtekne av landsmøta og landsstyret.
+---
+tekst:
+
+#### text-block ####
+content:
+
+Tufta
+====
+Tufta er det politiske grunnlagsdokumentet for Norsk Målungdom, og dimed utgangspunktet for all politikken vår. Tilsvarer det somme andre organisasjonar kallar «prinsipprogram», «manifest», og liknande.
+
+[Les tufta her](tufta/).
+----
+class: box
+#### subpage-block ####
+description:
+
+Program
+====
+Dei politiske programma legg grunnlaget for organisasjonen. Programma seier noko om kva me meiner i ulike politiske spørsmål.
+----
+for_underside: program
+----
+classes: box
+#### subpage-block ####
+description:
+
+Fråsegner
+====
+Landsmøta og landsstyret vedtek kvart år fråsegner om aktuelle målpolitiske tema. Me legg dei ut på nettsida etter kvart som dei blir reinskrive.
+----
+for_underside: fraasegner
+----
+classes: box
