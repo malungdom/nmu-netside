@@ -1,6 +1,11 @@
+_model: fraasegner
+---
 tittel: Fråsegner
 ---
-_model: fraasegner
+ingress:
+Landsmøta og landsstyret vedtek kvart år fråsegner om aktuelle
+målpolitiske tema. Me legg dei ut på nettsida etter kvart som dei
+blir reinskrive.
 ---
 tekst:
 

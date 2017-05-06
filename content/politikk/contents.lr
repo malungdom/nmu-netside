@@ -20,22 +20,15 @@ Tufta er det politiske grunnlagsdokumentet for Norsk Målungdom, og dimed utgang
 ----
 class: box
 #### subpage-block ####
-description:
-
-Program
-====
-Dei politiske programma legg grunnlaget for organisasjonen. Programma seier noko om kva me meiner i ulike politiske spørsmål.
-----
 for_underside: program
 ----
 classes: box
 #### subpage-block ####
-description:
-
-Fråsegner
-====
-Landsmøta og landsstyret vedtek kvart år fråsegner om aktuelle målpolitiske tema. Me legg dei ut på nettsida etter kvart som dei blir reinskrive.
-----
 for_underside: fraasegner
+----
+classes: box
+
+#### subpage-block ####
+for_underside: styringsdokument
 ----
 classes: box

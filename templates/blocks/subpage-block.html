@@ -1,13 +1,12 @@
 <div class="subpage-block {{ this.classes }}">
+  {% set page = record.children.get(this.for_underside) if this.for_underside else record %}
   {% if this.description %}
     {{ this.description }}
+  {% elif this.for_underside %}
+    <h1>{{ page.tittel }}</h1>
+    {{ page.oversikt_ingress or page.ingress }}
   {% endif %}
   <ul>
-  {% if this.for_underside %}
-     {% set page = record.children.get(this.for_underside) %}
-  {% else %}
-     {% set page = record %}
-  {% endif %}
   {% for subpage in page.children.all() %}
     <li><a href="{{ subpage|url }}">{{ subpage.tittel }}</a>
   {% endfor %}
