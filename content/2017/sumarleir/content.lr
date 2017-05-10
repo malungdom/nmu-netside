@@ -1,0 +1,67 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @kirstilunde
+
+1
+1
+
+    0
+
+odinho/nmu-netside
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Pulse
+Graphs
+nmu-netside/content/2017/landsmote/contents.lr
+5e52a98 on 27 Mar
+@odinho odinho Legg til styringsdokument, og flytt lovene
+106 lines (84 sloc) 2.91 KB
+_model: page-advanced
+---
+tittel: Sumarleir 2017
+---
+ingress:
+
+4. til 9. juli er det klar for årets sumarleir! Språkpolitikk, fotballkurs, bading, gode ordskifte og kjekke folk ventar deg!
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Påmelding
+=========
+Me gler oss til å sjå deg på leiren! Meld deg på fyrst som sist her:
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+**Kvar**: Ein ukjent, men solrik og sumarleg stad på Austlandet
+
+**Når**: 4. til 9. juli. 
+
+**Reisedekking**: Me kostar reisa for alle som kjem på leiren. 
+
+Reiseruter
+---------------
+Lurer du på korleis du skal kome deg til sumarleiren? Her finn du eit
+oversyn over korleis ein [lettast mogleg kjem seg til leiren](reiseruter/).
+----
+
+    Contact GitHub API Training Shop Blog About 
+
+    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
+
