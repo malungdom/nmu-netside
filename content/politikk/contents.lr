@@ -17,6 +17,8 @@ classes: box
 #### subpage-block ####
 for_underside: fraasegner
 ----
+maks: 5
+----
 classes: box
 
 #### text-block ####
