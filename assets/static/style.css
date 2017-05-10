@@ -422,7 +422,8 @@ h2 {
   text-transform: uppercase;
 
 }
-.box p:first-of-type {
+.box h1 + p, .box h2 + p, .box h3 + p {
+  /* Unngå mellomrom framfor fyrste paragraf etter overskrift */
   margin-top: 0;
 }
 
