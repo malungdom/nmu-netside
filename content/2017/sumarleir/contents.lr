@@ -4,7 +4,7 @@ tittel: Sumarleir 2017
 ---
 ingress:
 
-4. til 9. juli er det klar for årets sumarleir! Språkpolitikk, fotballkurs, bading, gode ordskifte og kjekke folk ventar deg. Bli med!
+4\. til 9. juli er det klar for årets sumarleir! Språkpolitikk, fotballkurs, bading, gode ordskifte og kjekke folk ventar deg. Bli med!
 
 ---
 tekst:
@@ -15,8 +15,25 @@ content:
 Påmelding
 =========
 Me gler oss til å sjå deg på leiren! Meld deg på fyrst som sist her:
+
+<form method="POST" action="/cgi-bin/send.py?_type=sumarleir"
+  data-type="sumarleir" data-success="Innsendt! Me gler oss!">
+  <label>Namn <input type="email" name="namn"></label>
+  <label>Addresse <input type="email" name="adresse"></label>
+  <label>Postnr <input type="email" name="postnr"></label>
+  <label>Telefonnr <input type="email" name="tlfnr"></label>
+  <label>Fødeår <input type="number" name="fodear"></label>
+  <label>Namn og nummer på pårørande <input name="parorande"></label>
+  <label>Epost <input type="email" name="epost"></label>
+  <label>
+    Matallergiar? Andre ting me bør vite om?
+    <textarea name="fritekst" rows=3 required></textarea>
+  </label>
+  <input type="submit" value="Meld deg på!">
+</form>
 ----
 class: box
+
 #### text-block ####
 content:
 
@@ -24,17 +41,12 @@ Praktisk
 =======
 **Kvar**: Ein ukjent, men solrik og sumarleg stad på Austlandet
 
-**Når**: 4. til 9. juli. 
+**Når**: 4. til 9. juli.
 
-**Reisedekking**: Me kostar reisa for alle som kjem på leiren. 
+**Reisedekking**: Me kostar reisa for alle som kjem på leiren.
 
 Reiseruter
 ---------------
 Lurer du på korleis du skal kome deg til sumarleiren? Her finn du eit
 oversyn over korleis ein [lettast mogleg kjem seg til leiren](reiseruter/).
 ----
-
-    Contact GitHub API Training Shop Blog About 
-
-    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
-
