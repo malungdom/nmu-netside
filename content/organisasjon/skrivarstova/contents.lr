@@ -20,3 +20,18 @@ Postboks 285 Sentrum<br>
 ## Vitjingsadresse
 Lilletorget 1<br>
 0184 Oslo
+
+# Kontakt oss
+
+<form method="POST" action="/cgi-bin/send.py?_type=kontakt"
+  data-type="kontakt" data-success="Innsendt!">
+  <label>
+    Fritt felt <small>(hugs namn/anna informasjon)</small>
+    <textarea name="fritekst" rows=3 required></textarea>
+  </label>
+  <label>
+    Eposten din
+    <input type="email" name="epost">
+  </label>
+  <input type="submit" value="Send inn">
+</form>

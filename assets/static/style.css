@@ -17,10 +17,28 @@ a {
 a:hover {
   color: rgba(50, 200, 240, 1);
 }
-input {
- box-shadow: 0 0 0 rgba(0, 0, 0, 0);
- transition: 100ms box-shadow;
- border-radius: 2px;
+form {
+  display: flex;
+  flex-wrap: wrap;
+}
+label {
+  display: block;
+  width: 100%;
+}
+input, textarea {
+  border-radius: 2px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+  box-sizing: border-box;
+  font-size: 20px;
+  margin: 0.5rem 0;
+  padding: 10px;
+  transition: 100ms box-shadow;
+  width: 100%;
+}
+input[type=submit] {
+  margin-left: auto;
+  padding: 10px 20px;
+  width: auto;
 }
 main {
  background-color: rgba(0, 102, 128, 0.03);
@@ -231,11 +249,8 @@ input:focus {
  background: transparent;
  border-top: 1px solid rgb(245, 245, 245);
  border: none;
- box-sizing: border-box;
- font-size: 20px;
+ margin: 0;
  outline: none;
- padding: 10px;
- width: 100%;
 }
 .meld-deg-inn input:first-of-type {
   border-top: none;
