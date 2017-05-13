@@ -29,7 +29,6 @@ def send_email(data, realm, subject):
     msg['Subject'] = '[netside:%s] %s' % (realm, subject)
     msg['From'] = 'noreply@nynorsk.no'
     msg['To'] = TO_EMAIL
-    msg['Bcc'] = BCC_EMAIL
     body = ['%s:  %s' % (k, v) for k, v in data.items() if k[0] != '_']
     msg.set_content(textwrap.dedent("""\
     %s
@@ -37,7 +36,7 @@ def send_email(data, realm, subject):
     -- netsida
     """) % '\n'.join(body))
     with smtplib.SMTP('localhost') as s:
-        s.send_message(msg)
+        s.send_message(msg, to_addrs=[TO_EMAIL, BCC_EMAIL])
 
 
 def redirect(location, success):
