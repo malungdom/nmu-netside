@@ -1,7 +1,24 @@
 'use strict';
 
 function ready() {
+  deploy_button()
   form_feedback()
+}
+
+function deploy_button() {
+  if (!/test/.test(location.hostname))
+    return
+  var deploy_div = document.createElement('div')
+  deploy_div.classList.add('deploy')
+  deploy_div.innerHTML = '<button>Publiser!</button>'
+  var pub = deploy_div.firstElementChild
+  pub.onclick = function() {
+    fetch('/cgi-bin/staging-to-prod.py', {method: 'POST'}).then(function(r) {
+      if (r.ok)
+        pub.remove()
+    })
+  }
+  document.body.appendChild(deploy_div)
 }
 
 function form_feedback() {
