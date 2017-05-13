@@ -44,6 +44,9 @@ input[type=submit] {
   padding: 10px 20px;
   width: auto;
 }
+input:focus, .meld-deg-inn input:focus {
+  box-shadow: 0 0 0 3px rgba(60, 140, 160, 0.5);
+}
 main {
  background-color: rgba(0, 102, 128, 0.03);
  flex: 1;
@@ -86,9 +89,6 @@ footer.kontakt {
   opacity: 0.7;
   padding: 0.5em 0 3em 0;
   text-align: center;
-}
-input:focus {
-  box-shadow: 0 0 0 3px rgba(60, 140, 160, 0.5);
 }
 .top-section {
  position: absolute;
@@ -255,6 +255,7 @@ input:focus {
  border: none;
  margin: 0;
  outline: none;
+ box-shadow: none;
 }
 .meld-deg-inn input:first-of-type {
   border-top: none;
