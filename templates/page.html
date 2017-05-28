@@ -3,9 +3,18 @@
 {% block body %}
   <section class="hero">
     <div class=hero-bg>
-      <!--
-      <video src=https://d11sa1anfvm2xk.cloudfront.net/newyear/homepage.webm autoplay loop></video>
-      -->
+      {% if this.toppbilete %}
+        {% set bilete = this.attachments.get(this.toppbilete) %}
+      {% else %}
+        {% set bilete = this.attachments.images.first() %}
+      {% endif %}
+      {% if bilete %}
+        <img src="{{ bilete.thumbnail(1280)|url }}" style="opacity:0.01"
+            onload="this.style.opacity=1">
+        <!--
+        <video src=https://d11sa1anfvm2xk.cloudfront.net/newyear/homepage.webm autoplay loop></video>
+        -->
+      {% endif %}
     </div>
     <div class=hero-content>
       <h1>{{ this.tittel }}</h1>
