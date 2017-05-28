@@ -460,12 +460,11 @@ h2 {
 .content li {
   list-style-type: none;
   margin-left: 16px;
-  text-indent: -8px;
 }
 .content li:before {
   content: '–';
-  display: inline-block;
-  width: 8px;
+  float: left;
+  margin-left: -16px;
 }
 
 .deploy {
