@@ -18,15 +18,15 @@ Me gler oss til å sjå deg på leiren! Meld deg på fyrst som sist her:
 
 <form method="POST" action="/cgi-bin/send.py?_type=sumarleir"
   data-type="sumarleir" data-success="Innsendt! Me gler oss!">
-  <label>Namn <input type="email" name="namn"></label>
-  <label>Addresse <input type="email" name="adresse"></label>
-  <label>Postnr <input type="email" name="postnr"></label>
-  <label>Telefonnr <input type="email" name="tlfnr"></label>
-  <label>Fødeår <input type="number" name="fodear"></label>
+  <label>Namn <input name="namn"></label>
+  <label>Addresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr"></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear"></label>
   <label>Namn og nummer på pårørande <input name="parorande"></label>
   <label>Epost <input type="email" name="epost"></label>
   <label>
-    Matallergiar? Andre ting me bør vite om?
+    Matallergiar? Vegetarianar? Andre ting me bør vite om?
     <textarea name="fritekst" rows=3 required></textarea>
   </label>
   <input type="submit" value="Meld deg på!">
