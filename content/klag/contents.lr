@@ -2,8 +2,8 @@ tittel: Klageportalen
 ---
 ingress:
 Viss du ikkje fekk oppgåva di på nynorsk, eller meiner at språket var for
-dårleg i oppgåva kan du klaga. Vi har laga eit skjema slik at du kan melde inn
-klaga til oss. Vi tar saka for deg, og du vil vera heilt anonym.
+dårleg i oppgåva kan du klaga. Vi har laga eit [skjema slik at du kan melde inn
+klaga til oss](#skjema). Vi tar saka for deg, og du vil vera heilt anonym.
 ---
 tekst:
 Studentar ved universitet og høgskular har krav på å få eksamen på nynorsk.
@@ -74,12 +74,6 @@ Lovdata](https://lovdata.no/dokument/SF/forskrift/1987-07-07-4148)
 Mållova seier du har rett til å klaga: [Mållova hjå
 Lovdata](https://lovdata.no/dokument/NL/lov/1980-04-11-5)
 
-Send inn ei klage
-=================
-Viss du ikkje fekk oppgåva di på nynorsk, eller meiner at språket var for
-dårleg i oppgåva kan du klaga. Vi har laga eit skjema slik at du kan melde inn
-klaga til oss. Vi tar saka for deg, og du vil vera heilt anonym. Les meir »
-
 Dette kan du klaga på
 =====================
 - Skuleeksamen (eksamenar der du sit på studiestaden din og løyser oppgåver –
@@ -108,7 +102,7 @@ Når vi har motteke klaga di gjer vi slik:
 <h2 id="skjema">Klageskjema</h2>
 
 <form method="POST" action="/cgi-bin/send.py?_type=klage"
-  data-type="sumarleir" data-success="Klaga innsendt, du høyrer frå oss.">
+  data-type="klage" data-success="Klaga innsendt, du høyrer frå oss.">
   <label>Namnet ditt (Du vil vera anynom i klaga) <input name="namn" required></label>
   <label>Epostadressa di (Slik at vi kan kontakte deg) <input type="email" name="epost" required></label>
   <label>Utdanningsstad <input name="utdanningsstad"></label>
