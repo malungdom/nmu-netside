@@ -3,20 +3,30 @@ import cgi
 import collections
 import json
 import os
+import pprint
 import re
 import smtplib
+import sys
 import textwrap
 from datetime import datetime
 from email.message import EmailMessage
 from urllib.parse import urlsplit
 
 
-TO_EMAIL = os.environ['TO_EMAIL']
+DEBUG = os.environ.get('DEBUG')
+TO_EMAIL = os.environ.get('TO_EMAIL')
 BCC_EMAIL = os.environ.get('BCC_EMAIL')
 SAVEFILE = os.environ.get('SAVEFILE', '/var/tmp/postings.txt')
+if not DEBUG and not TO_EMAIL:
+    raise Exception('Must set DEBUG or TO_EMAIL')
+
+
+def stderr(msg):
+    pprint.pprint(msg, stream=sys.stderr)
 
 
 def save_data(data, realm):
+    stderr(data)
     with open(SAVEFILE, 'a') as f:
         f.write(json.dumps(data, indent=2))
 
@@ -35,6 +45,9 @@ def send_email(data, realm, subject):
 
     -- netsida
     """) % '\n'.join(body))
+    if DEBUG:
+        stderr(msg.as_string())
+        return
     with smtplib.SMTP('localhost') as s:
         s.send_message(msg, to_addrs=[TO_EMAIL, BCC_EMAIL])
 
@@ -46,9 +59,9 @@ def redirect(location, success):
     if success:
         location += '?success=%s' % success
     print(textwrap.dedent('''\
-        Location: %s
+        Location: {loc}
 
-        Redir.''') % location)
+        Redir to: {loc}''').format(loc=location))
 
 
 # import cgitb; cgitb.enable()
@@ -71,6 +84,7 @@ for k in form.list:
     if not first_value:
         first_value = data[k.name]
 
+subject = first_value.splitlines()[0] or ''
 save_data(data, _type)
-send_email(data, _type, first_value)
+send_email(data, _type, subject[:64])
 redirect(form.getfirst('_next', ''), _type)
