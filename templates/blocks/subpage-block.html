@@ -3,13 +3,13 @@
   {% if this.description %}
     {{ this.description }}
   {% elif this.for_underside %}
-    <h1>{{ page.tittel }}</h1>
+    <h1>{{ page.oversikt_tittel or page.tittel }}</h1>
     {{ page.oversikt_ingress or page.ingress }}
   {% endif %}
   {% set children = page.children.filter(F.oversikt_skjult != True) %}
   <ul>
     {% for subpage in children.limit(this.maks or 10000) %}
-      <li><a href="{{ subpage|url }}">{{ subpage.tittel }}</a>
+      <li><a href="{{ subpage|url }}">{{ subpage.oversikt_tittel or subpage.tittel }}</a>
     {% endfor %}
   </ul>
   {% if this.maks and children.count() > this.maks %}

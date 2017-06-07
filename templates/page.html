@@ -38,7 +38,7 @@
           <h1>Undersider</h1>
           <ul>
           {% for child in this.children.filter(F.oversikt_skjult != True) %}
-            <li><a href="{{ child|url }}">{{ child.tittel }}</a>
+            <li><a href="{{ child|url }}">{{ child.oversikt_tittel or child.tittel }}</a>
           {% endfor %}
           </ul>
         </article>
