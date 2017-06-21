@@ -171,6 +171,8 @@ footer.kontakt {
  width: 100%;
  transition: opacity 1s;
 }
+.hero .top { object-position: top; }
+.hero .bottom { object-position: bottom; }
 .hero-bg::before {
   content: '';
   display: block;

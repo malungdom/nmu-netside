@@ -10,7 +10,7 @@
       {% endif %}
       {% if bilete %}
         <img src="{{ bilete.thumbnail(1280)|url }}" style="opacity:0.01"
-            onload="this.style.opacity=1">
+            class="{{ bilete.classes }}" onload="this.style.opacity=1">
         <!--
         <video src=https://d11sa1anfvm2xk.cloudfront.net/newyear/homepage.webm autoplay loop></video>
         -->
