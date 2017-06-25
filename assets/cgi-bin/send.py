@@ -84,7 +84,7 @@ for k in form.list:
     if not first_value:
         first_value = data[k.name]
 
-subject = first_value.splitlines()[0] or ''
 save_data(data, _type)
+subject = first_value and first_value.splitlines()[0] or ''
 send_email(data, _type, subject[:64])
 redirect(form.getfirst('_next', ''), _type)
