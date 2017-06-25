@@ -1,5 +1,6 @@
 [project]
 name = Norsk Målungdom
+url_style = absolute
 
 [servers.production]
 name = Production
