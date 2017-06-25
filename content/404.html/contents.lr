@@ -1,8 +1,10 @@
+_template: 404.html
+---
 tittel: Fann ikkje denne sida (404)
 ---
 tekst:
 
 Diverre finst ikkje denne sida.  Dersom du meiner ho burde vera her, kan du
-ta kontakt med oss på epost eller på anna måte.
+ta [kontakt med oss](/kontakt).
 
 Orsak :(

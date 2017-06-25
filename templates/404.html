@@ -1,0 +1,14 @@
+{% extends "page.html" %}
+
+{% block main_article %}
+  {{ super() }}
+  <hr>
+  <p>Kanhenda sida finst på den gamle netsida?
+    <a href=http://2017.malungdom.no id=link>2017.malungdom.no</a>
+  <script>
+    var l = document.getElementById('link');
+    var n = '2017.malungdom.no' + location.pathname;
+    l.href = 'http://' + n;
+    l.textContent = n;
+  </script>
+{% endblock %}
