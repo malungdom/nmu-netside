@@ -37,7 +37,7 @@ def send_email(data, realm, subject):
         return
     msg = EmailMessage()
     msg['Subject'] = '[netside:%s] %s' % (realm, subject)
-    msg['From'] = 'noreply@nynorsk.no'
+    msg['From'] = 'noreply@fosse.nynorsk.no'
     msg['To'] = TO_EMAIL
     body = ['%s:  %s' % (k, v) for k, v in data.items() if k[0] != '_']
     msg.set_content(textwrap.dedent("""\
