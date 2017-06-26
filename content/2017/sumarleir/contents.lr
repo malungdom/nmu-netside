@@ -33,7 +33,6 @@ Me gler oss til å sjå deg på leiren! Meld deg på fyrst som sist her:
 </form>
 ----
 class: box
-
 #### text-block ####
 content:
 
@@ -71,3 +70,12 @@ Difor har me laga eit [informasjonsskriv til
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 dei kan kjenne seg tryggare.
 ----
+class: box
+#### image-block ####
+image: program.png
+----
+description: Programmet for sumarleiren.
+----
+class: big-box
+---
+toppbilete: sumarleir.jpg
