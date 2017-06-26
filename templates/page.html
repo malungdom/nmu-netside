@@ -34,12 +34,12 @@
         {% endblock %}
       </article>
 
-      {% set children = this.children.all() %}
+      {% set children = this.children.filter(F.oversikt_skjult != True) %}
       {% if children %}
         <article class="box">
           <h1>Undersider</h1>
           <ul>
-          {% for child in this.children.filter(F.oversikt_skjult != True) %}
+          {% for child in children %}
             <li><a href="{{ child|url }}">{{ child.oversikt_tittel or child.tittel }}</a>
           {% endfor %}
           </ul>

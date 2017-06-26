@@ -1,3 +1,5 @@
 _model: redirect
 ---
 target: http://2017.malungdom.no/nynorsk/dialekt/dialektprisen/
+---
+_hidden: yes

@@ -1,3 +1,5 @@
 _model: redirect
 ---
 target: http://2017.malungdom.no/presse/pressemeldingar/
+---
+_hidden: yes
