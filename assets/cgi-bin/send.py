@@ -45,6 +45,9 @@ def send_email(data, realm, subject):
 
     -- netsida
     """) % '\n'.join(body))
+    from_email = data.get('epost', data.get('email'))
+    if from_email:
+        msg['Reply-To'] = from_email
     if DEBUG:
         stderr(msg.as_string())
         return
