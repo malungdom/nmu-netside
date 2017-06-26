@@ -27,7 +27,7 @@
   src: local('Source Sans Pro Italic'), local('SourceSansPro-Italic'), url(fonts/SourceSansPro-Italic.ttf);
 }
 body {
- font-family: "Source Sans Pro";
+ font-family: "Source Sans Pro", Arial, sans-serif;
  font-size: 12pt;
  font-weight: 400;
  margin: 0;
