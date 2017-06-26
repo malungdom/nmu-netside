@@ -4,14 +4,19 @@
 {% block tittel %}{{ this.tittel }}{% endblock %}
 {% block content %}
   <article class="main-article box">
-    {{ this.tittel }}
     {{ this.tekst }}
     {% for child in this.children %}
       {#{ render_blog_post(child, from_index=true) }#}
       <a href={{ child|url }}>
         <h1>{{ child.tittel }}</h1>
-        <div class=avsendar>{{ child.avsendar }}</div>
       </a>
+      {% if child.publiseringsdato %}
+        <div class=publiseringsdato>{{ child.publiseringsdato }}</div>
+      {% endif %}
+      {% if child.avsendar %}
+        <div class=avsendar>({{ child.avsendar }})</div>
+      {% endif %}
+      {{ child.oversikt_ingress }}
     {% endfor %}
   </article>
 

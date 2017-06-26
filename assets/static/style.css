@@ -469,6 +469,9 @@ h2 {
   margin-left: -16px;
 }
 
+.publiseringsdato, .avsendar { display: inline-block; }
+.publiseringsdato + *, .avsendar + * { display: inline; }
+
 .deploy {
   position: fixed;
   bottom: 20px;

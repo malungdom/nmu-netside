@@ -19,7 +19,9 @@
     <div class=hero-content>
       <h1>{{ this.tittel }}</h1>
       <div class=hero-summary>
-        {{ this.ingress }}
+        {% block hero_summary %}
+          {{ this.ingress }}
+        {% endblock %}
       </div>
     </div>
   </section>
