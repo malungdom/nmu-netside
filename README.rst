@@ -7,13 +7,14 @@ statiske sidegeneratoren Lektor.
 Lokal installasjon og oppsett
 -----------------------------
 
-.. highlight:: console
-
-Dersom du brukar Windows, kan du fylgja ein `videogaid for oppsett`_. Resten
-går ut i frå at du brukar Linux.
+Windows
+~~~~~
+Dersom du brukar Windows, kan du fylgja ein `videogaid for oppsett`_.
 
 .. _`videogaid for oppsett`: https://www.youtube.com/watch?v=7TuBEDSeXRk
 
+Linux (+ OS X)
+~~~~~
 Du må ha Python installert. Du kan installera lektor til din eigen maskin ved
 hjelp av `pip`. For å ikkje installera lektor på heile maskina kan du bruka
 virtualenv for å laga deg ein eige Python-miljø berre for lektor::
