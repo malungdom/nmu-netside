@@ -147,6 +147,7 @@ footer.kontakt {
  background-size: contain;
  display: block;
  height: 100%;
+ margin-right: 32px;
  max-width: 325px;
  text-indent: -9000em;
 }
@@ -525,7 +526,7 @@ h2 {
     /* position: fixed; */
   }
   .main-nav .items {
-    background: blue;
+    background-color: rgb(0, 102, 128);
     bottom: 0;
     display: none;
     flex-direction: column;
