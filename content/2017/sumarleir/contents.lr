@@ -14,23 +14,8 @@ content:
 
 Påmelding
 =========
-Me gler oss til å sjå deg på leiren! Meld deg på fyrst som sist her:
-
-<form method="POST" action="/cgi-bin/send.py?_type=sumarleir"
-  data-type="sumarleir" data-success="Innsendt! Me gler oss!">
-  <label>Namn <input name="namn" required></label>
-  <label>Addresse <input name="adresse"></label>
-  <label>Postnr <input name="postnr" required></label>
-  <label>Telefonnr <input name="tlfnr"></label>
-  <label>Fødeår <input name="fodear" required></label>
-  <label>Namn og nummer på pårørande <input name="parorande"></label>
-  <label>Epost <input type="email" name="epost" required></label>
-  <label>
-    Matallergiar? Vegetarianar? Andre ting me bør vite om?
-    <textarea name="fritekst" rows=3></textarea>
-  </label>
-  <input type="submit" value="Meld deg på!">
-</form>
+Leien er over. So det gjev ikkje meining å melda deg på lengre. Kom på neste
+sumarleir i 2018!
 ----
 class: box
 #### text-block ####
