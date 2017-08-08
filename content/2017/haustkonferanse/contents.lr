@@ -1,0 +1,71 @@
+_model: page-advanced
+---
+tittel: Haustkonferanse 2017
+---
+ingress:
+
+Knus nynorskmytene!
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Påmelding
+=========
+<form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
+  data-type="haustkonferanse" data-success="Innsendt! Me gler oss!">
+  <label>Namn <input name="namn" required></label>
+  <label>Addresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Namn og nummer på pårørande <input name="parorande"></label>
+  <label>Epost <input type="email" name="epost" required></label>
+  <label>
+    Matallergiar? Vegetarianar? Andre ting me bør vite om?
+    <textarea name="fritekst" rows=3></textarea>
+  </label>
+  <input type="submit" value="Meld deg på!">
+</form>
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+Tørre fakta
+-----------
+**Kvar**: Buskerud
+
+**Når**: 29. september til 1. oktober
+
+**Pris**: Pris kjem
+
+**Reisedekking**: Me kostar reisa for alle som kjem på leiren.
+
+**Pakkeliste**:
+- sovepose
+- liggjeunderlag/luftmadrass
+- toalettsaker
+- handkle
+
+Reiseruter
+----------
+Lurer du på korleis du skal kome deg til sumarleiren? Her finn du eit
+oversyn over korleis ein [lettast mogleg kjem seg til leiren](reiseruter/).
+
+Informasjon til føresette
+=========================
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+Difor har me laga eit [informasjonsskriv til
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+dei kan kjenne seg tryggare.
+----
+class: box
+---
+toppbilete: haust.jpg
+---
+oversikt_tittel: Haustkonferanse
