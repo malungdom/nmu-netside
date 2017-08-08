@@ -4,3 +4,4 @@ env/
 *.pdf
 *.jpg
 *.png
+.DS_Store
