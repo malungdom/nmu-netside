@@ -1,0 +1,59 @@
+_model: page-advanced
+---
+tittel: Haustkonferanse 2017
+---
+ingress:
+
+Det blir haustkonferanse!
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Påmelding
+=========
+Kjem snart
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+Tørre fakta
+-----------
+**Kvar**: Hanstad barne- og ungdomsskule i Elverum
+
+**Når**: 4. til 9. juli.
+
+**Pris**: Leiren kostar 700 kr, men berre 600 kr dersom du betaler før 4. juli.
+
+**Reisedekking**: Me kostar reisa for alle som kjem på leiren.
+
+**Pakkeliste**:
+- sovepose
+- liggjeunderlag/luftmadrass
+- toalettsaker
+- handkle
+- passande klede til morgonyoga og fotballturnering
+- passande finklede til festen på laurdag
+- badetøy dersom du vil bade
+- gitar, ei sekkepipe eller eit anna instrument til melodikappleiken
+
+Reiseruter
+----------
+Lurer du på korleis du skal kome deg til sumarleiren? Her finn du eit
+oversyn over korleis ein [lettast mogleg kjem seg til leiren](reiseruter/).
+
+Informasjon til føresette
+=========================
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+Difor har me laga eit [informasjonsskriv til
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+dei kan kjenne seg tryggare.
+----
+class: box
+---
+toppbilete: folk.jpg
