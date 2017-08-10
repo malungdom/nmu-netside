@@ -477,6 +477,10 @@ h2 {
   /* Unngå mellomrom framfor fyrste paragraf etter overskrift */
   margin-top: 0;
 }
+.full {
+  width: 100%;
+  display: block;
+}
 
 .main-article, .big-box  {
   font-size: 1.2em;

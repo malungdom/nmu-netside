@@ -1,0 +1,106 @@
+_model: page-advanced
+---
+tittel: Vervekampanje 2017
+---
+ingress: Verv folk!
+---
+tekst:
+
+#### text-block ####
+content:
+
+<style>
+.meter {
+  border: 0;
+  height: 35px;
+  width: calc(100% - 40px);
+  padding: 0 20px;
+}
+</style>
+<iframe class="meter" src="https://medlem.nynorsk.no/stats/vervometer/"></iframe>
+----
+class: full
+#### text-block ####
+content:
+Gjer ein skilnad for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk og meir nynorsk i kvardagen.
+
+Vervometer til 1000
+=============
+Over ser du vervometeret, der me har eit mål om å koma til 1000.
+
+Lokallagskonkurranse
+=============
+I år vert det også konkurranse mellom lokallaga. Studentmållaga kjempar om den gjæve vandregralen, medan dei andre lokallaga konkurrerer om fleire flotte premiar.
+
+Det vert premie til dei tre laga som vervar flest.
+
+- **1\. premie**: gratis vinterleir for medlemene i laget og oppslag i Motmæle
+- **2\. premie**: pizzakveld med besøk av sentralstyret
+- **3\. premie**: vaffeljarn
+
+Både lokallaga og studentmållaga får utteljing for kvar ny medlem som vert verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget ditt i kampen mot dei andre lokallaga eller studentmållaga.
+
+<small>Eit døme: 24. august vervar Ivar Aasen, medlem i Ørsta
+Elevmållag, Hulda Garborg på stand på storefri. Ivar oppmodar Hulda
+til å melde seg inn med SMS. Ho finn fram mobilen og sender «NMU100
+Hulda Garborg+1862+huldagarborg@nynorsk.no+Ivar Aasen» til 2090. Denne
+vervinga gjev utteljing både til Ørsta Elevmållag og Ivar
+sjølv.</small>
+----
+class: big-box
+#### text-block ####
+content:
+
+Registrer verving
+================
+<form method="POST" action="/cgi-bin/send.py?_type=verving"
+  data-type="haustkonferanse" data-success="Tusen takk for veringa!">
+  <label>Vervar-namn <input name="vervarnamn" required></label>
+  <label>Namn <input name="namn" required></label>
+  <label>Addresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Epost <input type="email" name="epost"></label>
+  <input type="submit" value="Registrer!">
+</form>
+----
+class: box
+#### text-block ####
+content:
+
+Vervetoppen
+========
+
+<style>
+.toppen {
+  border: 0;
+  width: 100%;
+  height: 500px;
+}
+</style>
+<iframe class="toppen" src="https://medlem.nynorsk.no/stats/vervetopp/"></iframe>
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+Tørre fakta
+-----------
+**Kvar**: Buskerud
+
+**Når**: 29. september til 1. oktober
+
+**Pris**: Pris kjem
+
+**Reisedekking**: Me kostar reisa for alle som kjem på leiren.
+
+**Pakkeliste**:
+- sovepose
+- liggjeunderlag/luftmadrass
+- toalettsaker
+- handkle
+----
+class: box
