@@ -30,7 +30,9 @@ Over ser du vervometeret, der me har eit mål om å koma til 1000.
 
 Lokallagskonkurranse
 =============
-I år vert det også konkurranse mellom lokallaga. Studentmållaga kjempar om den gjæve vandregralen, medan dei andre lokallaga konkurrerer om fleire flotte premiar.
+I år vert det også konkurranse mellom lokallaga. Studentmållaga kjempar om den
+gjæve vandregralen, medan dei andre lokallaga konkurrerer om fleire flotte
+premiar.
 
 Det vert premie til dei tre laga som vervar flest.
 
@@ -38,7 +40,10 @@ Det vert premie til dei tre laga som vervar flest.
 - **2\. premie**: pizzakveld med besøk av sentralstyret
 - **3\. premie**: vaffeljarn
 
-Både lokallaga og studentmållaga får utteljing for kvar ny medlem som vert verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget ditt i kampen mot dei andre lokallaga eller studentmållaga.
+Både lokallaga og studentmållaga får utteljing for kvar ny medlem som vert
+verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
+deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
+ditt i kampen mot dei andre lokallaga eller studentmållaga.
 
 <small>Eit døme: 24. august vervar Ivar Aasen, medlem i Ørsta
 Elevmållag, Hulda Garborg på stand på storefri. Ivar oppmodar Hulda
@@ -50,11 +55,28 @@ sjølv.</small>
 class: big-box
 #### text-block ####
 content:
+Vervepremiar
+===========
+<dl>
+<dt><b>Verv 1</b>
+<dd>Make nynorsk great again-caps
+<dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
+<dt><b>Verv 5</b>
+<dd>Ein til make nynorsk great again-caps!
+<dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
+<dt><b>Verv 10</b>
+<dd>Enno ein make nynorsk great again-caps!
+<dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
+</dl>
+----
+class: box
+#### text-block ####
+content:
 
 Registrer verving
 ================
-<form method="POST" action="/cgi-bin/send.py?_type=verving"
-  data-type="haustkonferanse" data-success="Tusen takk for veringa!">
+<form method="POST" action="/cgi-bin/send.py?_type=verv2017"
+  data-type="verv2017" data-success="Tusen takk for veringa!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
   <label>Namn <input name="namn" required></label>
   <label>Addresse <input name="adresse"></label>
