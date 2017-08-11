@@ -22,6 +22,7 @@ content:
 class: full
 #### text-block ####
 content:
+
 Gjer ein skilnad for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk og meir nynorsk i kvardagen.
 
 Vervometer til 1000
@@ -55,17 +56,31 @@ sjølv.</small>
 class: big-box
 #### text-block ####
 content:
+
 Vervepremiar
 ===========
 <dl>
 <dt><b>Verv 1</b>
-<dd>Make nynorsk great again-caps
+<dd>Ordhitten-handlenett
 <dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
+<dt><b>Verv 2</b>
+<dd>Eg <3 nynorsk-skjorte
+<dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
+<dt><b>Verv 3</b>
+<dd>Kjøleskapspoesi med Ivar Aasen og Olav H. Hauge
+<dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
+</dl>
 <dt><b>Verv 5</b>
-<dd>Ein til make nynorsk great again-caps!
+<dd>Bøddn-panneband med Ivar Aasen-motiv
 <dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
-<dt><b>Verv 10</b>
-<dd>Enno ein make nynorsk great again-caps!
+</dl><dt><b>Verv 7</b>
+<dd>Ryggsekk med eit kult nynorskmotiv
+<dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
+</dl><dt><b>Verv 10</b>
+<dd>Abonnement på storytel i eit halvt år
+<dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
+</dl><dt><b>Verv 15</b>
+<dd>To festivalpass til nynorskfestivalen Vinjerock
 <dd><img src="make_nynorsk_great_again_caps.jpg" alt="">
 </dl>
 ----
@@ -102,27 +117,5 @@ Vervetoppen
 }
 </style>
 <iframe class="toppen" src="https://medlem.nynorsk.no/stats/vervetopp/"></iframe>
-----
-class: box
-#### text-block ####
-content:
-
-Praktisk
-=======
-Tørre fakta
------------
-**Kvar**: Buskerud
-
-**Når**: 29. september til 1. oktober
-
-**Pris**: Pris kjem
-
-**Reisedekking**: Me kostar reisa for alle som kjem på leiren.
-
-**Pakkeliste**:
-- sovepose
-- liggjeunderlag/luftmadrass
-- toalettsaker
-- handkle
 ----
 class: box
