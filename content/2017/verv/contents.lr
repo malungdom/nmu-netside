@@ -17,7 +17,6 @@ content:
   padding: 0 20px;
 }
 </style>
-<iframe class="meter" src="https://medlem.nynorsk.no/stats/vervometer/"></iframe>
 ----
 class: full
 #### text-block ####
@@ -115,3 +114,5 @@ Vervetoppen
 <iframe class="toppen" src="https://medlem.nynorsk.no/stats/vervetopp/"></iframe>
 ----
 class: box
+---
+toppbilete: None
