@@ -114,8 +114,8 @@ content:
 
 Vervetoppen
 ========
-Lurer du på kor mange du har verva, og om maboen har verva fleire enn deg? Her kjem vervetoppen! Eit oversyn over kven som har verva flest. 
+Her kjem vervetoppen! På vervetoppen kan du sjå kor mange du har verva, og om naboen har verva fleire enn deg. 
 ----
 class: box
 ---
-toppbilete: None
+toppbilete: <dd><img src="framside.jpg" alt="">
