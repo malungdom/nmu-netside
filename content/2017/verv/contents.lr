@@ -106,8 +106,6 @@ content:
 
 Vervetoppen
 ========
-Her kjem vervetoppen! På vervetoppen kan du sjå kor mange du har
-verva, og om naboen har verva fleire enn deg.
 <style>
 .toppen {
   border: 0;
