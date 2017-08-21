@@ -16,6 +16,7 @@ content:
   width: calc(100% - 40px);
   padding: 0 20px;
 }
+
 </style>
 ----
 class: full
@@ -28,7 +29,7 @@ Lokallagskonkurranse
 =============
 Kva lokallag vervar flest?
 Studentmållaga kjempar om den gjæve vandregralen.
-Dei andre lokallaga konkurrerer om flotte premiar. 
+Dei andre lokallaga konkurrerer om flotte premiar.
 
 Det vert premie til dei tre laga som vervar flest.
 
@@ -77,7 +78,7 @@ Vervepremiar
 <dd><img src="verv9.jpg" alt="">
 <dd><img src="verv10.jpg" alt="">
 </dl><dt><b>Verv 15</b>
-<dd>To festivalpass til ein nynorskfestival. Vel mellom Vinjerock, Malakoff eller Fres Festival. 
+<dd>To festivalpass til ein nynorskfestival. Vel mellom Vinjerock, Malakoff eller Fres Festival.
 <dd><img src="verv15.jpg" alt="">
 </dl>
 ----
@@ -105,7 +106,16 @@ content:
 
 Vervetoppen
 ========
-Her kjem vervetoppen! På vervetoppen kan du sjå kor mange du har verva, og om naboen har verva fleire enn deg. 
+Her kjem vervetoppen! På vervetoppen kan du sjå kor mange du har
+verva, og om naboen har verva fleire enn deg.
+<style>
+.toppen {
+  border: 0;
+  width: 100%;
+  height: 500px;
+}
+</style>
+<iframe class="toppen" src="https://medlem.nynorsk.no/stats/vervetopp/?from=2017-08-21&to=2017-09-24"></iframe>
 ----
 class: box
 ---
