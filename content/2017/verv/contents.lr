@@ -115,7 +115,7 @@ verva, og om naboen har verva fleire enn deg.
   height: 500px;
 }
 </style>
-<iframe class="toppen" src="https://medlem.nynorsk.no/stats/vervetopp/?from=2017-08-21&to=2017-09-24"></iframe>
+<iframe class="toppen" src="https://medlem.nynorsk.no/stats/vervetopp/?from=2017-08-14&to=2017-09-24"></iframe>
 ----
 class: box
 ---
