@@ -105,7 +105,7 @@ class: box
 content:
 
 Vervetoppen
-extra>Vi må ha fødeår og postnummer for at vervinga skal rekne som teljande.<extra
+<extrasmall>Vi må ha fødeår og postnummer for at vervinga skal rekne som teljande.</extrasmall>
 ========
 <style>
 .toppen {
