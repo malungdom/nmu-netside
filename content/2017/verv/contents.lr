@@ -114,12 +114,21 @@ Vervetoppen
 }
 </style>
 <iframe class="toppen" src="https://medlem.nynorsk.no/stats/vervetopp/?from=2017-08-14&to=2017-09-24"></iframe>
-content:
+
 
 Lokallagsvervetoppen
 ========
-teksttekst
-tekst
+<dd>Firda Målungdom: 20 vervingar
+<dd>Sogndal Målungdom: 8 vervingar
+<dd>Haugesund Målungdom: 1 verving
+
+Studentmållagsvervetoppen
+========
+<dd>Studentmållaget i Volda: 9 vervingar
+<dd>Studentmållaget i Oslo: 4 vervingar
+<dd>Studentmållaget i Tromsø: 1 verving
+
+Oppdatert 31.08.17
 ---
 ----
 class: box
