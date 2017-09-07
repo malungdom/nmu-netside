@@ -1,11 +1,13 @@
 tittel: Smilefjesoversyn
 ---
-ingress:
-
-Kva nynorskpolitikk har dei ulike partia?
-
---- 
+ingress: Kva nynorskpolitikk har dei ulike partia?
+---
+toppbilete: ingen
+---
 tekst:
-Vi har laga eit smilefjesoversyn. 
 
-<img src="smilefjes.jpg" alt="">
+Vi har laga eit smilefjesoversyn.
+
+<a href="smilefjes.png"><img src="smilefjes.png" alt=""></a>
+
+[Last ned stor versjon](smilefjes-full.png).
