@@ -7,30 +7,4 @@ ingress:
 Kva nynorskpolitikk har dei ulike partia?
 ---
 tekst:
-
-#### text-block ####
-content:
-
-<style>
-.meter {
-  border: 0;
-  height: 35px;
-  width: calc(100% - 40px);
-  padding: 0 20px;
-}
-
-</style>
-----
-class: full
-#### text-block ####
-content:
-
-Norsk Målungdom bla bla smilefjes bla bla
-----
-class: big-box
-#### text-block ####
-content:
-
-Smilefjesoversyn
-===========
-<dd><img src="smilefjes.jpg" alt="">
+Tekst tekst tekst 
