@@ -12,6 +12,13 @@ tekst:
 #### text-block ####
 content:
 
+Program
+=====
+<img src="haustkonferanse.png" alt="">
+
+#### text-block ####
+content:
+
 Påmelding
 =========
 <form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
