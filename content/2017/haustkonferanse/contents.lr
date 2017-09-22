@@ -27,7 +27,7 @@ Påmelding
 <form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
   data-type="haustkonferanse" data-success="Innsendt! Me gler oss!">
   <label>Namn <input name="namn" required></label>
-  <label>Addresse <input name="adresse"></label>
+  <label>Adresse <input name="adresse"></label>
   <label>Postnr <input name="postnr" required></label>
   <label>Telefonnr <input name="tlfnr"></label>
   <label>Fødeår <input name="fodear" required></label>
