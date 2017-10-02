@@ -24,6 +24,7 @@ content:
 
 Påmelding
 =========
+Haustkonferansen 2017 er over, så det gjev ikkje meining å melde seg på. 
 <form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
   data-type="haustkonferanse" data-success="Innsendt! Me gler oss!">
   <label>Namn <input name="namn" required></label>
