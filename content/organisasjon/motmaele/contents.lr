@@ -1,3 +1,5 @@
+_model: page-advanced
+
 tittel: Motmæle
 ---
 ingress:
@@ -6,6 +8,40 @@ Motmæle er medlemsavisa til Norsk Målungdom. I avisa finn du politiske og
 organisatoriske nyhende som er aktuelle for NMU, og artiklar og reportasjar
 knytte til språk og ideologi. Alle er velkomne til å [skriva for
 Motmæle](/organisasjon/motmaele/#skriva).
+---
+tekst:
+
+#### text-block ####
+content:
+SKRIV noko her
+
+Overskrift
+=====
+kjem
+
+----
+class: box
+#### text-block ####
+content:
+
+Overskrift
+=======
+Noko
+
+Overskrift
+=====
+overskrift
+
+
+Overskrift
+=========================
+skriv ting
+----
+
+
+
+
+
 ---
 tekst:
 
