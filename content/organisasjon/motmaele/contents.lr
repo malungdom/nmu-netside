@@ -1,18 +1,21 @@
 _model: page-advanced
-
+---
 tittel: Motmæle
 ---
 ingress:
-
 Motmæle er medlemsavisa til Norsk Målungdom. I avisa finn du politiske og
 organisatoriske nyhende som er aktuelle for NMU, og artiklar og reportasjar
 knytte til språk og ideologi. Alle er velkomne til å [skriva for
 Motmæle](/organisasjon/motmaele/#skriva).
----
 
 ---
 tekst:
 
+#### text-block ####
+content:
+
+Bladstyret
+=====
 Avisa vert laga av bladstyret som vert sett ned av landsstyret kvar vår. Om du
 ikkje er medlem av Norsk Målungdom, men likevel vil ha Motmæle, kan du tinga
 bladet frå oss.
@@ -28,6 +31,21 @@ bladet frå oss.
 - Nora Klungresæter
 
 <span id="skriva"></span>
+
+
+#### text-block ####
+content:
+
+Meld frå
+=========
+Endre adresse eller slutte å abonnere? 
+
+#### text-block ####
+content:
+
+Les Motmæle digitalt
+=======
+skriv skriv
 
 # Skrive for Motmæle
 
