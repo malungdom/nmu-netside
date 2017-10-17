@@ -3,10 +3,8 @@ _model: page-advanced
 tittel: Motmæle
 ---
 ingress:
-Motmæle er medlemsavisa til Norsk Målungdom. I avisa finn du politiske og
-organisatoriske nyhende som er aktuelle for NMU, og artiklar og reportasjar
-knytte til språk og ideologi. Alle er velkomne til å skriva for
-Motmæle.
+<div data-configid="31246951/54346003" style="width:800px; height:571px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 ---
 tekst:
@@ -15,8 +13,7 @@ tekst:
 content:
 Les Motmæle digitalt
 =======
-<div data-configid="31246951/54346003" style="width:800px; height:571px;" class="issuuembed"></div>
-<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
 
 [Motmæle nummer 3, 2017](https://malungdom.no/motmaelearkiv/317/)
 
@@ -24,6 +21,11 @@ Les Motmæle digitalt
 content:
 Om Motmæle
 =====
+Motmæle er medlemsavisa til Norsk Målungdom. I avisa finn du politiske og
+organisatoriske nyhende som er aktuelle for NMU, og artiklar og reportasjar
+knytte til språk og ideologi. Alle er velkomne til å skriva for
+Motmæle.
+
 Avisa vert laga av bladstyret som vert sett ned av landsstyret kvar vår. Om du
 ikkje er medlem av Norsk Målungdom, men likevel vil ha Motmæle, kan du tinga
 bladet frå oss.
