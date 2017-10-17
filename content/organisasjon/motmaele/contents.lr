@@ -11,14 +11,6 @@ tekst:
 
 #### text-block ####
 content:
-Les Motmæle digitalt
-=======
-
-
-[Motmæle nummer 3, 2017](https://malungdom.no/motmaelearkiv/317/)
-
-#### text-block ####
-content:
 Om Motmæle
 =====
 Motmæle er medlemsavisa til Norsk Målungdom. I avisa finn du politiske og
@@ -42,7 +34,10 @@ bladet frå oss.
 
 <span id="skriva"></span>
 
-# Skrive for Motmæle
+#### text-block ####
+content:
+Skrive for Motmæle
+=========
 
 Motmæle er di avis, difor ynskjer vi at du skal vere med å lage ho. Kanskje du
 har lyst til å skrive ei bokmelding, ein artikkel om språkstoda i Irland, eller
@@ -64,5 +59,11 @@ i trykken, slik at vi har tid til å gje deg konstruktive tilbakemeldingar.
 Vi vil at Motmæle skal vere ei levande medlemsavis. Er ikkje artikkel sjangeren
 for deg, send inn bilete, eit dikt eller kanskje ei teikning?
 
+
+#### text-block ####
+content:
+Akriv
+=======
+[Motmæle nummer 3, 2017](https://malungdom.no/motmaelearkiv/317/)
 ---
 oversikt_tittel: Motmæle
