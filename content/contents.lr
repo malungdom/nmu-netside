@@ -111,7 +111,7 @@ Har du lyst til å gi målgåve? Registrer deg i dette skjemaet eller [kontakt o
 
 
 <form method="POST" action="/cgi-bin/send.py?_type=gaave"
-  data-type="gaave" data-success="Innsendt! Tusen takk!">
+  data-type="gaave" data-success="Registrert! Takk for at du vil stø oss!">
   <label>Namn <input name="namn" required></label>
   <label>Adresse <input name="adresse"></label>
   <label>Postnr <input name="postnr" required></label>
