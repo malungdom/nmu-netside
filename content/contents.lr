@@ -105,18 +105,19 @@ Gåve?
 Me er avhengige av stabil økonomi for å få frie hender til politisk arbeid. Gode målfolk har i årevis stødd oss med målgåver. Det er me glade for, og det ingen tvil: Det nyttar.
 Har du lyst til å gi målgåve? Registrer deg i dette skjemaet. 
 
-<form class="meld-deg-inn" method=POST
-  action=/cgi-bin/send.py?_type=innmelding
-  data-type=innmelding
-  data-success="Tusen takk!">
-  <h2>Gi målgåve!</h2>
-  <div class=box>
-    <input placeholder="Namn" name=namn required>
-    <input placeholder="Tilskrift (adresse)" name=tilskrift>
-    <input placeholder="Postnr" name=postnr required>
-    <input placeholder="Telefonnr" name=tlfnr>
-  </div>
-  <input class=submit type=submit value="Send inn">
+
+<form method="POST" action="/cgi-bin/send.py?_type=gaave"
+  data-type="gaave" data-success="Innsendt! Tusen takk!">
+  <label>Namn <input name="namn" required></label>
+  <label>Adresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  </label>
+  <input type="submit" value="Registrer deg som målgåvegivar!">
 </form>
+----
+class: box
+#### text-block ####
+
+
 ----
 class: box
