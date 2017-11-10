@@ -33,6 +33,13 @@ function form_feedback() {
   msg_div.classList = 'success hidden'
   form.appendChild(msg_div)
   requestAnimationFrame(function() { msg_div.classList.remove('hidden') })
+  setTimeout(function() {
+    form.scrollIntoView({
+      behaviour: 'smooth',
+      block: 'center',
+      inline: 'center',
+    })
+  }, 500)
   form.onclick = function() { msg_div.remove() }
   history.replaceState(null, '', p.search + location.hash)
 }
