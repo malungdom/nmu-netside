@@ -3,3 +3,62 @@ _model: page-advanced
 tittel: Krambua
 ---
 ingress: Kjøp NMU-tilfang
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+<style>
+.meter {
+  border: 0;
+  height: 35px;
+  width: calc(100% - 40px);
+  padding: 0 20px;
+}
+
+</style>
+----
+class: full
+#### text-block ####
+content:
+
+tekst tekst tekst
+
+
+
+<small>skriv@nynorsk.no og porto.</small>
+----
+class: big-box
+#### text-block ####
+content:
+
+
+----
+class: box
+#### text-block ####
+content:
+
+
+
+<form method="POST" action="/cgi-bin/send.py?_type=krambua"
+  data-type="krambua" data-success="Takk for tinginga! Vi sender deg det du vil ha og ein faktura">
+  <label>Kva vil du ha?<input kva="kva" required></label>
+  <label>Namn <input name="namn" required></label>
+  <label>Addresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Epost <input type="email" name="epost"></label>
+  <input type="submit" value="Send!">
+</form>
+----
+class: box
+#### text-block ####
+content:
+
+
+---
+----
+class: box
+---
+
