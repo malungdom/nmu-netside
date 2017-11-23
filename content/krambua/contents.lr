@@ -2,7 +2,7 @@ _model: page-advanced
 ---
 tittel: Krambua
 ---
-ingress: Kjøp NMU-tilfang
+ingress: Kjøp tilfang frå Norsk Målungdom
 
 ---
 tekst:
@@ -96,6 +96,8 @@ Bøker
 class: box
 #### text-block ####
 content:
+Send e-post til skriv@nynorsk.no viss du lurer på noko.
+
 <form method="POST" action="/cgi-bin/send.py?_type=krambua"
   data-type="krambua" data-success="Takk for tinginga! Vi sender deg det du vil ha og ein faktura">
   <label>Kva vil du ha?<input kva="kva" required></label>
@@ -107,11 +109,11 @@ content:
   <input type="submit" value="Send!">
 </form>
 
-Send e-post til skriv@nynorsk.no viss du lurer på noko.
+
 <small>Hugs at porto kjem i tillegg</small>
 
 ---
 ----
 class: box
 ---
-
+toppbilete: none
