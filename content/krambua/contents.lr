@@ -29,14 +29,11 @@ NMU-sekken
 
 <img src="sekk-small.png" alt="">
 
-500 kroner
 
 Mangfald-caps
 ============
 
 <img src="allemangfald-small.png" alt="">
-
-200 kroner. 
 
 <small>Vel mellom grå, blå, kvit, rosa og gul.</small> 
 
@@ -45,7 +42,6 @@ Nyfiken-handlenett
 
 <img src="nyfiken-small.png" alt="">
 
-100 kroner
 
 ----
 class: big-box
@@ -57,19 +53,14 @@ T-skjorter
 
 <img src="egelskar-small.png" alt="">
 
-150 kroner
-
 <small>Vel mellom svart og kvit, ho- og hen-modell og utplukka storleikar</small>
 
 <img src="hugnad-small.png" alt="">
-
-150 kroner
 
 <small>Vel mellom i blå og kvit, ho- og hen-modell og utplukka storleikar</small>
 
 <img src="framifra-small.png" alt="">
 
-150 kroner
 
 <small>Vel mellom svart og kvit, ho- og hen-modell og utplukka storleikar</small>
 
@@ -77,10 +68,19 @@ T-skjorter
 class: big-box
 #### text-block ####
 content:
-Ymse tilfang
+Ymse tilfang og prisar
 ========
 
-- Jakkemerke med **Eg <3 nynorsk**: 5 kroner per stykk, 50 kroner for 20 stykk 
+- NMU-sekken: 500 kroner
+- Mangfald-caps: 200 kroner
+- Nyfiken-handlenett: 100 kroner
+- T-skjorte med *eg <3 nynorsk*-motiv: 150 kroner
+- T-skjorte med *hugnad*-motiv: 150 kroner
+- T-skjorte med *framifrå*-motiv: 150 kroner 
+- Jakkemerke med *eg <3 nynorsk*-motiv: 
+5 kroner per stykk, 50 kroner for 20 stykk 
+- Jakkemerke med *nynorsk gjer deg smartare*-motiv: 
+5 kroner per stykk, 50 kroner for 20 stykk
 - Datamusa NMUs: 150 kroner
 - Dagverd-krus: 150 kroner
 - Bjøddn-panneband med Ivar Aasen: 400 kroner 
