@@ -23,6 +23,7 @@ content:
 class: full
 #### text-block ####
 content:
+
 NMU-sekken
 ===========
 
@@ -36,7 +37,6 @@ Mangfald-caps
 <img src="allemangfald-small.png" alt="">
 
 200 kroner. 
-
 <small>Vel mellom grå, blå, kvit, rosa og gul.</small> 
 ----
 class: big-box
@@ -49,19 +49,16 @@ T-skjorter
 <img src="egelskar-small.png" alt="">
 
 150 kr. 
-
 <small>Vel mellom svart og kvit, ho- og hen-modell og utplukka storleikar</small>
 
 <img src="hugnad-small.png" alt="">
 
 150 kr. 
-
 <small>Vel mellom i blå og kvit, ho- og hen-modell og utplukka storleikar</small>
 
 <img src="framifra-small.png" alt="">
 
 150 kr. 
-
 <small>Vel mellom svart og kvit, ho- og hen-modell og utplukka storleikar</small>
 
 ----
