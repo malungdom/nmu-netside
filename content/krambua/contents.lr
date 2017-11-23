@@ -28,34 +28,35 @@ tekst tekst tekst
 
 
 
-<small>skriv@nynorsk.no og porto.</small>
+
 ----
 class: big-box
 #### text-block ####
 content:
-
+tekst
 
 ----
 class: box
 #### text-block ####
 content:
+tskt
 
-
-
+----
+class: box
+#### text-block ####
+content:
 <form method="POST" action="/cgi-bin/send.py?_type=krambua"
   data-type="krambua" data-success="Takk for tinginga! Vi sender deg det du vil ha og ein faktura">
   <label>Kva vil du ha?<input kva="kva" required></label>
+  <label>I kva storleik og farge?<input kva="kva" required></label>
   <label>Namn <input name="namn" required></label>
   <label>Addresse <input name="adresse"></label>
   <label>Postnr <input name="postnr" required></label>
   <label>Epost <input type="email" name="epost"></label>
   <input type="submit" value="Send!">
 </form>
-----
-class: box
-#### text-block ####
-content:
 
+<small>skriv@nynorsk.no og porto.</small>
 
 ---
 ----
