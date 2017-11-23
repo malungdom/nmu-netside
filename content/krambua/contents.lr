@@ -24,19 +24,32 @@ class: full
 #### text-block ####
 content:
 NMU-sekken: 500 kroner
+
 <img src="sekk-small.png" alt="">
+
 Mangfald-caps: 200 kroner. 
+
 Vel mellom grå, blå, kvit, rosa og gul. 
+
 <img src="allemangfald-small.png" alt="">
 ----
 class: big-box
 #### text-block ####
 content:
 T-skjorter: 150 kroner
+
 <img src="egelskar-small.png" alt="">
+
 <small>i svart og kvit, ho- og hen-modell og i utplukka storleikar</small>
+
 <img src="hugnad-small.png" alt="">
+
+<small>i blå og kvit, ho- og hen-modell og i utplukka storleikar</small>
+
 <img src="framifra-small.png" alt="">
+
+<small>i svart og kvit, ho- og hen-modell og i utplukka storleikar</small>
+
 ----
 class: box
 #### text-block ####
