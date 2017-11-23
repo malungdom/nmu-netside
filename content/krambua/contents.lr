@@ -26,11 +26,11 @@ content:
 
 tekst tekst tekst
 
-<img src="sekk.png" alt="">
+<img src="sekk-small.png" alt="">
 
-<img src="mangfaldgra.png" alt="">
+<img src="mangfaldgra-small.png" alt="">
 
-<img src="allemangfald.png" alt="">
+<img src="allemangfald-small.png" alt="">
 ----
 class: big-box
 #### text-block ####
