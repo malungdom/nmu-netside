@@ -15,7 +15,6 @@ body:
   data-type=innmelding
   data-success="Tusen takk! Me sender ein epost og ei velkomstpakke i posten.">
   <h2>Bli medlem! &hearts;</h2>
-  Send SMS med kodeord NMU + namn + fødeår + e-post til 2090 (50 kr.) eller bruk skjemaet under. 
   <div class=box>
     <input placeholder="Namn" name=namn required>
     <input placeholder="Tilskrift (adresse)" name=tilskrift>
