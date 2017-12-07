@@ -119,7 +119,7 @@ Send e-post til skriv@nynorsk.no viss du lurer på noko.
 <form method="POST" action="/cgi-bin/send.py?_type=krambua"
   data-type="krambua" data-success="Takk for tinginga! Vi sender deg det du vil ha og ein faktura.">
   <label>Kva vil du ha? <input name="kva" required></label>
-  <label>Farge? Storleik? Anna? <input name="kva"></label>
+  <label>Farge? Storleik? Anna? <input name="kva" required></label>
   <label>Namn <input name="namn" required></label>
   <label>Addresse <input name="adresse"></label>
   <label>Postnr <input name="postnr" required></label>
