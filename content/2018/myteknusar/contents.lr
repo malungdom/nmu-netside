@@ -4,7 +4,23 @@ tittel: Nynorsk Myteknusar
 ---
 ingress:
 
-Kampanjen Nynorsk Myteknusar<br>
+Mange trur mykje om nynorsk, og mykje av det dei trur er feil. Difor skipar Norsk Målungdom til kampanjen Nynorsk Myteknusar<br>
 Kampanjeveke frå 29. januar til 4. februar
 ---
+Text
+
+#### text-block ####
+content:
 tekst: mykje tekst
+<img src="eidialekt.png" alt="">
+
+
+#### text-block ####
+content:
+tesgt
+
+#### text-block ####
+content:
+meir
+
+
