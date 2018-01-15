@@ -23,28 +23,6 @@ content:
 
 </style>
 ----
-class: full
-#### text-block ####
-content:
-
-NMU-sekken
-===========
-
-<img src="sekk-small.png" alt="">
-
-
-Mangfald-caps
-============
-
-<img src="allemangfald-small.png" alt="">
-
-<small>Vel mellom grå, blå, kvit, rosa og gul.</small> 
-
-Nyfiken-handlenett
-===============
-
-<img src="nyfiken-small.png" alt="">
-
 
 ----
 class: big-box
@@ -52,7 +30,8 @@ class: big-box
 content:
 
 
-<img src="eidialekt.png" alt="">
+<img src="eidialekt-small.png" alt="">
+<img src="vanskeleg-small.png" alt="">
 
 
 
