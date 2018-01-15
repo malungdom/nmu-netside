@@ -6,12 +6,10 @@ ingress:
 
 Mange trur mykje om nynorsk, og mykje av det dei trur er feil. Difor skipar Norsk Målungdom til kampanjen Nynorsk Myteknusar.<br>
 Kampanjeveke frå 29. januar til 4. februar
----
+
 ---
 tekst:
 
-=======
-class: full
 #### text-block ####
 content:
 
@@ -38,8 +36,5 @@ content:
 
 <img src="lite-small.png" alt="">
 
----
-----
-class: box
 ---
 toppbilete: none
