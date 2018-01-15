@@ -24,14 +24,39 @@ content:
 
 </style>
 ----
+<<<<<<< HEAD
+=======
+class: full
+#### text-block ####
+content:
+
+NMU-sekken
+===========
+
+<img src="sekk-small.png" alt="">
+
+
+Mangfald-caps
+============
+
+<img src="allemangfald-small.png" alt="">
+
+<small>Vel mellom grå, blå, kvit, rosa og gul.</small> 
+
+Nyfiken-handlenett
+===============
+
+<img src="nyfiken-small.png" alt="">
+
+
+>>>>>>> parent of 5a2656e... myteknusar
 ----
 class: big-box
 #### text-block ####
 content:
 
 
-<img src="eidialekt-small.png" alt="">
-<img src="vanskeleg-small.png" alt="">
+<img src="eidialekt.png" alt="">
 
 
 
