@@ -4,52 +4,26 @@ tittel: Nynorsk Myteknusar
 ---
 ingress:
 
-Mange trur mykje om nynorsk, og mykje av det dei trur er feil. Difor skipar Norsk Målungdom til kampanjen Nynorsk Myteknusar<br>
+Mange trur mykje om nynorsk, og mykje av det dei trur er feil. Difor skipar Norsk Målungdom til kampanjen Nynorsk Myteknusar.<br>
 Kampanjeveke frå 29. januar til 4. februar
 ---
 ---
 tekst:
 
-<<<<<<< HEAD
-</style>
-----
-<<<<<<< HEAD
 =======
 class: full
 #### text-block ####
 content:
 
-NMU-sekken
-===========
+<img src="eidialekt-small.png" alt="">
 
-<img src="sekk-small.png" alt="">
+<img src="vanskeleg-small.png" alt="">
 
-
-Mangfald-caps
-============
-
-<img src="allemangfald-small.png" alt="">
-
-<small>Vel mellom grå, blå, kvit, rosa og gul.</small> 
-
-Nyfiken-handlenett
-===============
-
-<img src="nyfiken-small.png" alt="">
-
-
->>>>>>> parent of 5a2656e... myteknusar
-=======
->>>>>>> parent of 8a41eeb... mytreknusar
 ----
 class: big-box
 #### text-block ####
 content:
-
-
-<img src="eidialekt.png" alt="">
-
-
+tekst og bilete
 
 ----
 class: big-box
