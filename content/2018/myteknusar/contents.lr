@@ -7,23 +7,66 @@ ingress:
 Mange trur mykje om nynorsk, og mykje av det dei trur er feil. Difor skipar Norsk Målungdom til kampanjen Nynorsk Myteknusar<br>
 Kampanjeveke frå 29. januar til 4. februar
 ---
-Text
+---
+tekst:
 
 #### text-block ####
 content:
-tekst: mykje tekst
+
+<style>
+.meter {
+  border: 0;
+  height: 35px;
+  width: calc(100% - 40px);
+  padding: 0 20px;
+}
+
+</style>
+----
+class: full
+#### text-block ####
+content:
+
+NMU-sekken
+===========
+
+<img src="sekk-small.png" alt="">
+
+
+Mangfald-caps
+============
+
+<img src="allemangfald-small.png" alt="">
+
+<small>Vel mellom grå, blå, kvit, rosa og gul.</small> 
+
+Nyfiken-handlenett
+===============
+
+<img src="nyfiken-small.png" alt="">
+
+
+----
+class: big-box
+#### text-block ####
+content:
+
+
 <img src="eidialekt.png" alt="">
 
-<img src="vanskeleg.png" alt="">
 
 
+----
+class: big-box
 #### text-block ####
 content:
-tesgt
+tekst og bilete
 
+----
+class: box
 #### text-block ####
 content:
-meir
+tekst og bilete
 
 
 ---
