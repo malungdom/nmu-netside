@@ -19,24 +19,24 @@ content:
 
 <img src="vanskeleg-small.png" alt="">
 
-----
-class: big-box
-#### text-block ####
-content:
-tekst og bilete
+<img src="dikt-small.png" alt="">
 
 ----
 class: big-box
 #### text-block ####
 content:
-tekst og bilete
 
+<img src="doyr-small.png" alt="">
+
+<img src="kulturelite-small.png" alt="">
+
+<img src="vestlandet-small.png" alt="">
 ----
-class: box
+class: big-box
 #### text-block ####
 content:
-tekst og bilete
 
+<img src="lite-small.png" alt="">
 
 ---
 ----
