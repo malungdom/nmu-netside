@@ -13,12 +13,22 @@ tekst:
 #### text-block ####
 content:
 
+<style>
+.meter {
+  border: 0;
+  height: 35px;
+  width: calc(100% - 40px);
+  padding: 0 20px;
+}
+
+</style>
+
 <img src="vanskeleg-small.png" alt="">
 
 <img src="dikt-small.png" alt="">
 
 ----
-class: big-box
+
 #### text-block ####
 content:
 
@@ -28,7 +38,7 @@ content:
 
 <img src="vestlandet-small.png" alt="">
 ----
-class: big-box
+
 #### text-block ####
 content:
 
