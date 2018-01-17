@@ -13,8 +13,6 @@ tekst:
 #### text-block ####
 content:
 
-<img src="eidialekt-small.png" alt="">
-
 <img src="vanskeleg-small.png" alt="">
 
 <img src="dikt-small.png" alt="">
@@ -35,6 +33,8 @@ class: big-box
 content:
 
 <img src="lite-small.png" alt="">
+
+<img src="eidialekt-small.png" alt="">
 
 ---
 toppbilete: none
