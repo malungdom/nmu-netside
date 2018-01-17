@@ -3,6 +3,7 @@ _model: page-advanced
 tittel: Landsmøte
 ---
 ingress:
+
 Frå 16. til 18. mars skipar vi til landsmøte for å avgjere kva
 NMU skal meine og arbeide med i året som kjem.
 
@@ -24,7 +25,6 @@ landsmøtet for dei.
 
 Dersom du ikkje har noko lokallag, kan du reise som observatør. Er du
 usikker på om det er lokallag der du bur, ta kontakt med skrivarstova.
-
 ----
 class: box
 #### text-block ####
@@ -32,10 +32,11 @@ content:
 
 Praktisk
 =======
-**Kvar**: I Oslo-området
+**Kvar**: På Danvik skole i Drammen
 
 **Når**: 16. - 18. mars
 
 **Reisedekking**: Dei lokallaga som ikkje har monalege inntekter
 utanom Frifond, kan få dekt reiseutlogene av sentrallekken.
-
+----
+class: box
