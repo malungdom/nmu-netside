@@ -1,6 +1,6 @@
 _model: page-advanced
 ---
-tittel: Nynorsk Myteknusar
+tittel: Nynorsk myteknusar
 ---
 ingress:
 
@@ -45,14 +45,9 @@ content:
 
 [<img src="lite-small.png" alt="">](https://malungdom.no/2018/nynorskmytar/litesprak/)
 
-<img src="konstruert-small.png" alt="">
+[<img src="konstruert-small.png" alt="">]((https://malungdom.no/2018/nynorskmytar/konstruert/))
 
 [<img src="eidialekt-small.png" alt="">](https://malungdom.no/2018/nynorskmytar/eidialekt/)
 
-
-#### text-block ####
-content:
-
-<iframe width="285" height="160" src="https://www.youtube.com/embed/GbzrdobNvRk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
 toppbilete: none
