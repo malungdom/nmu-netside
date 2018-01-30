@@ -1,0 +1,22 @@
+_model: page-advanced
+---
+tittel: Medlemsressursar
+---
+ingress:
+Her har vi samla ulike skjema og dokument som kan vere kjekke å ha. 
+
+---
+tekst:
+
+#### text-block ####
+content:
+Før årsmøtet
+=====
+Legg inn skjema
+
+#### text-block ####
+content:
+Frifond
+=========
+
+Om frifond og søknadsmal
