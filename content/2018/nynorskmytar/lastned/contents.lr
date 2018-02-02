@@ -1,8 +1,11 @@
 tittel: Last ned
 ---
-ingress: Her kan du laste ned XX
+ingress: Her kan du laste ned facebookbanner
 ---
 toppbilete: ingen
 ---
 tekst:
 
+<img src="spraketmitt-small.png" alt="">
+
+[Last ned](<img src="spraketmitt-full.png" alt="">)
