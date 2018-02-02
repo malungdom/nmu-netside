@@ -1,8 +1,8 @@
 _model: page-advanced
 ---
-tittel: Last ned
+tittel: Bli ein #some-aktivist!
 ---
-ingress: Her kan du laste ned facebookbanner
+ingress: [Her](https://drive.google.com/drive/folders/1i0GINwfw4Z5SELfzGIOww9I3Wk65AlH4?usp=sharing) kan du laste ned facebookbanner.
 ---
 toppbilete: ingen
 ---
@@ -21,20 +21,25 @@ content:
 
 </style>
 
-Last ned facebookbanner for fylket ditt:
 
 <img src="detbestefylket-small.png" alt="">
 
-[Last ned for Vestfold](<img src="vestfold.png" alt="">)
+<img src="rogaland-small.png" alt="">
 
-[Last ned for Vestagder](<img src="vestagder.png" alt="">)
+<img src="telemark-small.png" alt="">
+
+<img src="oslo-small.png" alt="">
+
+<img src="ostfold-small.png" alt="">
+
+<img src="finnmark-small.png" alt="">
+
 ----
 
 #### text-block ####
 content:
 
 <img src="spraketmitt-small.png" alt="">
-[Last ned](<img src="spraketmitt-full.png" alt="">)
 
 <img src="dialekt-small.png" alt="">
 
