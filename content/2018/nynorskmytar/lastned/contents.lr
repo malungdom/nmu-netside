@@ -1,3 +1,5 @@
+_model: page-advanced
+---
 tittel: Last ned
 ---
 ingress: Her kan du laste ned facebookbanner
@@ -21,6 +23,7 @@ content:
 
 Last ned facebookbanner for fylket ditt:
 
+<img src="detbestefylket-small.png" alt="">
 
 ----
 
@@ -28,6 +31,7 @@ Last ned facebookbanner for fylket ditt:
 content:
 
 <img src="spraketmitt-small.png" alt="">
+[Last ned](<img src="spraketmitt.png" alt="">)
 
 <img src="dialekt-small.png" alt="">
 
