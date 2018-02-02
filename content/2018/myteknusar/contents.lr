@@ -54,9 +54,11 @@ content:
 #### text-block ####
 content:
 
-<img src="nasjonalisme-small.png" alt="">
+[<img src="nasjonalisme-small.png" alt="">](https://malungdom.no/2018/nynorskmytar/nasjonalisme/)
+
 <img src="unormalt-small.png" alt="">
-<img src="skulen-small.png" alt="">
+
+[<img src="skulen-small.png" alt="">](https://malungdom.no/2018/nynorskmytar/bruk/)
 
 ---
 toppbilete: none
