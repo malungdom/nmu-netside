@@ -56,6 +56,10 @@ Google-skjema eller på eige ark før ein gitt frist.
 
 **Omframt:** Oftast i rekneskapen: ting ein ikkje rekna med skulle skje. 
 
+
+#### text-block ####
+content:
+
 **Ordstyrar:** Dei som styrer ordet og held oversyn over kven som skal prate når. 
 
 **Replikk:** Ein kort kommentar til det som nettopp er blitt sagt. 
@@ -63,9 +67,6 @@ Google-skjema eller på eige ark før ein gitt frist.
 **Røystelikskap:** Når det er like mange røyster for og imot.
 
 **Røysting:** Når ein skal røyste/stemme over noko, til dømes endringar i lovene. 
-
-#### text-block ####
-content:
 
 **Saksopplysning:** Viss det er behov for å komma med oppklaringar i ei sak.
 
