@@ -62,15 +62,6 @@ class: box
 #### text-block ####
 content:
 
-Sakspapir
-=======
-Me legg ut sakspapira her etter kvart som det er praktisk mogeleg å få dei klare.
-
-----
-class: box
-#### text-block ####
-content:
-
 Førebuing
 ======
 Viss ein er på sitt fyrste landsmøte kan vere mykje å setje seg inn på ein gong. Her er nokre tips til kva du kan lese viss du ønskjer å vere godt budd. 
@@ -79,6 +70,15 @@ Viss ein er på sitt fyrste landsmøte kan vere mykje å setje seg inn på ein g
 
 På landsmøtet nyttar ein seg av mange ord og uttrykk ein kanskje ikkje nyttar til dagleg. Er du litt usikker på kva eit endringsframlegg er, eller kva det vil seie å brigde noko? Sjekk ut [landsmøteordlista](https://malungdom.no/2018/landsmote/lm-ordliste/)
 
+
+----
+class: box
+#### text-block ####
+content:
+
+Sakspapir
+=======
+Me legg ut sakspapira her etter kvart som det er praktisk mogeleg å få dei klare.
 
 ----
 class: box
