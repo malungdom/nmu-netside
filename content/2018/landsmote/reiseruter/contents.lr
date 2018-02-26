@@ -1,6 +1,17 @@
+_model: page-advanced
+---
 tittel: Reiseruter
 ---
+ingress:
+
+Lurer du på korleis du kan kome deg til og frå landsmøtet? Her har me prøvd å samle nokre tips. Viss du framleis ikkje veit korleis du skal reise til landsmøtet etter å ha lese dette, må du vikkje vere redd for å [ta kontakt](http://test.malungdom.no/kontakt/) med oss og spørje om hjelp. 
+
+---
 tekst:
+
+#### text-block ####
+content:
+
 Generelt om reise
 =================
 Landsmøtet skal vere i på Danvik skole i Drammen. Danvik skole ligg ein kilometer frå togstasjonen, så det går greitt for dei fleste å gå derifrå. Ta kontakt viss du treng skyss frå stasjonen, så ordnar vi det. 
@@ -13,6 +24,8 @@ Det er ein fordel om du reiser slik at du er på plass på Danvik skule til møt
 
 Mange må reise frå heimstaden sin før skuledagen er slutt. Me ordnar politisk fråver til alle som treng det. Me kan òg hjelpe deg med å bestille billettar. Ta kontakt med oss på skriv(a)nynorsk.no!
 
+#### text-block ####
+content:
 
 Reiseruter
 =================
