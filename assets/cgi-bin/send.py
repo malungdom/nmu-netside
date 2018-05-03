@@ -58,7 +58,7 @@ def send_email(data, realm, subject):
 def redirect(location, success):
     if not location and 'HTTP_REFERER' in os.environ:
         location = urlsplit(os.environ['HTTP_REFERER'], 'http').path
-    location = re.sub(r'[^\w/]', '', location or '/')
+    location = re.sub(r'[^\w/-]', '', location or '/')
     if success:
         location += '?success=%s' % success
     print(textwrap.dedent('''\
