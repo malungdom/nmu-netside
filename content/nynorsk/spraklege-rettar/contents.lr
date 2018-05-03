@@ -79,22 +79,17 @@ For å kartlegge kva digitale læremiddel som finst på nynorsk, og kva som ikkj
 
 Les meir om kampanjen og send inn tipsa dine [her](http://www.nm.no/tekst.cfm?path=10618).  
  
- 
-
 
 #### text-block ####
 content:
 Send inn klage
 ==============
-Med skjemaet under kan du melde frå til oss om du ikkje fekk eksamen på
-nynorsk, eller meiner språket på eksamenen var for dårleg.
+Med skjemaet under kan du melde frå til oss om du ikkje får oppfylt dei språklege rettane dine, til dømes viss du ikkje får læremiddel på nynorsk, eller viss skulen ikkje let deg velja hovudmål. 
 
 Når vi har motteke klaga di gjer vi slik:
 
 - Vi samlar inn alle klagene
-- Når vi får inn ei klage, sender vi klagebrev til studiestaden. Kvar eksamen
-  får eiga klage sjølv om det er klaga fleire gongar for kvart universitet
-  eller høgskule.
+- Når vi får inn ei klage, sender vi klagebrev til skuleeigaren (det vil seie kommunen hvis du går på grunnskulen, og fylkeskommunen viss du går på vidaregåande) eller studiestaden din. 
 - Alle klagene blir sendte i kopi til Språkrådet.
 - Du får ogso ein kopi av klaga.
 
@@ -104,14 +99,14 @@ Når vi har motteke klaga di gjer vi slik:
   data-type="klage" data-success="Klaga innsendt, du høyrer frå oss.">
   <label>Namnet ditt (Du vil vera anynom i klaga) <input name="namn" required></label>
   <label>Epostadressa di (Slik at vi kan kontakte deg) <input type="email" name="epost" required></label>
-  <label>Utdanningsstad <input name="utdanningsstad"></label>
-  <label>Emnekode <input name="emnekode" required></label>
-  <label>Type eksamen (Skuleeksamen/heimeeksamen?) <input name="type_eksamen"></label>
-  <label>Eksamensdato <input name="dato" required></label>
+  <label>Skule eller utdanningsstad <input name="utdanningsstad"></label>
+  <label>Fag eller emne <input name="emnekode" required></label>
   <label>
-    Klage (Mangla nynorskversjon? Dårleg språk?)
+    Klage (Kva vil du klage på?)
     <textarea name="klage" rows=6></textarea>
   </label>
   <input type="submit" value="Send inn">
 </form>
 
+------------
+toppbilete: none
