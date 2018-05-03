@@ -1,14 +1,56 @@
+_model: page-advanced
+---
 tittel: Språklege rettar
 ---
-sort_key: 30
----
-ingress:
-
-Nynorsk og bokmål har vore jamstelte sidan 1885. Av di bokmålet har hatt hegemoni i
+ingress: Nynorsk og bokmål har vore jamstelte sidan 1885. Av di bokmålet har hatt hegemoni i
 Noreg har det vore naudsynt å få lovfesta ein del rettar for nynorskbrukarar slik at
-desse skriftmåla skal vera jamstelte i røynda òg.
+desse skriftmåla skal vera jamstelte i røynda òg. 
+
 ---
 tekst:
+
+#### text-block ####
+content:
+Elevrettar
+=======
+
+Som nynorskelev har du ein del rettar:
+
+<em>Du har rett til å få læremiddel og dataprogram på nynorsk.</em>
+
+Nynorskelevane har hatt krav på skulebøker og andre læremiddel på eige mål
+sidan 1974. Denne retten vart truga i framlegget til ny opplæringslov i 1997,
+men etter me vann er denne retten lovfesta på ny! «I andre fag enn norsk kan
+det berre brukast lærebøker som ligg føre på bokmål og nynorsk til same tid og
+same pris. 
+
+I særlege tilfelle kan departementet gjere unntak frå denne
+regelen.» <a href="http://www.nynorsk.no/nmu/ymist/opplovi.shtml"></a><a
+href="http://www.lovdata.no/all/tl-19980717-061-010.html#9-4">- Opplæringslova,
+§9-4</a>
+
+
+<em>Du har rett til å få eksamen på nynorsk</em>
+
+<em>Du har rett til å møta nynorsk som undervisningsspråk</em>. 
+
+Du har rett til å få ein rimeleg del av prøvene og undervisninga på ditt eige språk, jamvel om
+du er einaste nynorskeleven i klassen.<a
+href="http://www.nynorsk.no/nmu/ymist/rundskriv.shtml"></a>
+
+<em>Du har rett til å velja hovudmål</em>. 
+
+Du slepp å søkja skulen for å byta
+hovudmål til nynorsk. At bokmål og nynorsk er likeverdige skriftmål vil seia at
+elevar har rett til å velja nett det skriftmålet dei vil.
+
+<em>Du har rett til å klaga</em>. 
+
+Om du ikkje er nøgd med måten læraren din
+eller skulen held seg til regelverket på, så har du rett til å klaga. Nyttar
+ikkje det, kan du kontakta <a
+href="http://elev.no/wshow.aspx?p=9">Elevorganisasjonen</a> eller <a
+href="http://ny.malungdom.no/organisasjon/skrivarstova/">Norsk Målungdom</a>.
 
 Studentrettar
 -------------
@@ -17,39 +59,57 @@ Universitet og høgskular skal fylgja mållova, og pliktar gje deg
 skjema og liknande på nynorsk. Dei skal òg nytta minst 25% nynorsk i skriftleg
 tilfang. I "Forskrifter om målform i eksamensoppgåver" står det i §2 tydeleg at
 eksamensoppgåver skal liggja føre på båe målformer, og at eksamenskandidatane
-etter eige ynske kan få oppgåvene anten på bokmål eller på nynorsk.
+etter eige ynske kan få oppgåvene anten på bokmål eller på nynorsk. Les meir om studentrettar og send inn klage [her](https://malungdom.no/klag/). 
 
-Elevrettar
-----------
+#### text-block ####
+content:
+Oppdater!
+=======
+ein kampanje for digitale læremiddel på nynorsk
+-----------------
+I samarbeid med Noregs Mållag skipar Norsk Målungdom til ein nasjonal kampanje for digitale læremiddel i skulen: Oppdater! 
 
-Som nynorskelev har du ein del rettar:
+Dei siste åra har skulen blitt meir og meir digital. Mange nynorskelevar og -studentar får likevel ikkje nytte nynorsk i dei appane og programma dei nyttar. Lova, og forskriftene, som skal sikre opplæring på både nynorsk og bokmål er ikkje tilpassa ein situasjon der tilgangen til digitale læremiddel er stor og norske lærarar i teorien fritt kan velja å ta dei i bruk.
 
-<em>Du har rett til å få læremiddel og dataprogram på nynorsk.</em>
-Nynorskelevane har hatt krav på skulebøker og andre læremiddel på eige mål
-sidan 1974. Denne retten vart truga i framlegget til ny opplæringslov i 1997,
-men etter me vann er denne retten lovfesta på ny! «I andre fag enn norsk kan
-det berre brukast lærebøker som ligg føre på bokmål og nynorsk til same tid og
-same pris. I særlege tilfelle kan departementet gjere unntak frå denne
-regelen.» <a href="http://www.nynorsk.no/nmu/ymist/opplovi.shtml"></a><a
-href="http://www.lovdata.no/all/tl-19980717-061-010.html#9-4">- Opplæringslova,
-§9-4</a>
+Det er kommunane som har ansvar for at elevane får oppfylt sine språklege rettar. Men mange kommunar er ikkje klare over dette ansvaret eller synest det er vanskeleg å lata vere å ta i bruk gode læremiddel sjølv om dei ikkje finst på nynorsk.
 
-Frå og med 2004 har du òg rett på å få såkalla administrativ programvare
-(skriveprogram, rekneark og liknande) på nynorsk.
+For å kartlegge kva digitale læremiddel som finst på nynorsk, og kva som ikkje finst på nynorsk, treng vi di hjelp. 
 
-<em>Du har rett til å få eksamen på nynorsk</em>
+Les meir om kampanjen og send inn tipsa dine [her](http://www.nm.no/tekst.cfm?path=10618).  
+ 
+ 
 
-<em>Du har rett til å møta nynorsk som undervisningsspråk</em>. Du har rett til
-å få ein rimeleg del av prøvene og undervisninga på ditt eige språk, jamvel om
-du er einaste nynorskeleven i klassen.<a
-href="http://www.nynorsk.no/nmu/ymist/rundskriv.shtml"></a>
 
-<em>Du har rett til å velja hovudmål</em>. Du slepp å søkja skulen for å byta
-hovudmål til nynorsk. At bokmål og nynorsk er likeverdige skriftmål vil seia at
-elevar har rett til å velja nett det skriftmålet dei vil.
+#### text-block ####
+content:
+Send inn klage
+==============
+Med skjemaet under kan du melde frå til oss om du ikkje fekk eksamen på
+nynorsk, eller meiner språket på eksamenen var for dårleg.
 
-<em>Du har rett til å klaga</em>. Om du ikkje er nøgd med måten læraren din
-eller skulen held seg til regelverket på, så har du rett til å klaga. Nyttar
-ikkje det, kan du kontakta <a
-href="http://elev.no/wshow.aspx?p=9">Elevorganisasjonen</a> eller <a
-href="http://ny.malungdom.no/organisasjon/skrivarstova/">Norsk Målungdom</a>.
+Når vi har motteke klaga di gjer vi slik:
+
+- Vi samlar inn alle klagene
+- Når vi får inn ei klage, sender vi klagebrev til studiestaden. Kvar eksamen
+  får eiga klage sjølv om det er klaga fleire gongar for kvart universitet
+  eller høgskule.
+- Alle klagene blir sendte i kopi til Språkrådet.
+- Du får ogso ein kopi av klaga.
+
+<h2 id="skjema">Klageskjema</h2>
+
+<form method="POST" action="/cgi-bin/send.py?_type=klage"
+  data-type="klage" data-success="Klaga innsendt, du høyrer frå oss.">
+  <label>Namnet ditt (Du vil vera anynom i klaga) <input name="namn" required></label>
+  <label>Epostadressa di (Slik at vi kan kontakte deg) <input type="email" name="epost" required></label>
+  <label>Utdanningsstad <input name="utdanningsstad"></label>
+  <label>Emnekode <input name="emnekode" required></label>
+  <label>Type eksamen (Skuleeksamen/heimeeksamen?) <input name="type_eksamen"></label>
+  <label>Eksamensdato <input name="dato" required></label>
+  <label>
+    Klage (Mangla nynorskversjon? Dårleg språk?)
+    <textarea name="klage" rows=6></textarea>
+  </label>
+  <input type="submit" value="Send inn">
+</form>
+
