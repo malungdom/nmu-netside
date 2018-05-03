@@ -46,7 +46,7 @@ elevar har rett til å velja nett det skriftmålet dei vil.
 <em>Du har rett til å klaga</em>. 
 
 Om du ikkje er nøgd med måten læraren din
-eller skulen held seg til regelverket på, så har du rett til å klaga. Nyttar
+eller skulen held seg til regelverket på, så har du rett til å klaga. Vi kan hjelpe deg med å klage viss du sender klaga di til oss gjennom klageskjemaet på denne nettsida. Nyttar
 ikkje det, kan du kontakta <a
 href="http://elev.no/wshow.aspx?p=9">Elevorganisasjonen</a> eller <a
 href="http://ny.malungdom.no/organisasjon/skrivarstova/">Norsk Målungdom</a>.
@@ -74,7 +74,7 @@ Dei siste åra har skulen blitt meir og meir digital. Mange nynorskelevar og -st
 
 Det er kommunane som har ansvar for at elevane får oppfylt sine språklege rettar. Men mange kommunar er ikkje klare over dette ansvaret eller synest det er vanskeleg å lata vere å ta i bruk gode læremiddel sjølv om dei ikkje finst på nynorsk.
 
-For å kartlegge kva digitale læremiddel som finst på nynorsk, og kva som ikkje finst på nynorsk, treng vi di hjelp. 
+For å kartlegga kva digitale læremiddel som finst på nynorsk, og kva som ikkje finst på nynorsk, treng vi di hjelp. 
 
 Les meir om kampanjen og send inn tipsa dine [her](http://www.nm.no/tekst.cfm?path=10618).  
  
@@ -92,10 +92,11 @@ Når vi har motteke klaga di gjer vi slik:
 - Alle klagene blir sendte i kopi til Språkrådet.
 - Du får ogso ein kopi av klaga.
 
+
 <h2 id="skjema">Klageskjema</h2>
 
 <form method="POST" action="/cgi-bin/send.py?_type=elevklage"
-  data-type="elevklage" data-success="Klaga innsendt, du høyrer frå oss.">
+  data-type="elevklage" data-success="Vi har fått klaga di, du høyrer frå oss.">
   <label>Namnet ditt (Du vil vera anynom i klaga) <input name="namn" required></label>
   <label>Epostadressa di (Slik at vi kan kontakte deg) <input type="email" name="epost" required></label>
   <label>Skule eller utdanningsstad <input name="utdanningsstad"></label>
