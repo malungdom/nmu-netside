@@ -5,7 +5,8 @@ tittel: Språklege rettar
 ingress: Nynorsk og bokmål har vore jamstelte sidan 1885. Av di bokmålet har hatt hegemoni i
 Noreg har det vore naudsynt å få lovfesta ein del rettar for nynorskbrukarar slik at
 desse skriftmåla skal vera jamstelte i røynda òg. 
-
+----
+toppbilete: ingen
 ---
 tekst:
 
@@ -107,6 +108,3 @@ Når vi har motteke klaga di gjer vi slik:
   </label>
   <input type="submit" value="Send inn">
 </form>
-
-------------
-toppbilete: none
