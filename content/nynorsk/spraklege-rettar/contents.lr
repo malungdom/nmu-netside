@@ -94,8 +94,8 @@ Når vi har motteke klaga di gjer vi slik:
 
 <h2 id="skjema">Klageskjema</h2>
 
-<form method="POST" action="/cgi-bin/send.py?_type=klage"
-  data-type="klage" data-success="Klaga innsendt, du høyrer frå oss.">
+<form method="POST" action="/cgi-bin/send.py?_type=elevklage"
+  data-type="elevklage" data-success="Klaga innsendt, du høyrer frå oss.">
   <label>Namnet ditt (Du vil vera anynom i klaga) <input name="namn" required></label>
   <label>Epostadressa di (Slik at vi kan kontakte deg) <input type="email" name="epost" required></label>
   <label>Skule eller utdanningsstad <input name="utdanningsstad"></label>
