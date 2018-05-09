@@ -1,6 +1,5 @@
 _model: framside
 ---
-<meta name="google-site-verification" content="E_Wbt76_BTIcd9QGrfOAaG0Ja87s5I8Ykznvo8V7fqc" />
 tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
@@ -111,9 +110,9 @@ Gåve?
 ====
 Me er avhengige av stabil økonomi for å få frie hender til politisk arbeid. Gode målfolk har i årevis stødd oss med målgåver, og det kjem godt til nytte.
 
-Har du lyst til å gi målgåve? Vipps ei pengegåve til vippsnummer 22472 eller registrer deg i dette skjemaet for å få giro i posten tre gongar i året.
+Har du lyst til å gje målgåve? Vipps ei pengegåve til vippsnummer 22472 eller registrer deg i dette skjemaet for å få giro i posten tre gongar i året.
 
-Viss du gjer 500 kroner eller meir i gåve kan du få skattefrådrag. 
+Viss du gjev 500 kroner eller meir i gåve kan du få skattefrådrag. 
 
 
 <form method="POST" action="/cgi-bin/send.py?_type=gaave"
