@@ -103,14 +103,14 @@ Når vi har motteke klaga di gjer vi slik:
 
 <form method="POST" action="/cgi-bin/send.py?_type=klage"
   data-type="klage" data-success="Klaga innsendt, du høyrer frå oss.">
-  <label>Namnet ditt (Du vil vera anynom i klaga) <input name="namn" required></label>
-  <label>Epostadressa di (Slik at vi kan kontakte deg) <input type="email" name="epost" required></label>
+  <label>Namnet ditt <small>(Du vil vera anynom i klaga)</small> <input name="namn" required></label>
+  <label>Epostadressa di <small>(Slik at vi kan kontakte deg)</small> <input type="email" name="epost" required></label>
   <label>Utdanningsstad <input name="utdanningsstad"></label>
   <label>Emnekode <input name="emnekode" required></label>
-  <label>Type eksamen (Skuleeksamen/heimeeksamen?) <input name="type_eksamen"></label>
+  <label>Type eksamen <small>(Skuleeksamen/heimeeksamen?)</small> <input name="type_eksamen"></label>
   <label>Eksamensdato <input name="dato" required></label>
   <label>
-    Klage (Mangla nynorskversjon? Dårleg språk?)
+    Klage <small>(Mangla nynorskversjon? Dårleg språk?)</small>
     <textarea name="klage" rows=6></textarea>
   </label>
   <input type="submit" value="Send inn">
