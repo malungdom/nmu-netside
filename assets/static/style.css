@@ -288,6 +288,9 @@ footer.kontakt {
  outline: none;
  box-shadow: none;
 }
+.meld-deg-inn label {
+  width: initial;
+}
 .meld-deg-inn input:first-of-type {
   border-top: none;
 }
@@ -301,6 +304,18 @@ footer.kontakt {
   top: -2px;
   width: 50%;
   z-index: 1;
+}
+.meld-deg-inn .box > * {
+  font-size: 20px;
+  font-family: "Source Sans Pro";
+  padding: 10px;
+}
+.meld-deg-inn .nyhendebrev div {
+  display: flex;
+  justify-content: space-evenly;
+}
+.meld-deg-inn .nyhendebrev input {
+  width: initial;
 }
 
 

@@ -21,6 +21,13 @@ body:
     <input placeholder="Telefonnr" name=tlfnr>
     <input type=number placeholder="Født (årstal)" name=fodt required>
     <input type=email placeholder="Epost" name=epost>
+    <div class="nyhendebrev">
+      <span>Nyhendebrev</span>
+      <div>
+        <label><input type=radio required name=nyhendebrev value=ja> Ja</label>
+        <label><input type=radio required name=nyhendebrev value=nei> Nei</label>
+      </div>
+    </div>
   </div>
   <input class=submit type=submit value="Send inn">
 </form>
@@ -90,15 +97,15 @@ Kva skjer framover?
 
 Betala medlemspengar?
 ===============
-Du kan melda deg inn ved å sende SMS med kodeord 
+Du kan melda deg inn ved å sende SMS med kodeord
 
-`NMU + namn + fødeår + e-post` til `2090` 
+`NMU + namn + fødeår + e-post` til `2090`
 (det kostar 50 kroner og gjeld ut 2018).
 
- 
+
 Viss du allereie er medlem kan du senda kodeord `MEDLEMSPENGAR` til `2090` (det kostar 80 kroner)
 
-eller 
+eller
 
 set inn 80 kroner på kontonr. `3450.65.48618` og merk betalinga med namnet ditt.
 ----
@@ -112,7 +119,7 @@ Me er avhengige av stabil økonomi for å få frie hender til politisk arbeid. G
 
 Har du lyst til å gje målgåve? Vipps ei pengegåve til vippsnummer 22472 eller registrer deg i dette skjemaet for å få giro i posten tre gongar i året.
 
-Viss du gjev 500 kroner eller meir i gåve kan du få skattefrådrag. 
+Viss du gjev 500 kroner eller meir i gåve kan du få skattefrådrag.
 
 
 <form method="POST" action="/cgi-bin/send.py?_type=gaave"
