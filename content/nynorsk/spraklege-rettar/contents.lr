@@ -4,7 +4,7 @@ tittel: Språklege rettar
 ---
 ingress: Nynorsk og bokmål har vore jamstelte sidan 1885. Av di bokmålet har hatt hegemoni i
 Noreg har det vore naudsynt å få lovfesta ein del rettar for nynorskbrukarar slik at
-desse skriftmåla skal vera jamstelte i røynda òg. 
+desse skriftmåla skal vera jamstelte i røynda òg.
 ---
 toppbilete: ingen
 ---
@@ -31,19 +31,19 @@ href="http://www.lovdata.no/all/tl-19980717-061-010.html#9-4">- Opplæringslova,
 
 <em>Du har rett til å få eksamen på nynorsk</em>
 
-<em>Du har rett til å møta nynorsk som undervisningsspråk</em>. 
+<em>Du har rett til å møta nynorsk som undervisningsspråk</em>.
 
 Du har rett til å få ein rimeleg del av prøvene og undervisninga på ditt eige språk, jamvel om
 du er einaste nynorskeleven i klassen.<a
 href="http://www.nynorsk.no/nmu/ymist/rundskriv.shtml"></a>
 
-<em>Du har rett til å velja hovudmål</em>. 
+<em>Du har rett til å velja hovudmål</em>.
 
 Du slepp å søkja skulen for å byta
 hovudmål til nynorsk. At bokmål og nynorsk er likeverdige skriftmål vil seia at
 elevar har rett til å velja nett det skriftmålet dei vil.
 
-<em>Du har rett til å klaga</em>. 
+<em>Du har rett til å klaga</em>.
 
 Om du ikkje er nøgd med måten læraren din
 eller skulen held seg til regelverket på, så har du rett til å klaga. Vi kan hjelpe deg med å klage viss du sender klaga di til oss gjennom klageskjemaet på denne nettsida. Nyttar
@@ -58,37 +58,37 @@ Universitet og høgskular skal fylgja mållova, og pliktar gje deg
 skjema og liknande på nynorsk. Dei skal òg nytta minst 25% nynorsk i skriftleg
 tilfang. I «Forskrifter om målform i eksamensoppgåver» står det i §2 tydeleg at
 eksamensoppgåver skal liggja føre på båe målformer, og at eksamenskandidatane
-etter eige ynske kan få oppgåvene anten på bokmål eller på nynorsk. Les meir om studentrettar og send inn klage [her](https://malungdom.no/klag/). 
+etter eige ynske kan få oppgåvene anten på bokmål eller på nynorsk. Les meir om studentrettar og send inn klage [her](https://malungdom.no/klag/).
 
 #### text-block ####
 content:
 Oppdater!
 =======
-ein kampanje for digitale læremiddel på nynorsk
+Ein kampanje for digitale læremiddel på nynorsk
 -----------------
-<dd><img src="oppdater.jpg" alt="">
+<img src="oppdater.jpg" alt="">
 
-I samarbeid med Noregs Mållag skipar Norsk Målungdom til ein nasjonal kampanje for digitale læremiddel i skulen: Oppdater! 
+I samarbeid med Noregs Mållag skipar Norsk Målungdom til ein nasjonal kampanje for digitale læremiddel i skulen: Oppdater!
 
 Dei siste åra har skulen blitt meir og meir digital. Mange nynorskelevar og -studentar får likevel ikkje nytte nynorsk i dei appane og programma dei nyttar. Lova, og forskriftene, som skal sikre opplæring på både nynorsk og bokmål er ikkje tilpassa ein situasjon der tilgangen til digitale læremiddel er stor og norske lærarar i teorien fritt kan velja å ta dei i bruk.
 
 Det er kommunane som har ansvar for at elevane får oppfylt sine språklege rettar. Men mange kommunar er ikkje klare over dette ansvaret eller synest det er vanskeleg å lata vere å ta i bruk gode læremiddel sjølv om dei ikkje finst på nynorsk.
 
-For å kartlegga kva digitale læremiddel som finst på nynorsk, og kva som ikkje finst på nynorsk, treng vi di hjelp. 
+For å kartlegga kva digitale læremiddel som finst på nynorsk, og kva som ikkje finst på nynorsk, treng vi di hjelp.
 
-Les meir om kampanjen og send inn tipsa dine [her](http://www.nm.no/tekst.cfm?path=10618).  
- 
+Les meir om kampanjen og send inn tipsa dine [her](http://www.nm.no/tekst.cfm?path=10618).
+
 
 #### text-block ####
 content:
 Send inn klage
 ==============
-Med skjemaet under kan du melde frå til oss om du ikkje får oppfylt dei språklege rettane dine, til dømes viss du ikkje får læremiddel på nynorsk, eller viss skulen ikkje let deg velja hovudmål. 
+Med skjemaet under kan du melde frå til oss om du ikkje får oppfylt dei språklege rettane dine, til dømes viss du ikkje får læremiddel på nynorsk, eller viss skulen ikkje let deg velja hovudmål.
 
 Når vi har motteke klaga di gjer vi slik:
 
 - Vi samlar inn alle klagene
-- Når vi får inn ei klage, sender vi klagebrev til skuleeigaren (det vil seie kommunen hvis du går på grunnskulen, og fylkeskommunen viss du går på vidaregåande) eller studiestaden din. 
+- Når vi får inn ei klage, sender vi klagebrev til skuleeigaren (det vil seie kommunen hvis du går på grunnskulen, og fylkeskommunen viss du går på vidaregåande) eller studiestaden din.
 - Alle klagene blir sendte i kopi til Språkrådet.
 - Du får ogso ein kopi av klaga.
 
@@ -97,12 +97,12 @@ Når vi har motteke klaga di gjer vi slik:
 
 <form method="POST" action="/cgi-bin/send.py?_type=elevklage"
   data-type="elevklage" data-success="Vi har fått klaga di, du høyrer frå oss.">
-  <label>Namnet ditt (Du vil vera anynom i klaga) <input name="namn" required></label>
-  <label>Epostadressa di (Slik at vi kan kontakte deg) <input type="email" name="epost" required></label>
+  <label>Namnet ditt <small>(Du vil vera anynom i klaga)</small> <input name="namn" required></label>
+  <label>Epostadressa di <smalL>(Slik at vi kan kontakte deg)</small> <input type="email" name="epost" required></label>
   <label>Skule eller utdanningsstad <input name="utdanningsstad"></label>
   <label>Fag eller emne <input name="emnekode" required></label>
   <label>
-    Klage (Kva vil du klage på?)
+    Klage <small>(Kva vil du klage på?)</small>
     <textarea name="klage" rows=6></textarea>
   </label>
   <input type="submit" value="Send inn">
