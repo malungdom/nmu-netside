@@ -3,6 +3,7 @@ _model: framside
 tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
+###hero###
 <img src="nyttbanner.jpg" alt="">
 ----
 body:
