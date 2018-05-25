@@ -4,33 +4,11 @@ tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
 #### hero ####
-bilete: banner.jpg
+bilete: <img src="nyttbanner.jpg" alt="">
 ----
 body:
 
 <h1>Velkomen til Norsk Målungdom</h1>
-<form class="meld-deg-inn" method=POST
-  action=/cgi-bin/send.py?_type=innmelding
-  data-type=innmelding
-  data-success="Tusen takk! Me sender ein epost og ei velkomstpakke i posten.">
-  <h2>Bli medlem! &hearts;</h2>
-  <div class=box>
-    <input placeholder="Namn" name=namn required>
-    <input placeholder="Tilskrift (adresse)" name=tilskrift>
-    <input placeholder="Postnr" name=postnr required>
-    <input placeholder="Telefonnr" name=tlfnr>
-    <input type=number placeholder="Født (årstal)" name=fodt required>
-    <input type=email placeholder="Epost" name=epost>
-    <div class="nyhendebrev">
-      <span>Nyhendebrev</span>
-      <div>
-        <label><input type=radio required name=nyhendebrev value=ja> Ja</label>
-        <label><input type=radio required name=nyhendebrev value=nei> Nei</label>
-      </div>
-    </div>
-  </div>
-  <input class=submit type=submit value="Send inn">
-</form>
 
 ---
 tekst:
