@@ -1,13 +1,21 @@
-_model: page-advanced
+_model: framside
 ---
 tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
+<<<<<<< HEAD
 
 <img src="finefredrik.jpg" alt="">
 
 Bli medlem! 
+=======
+###hero###
+<img src="nyttbanner.jpg" alt="">
+>>>>>>> parent of 9895d85... framside
 ----
+body:
+
+<h1>Velkomen til Norsk Målungdom</h1>
 
 ---
 tekst:
