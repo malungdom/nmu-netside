@@ -1,21 +1,14 @@
-_model: framside
+_model: page-advanced
 ---
 tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
-xx
-
-Bli medlem! 
-=======
-###hero###
-=======
 
 <img src="finefredrik.jpg" alt="">
 
-----
-body:
+Bli medlem! 
+=======
 
-<h1>Velkomen til Norsk Målungdom</h1>
 
 ---
 tekst:
