@@ -3,30 +3,6 @@ _model: page-advanced
 tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
-<dd>
  
 Bli medlem! 
 ----
@@ -133,7 +109,7 @@ Viss du gjev 500 kroner eller meir i gåve kan du få skattefrådrag.
 ----
 class: box
 ---
-toppbilete: nybanner.jpg
+toppbilete: nybanner-full.jpg
 ---
 
 
