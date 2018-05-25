@@ -3,14 +3,13 @@ _model: page-advanced
 tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
----
-toppbilete: framside.jpg
-
 
 
 Bli medlem! 
 =======
 
+---
+toppbilete: framside.jpg
 
 ---
 tekst:
