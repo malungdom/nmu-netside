@@ -4,12 +4,15 @@ tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <img src="finefredrik.jpg" alt="">
 
 Bli medlem! 
 =======
 ###hero###
+=======
+>>>>>>> parent of f0f0fdb... ?
 <img src="nyttbanner.jpg" alt="">
 >>>>>>> parent of 9895d85... framside
 ----
