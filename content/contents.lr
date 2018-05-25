@@ -4,7 +4,6 @@ tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
 
-<img src="finefredrik.jpg" alt="">
 
 Bli medlem! 
 ----
@@ -110,3 +109,8 @@ Viss du gjev 500 kroner eller meir i gåve kan du få skattefrådrag.
 
 ----
 class: box
+---
+toppbilete: banner.jpg
+---
+
+
