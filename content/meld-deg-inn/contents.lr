@@ -38,4 +38,6 @@ content:
   </div>
   <input class=submit type=submit value="Send inn">
 </form>
+
+----
 class: box
