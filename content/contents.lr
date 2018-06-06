@@ -4,7 +4,7 @@ tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
 
-
+<img src="meldinn.png" alt="">
 Bli medlem!
 =======
 Fyll inn skjemaet eller 
@@ -117,7 +117,9 @@ content:
 
 Fylg NMU
 ====
-<img src="face-small.png" alt="">
+<img src="face-small.png" alt=""> NMU på facebook. Fylg sida vår! Hendingar og oppdateringar
+<img src="insta-small.png" alt=""> NMU-kvardagen
+<img src="twitter-small.png" alt=""> Ta diskusjonen
 
 ----
 class: box
