@@ -34,7 +34,7 @@ content:
       <label><input type="radio" required name="medlemsavis" value="nei"> Nei</label>
 	  </div>
 	</div>
-  <input type="submit" value="Send inn">
+  <input type="submit" style="margin-left: auto" value="Send inn">
 </form>
 
 ----

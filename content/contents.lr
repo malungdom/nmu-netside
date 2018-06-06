@@ -1,13 +1,15 @@
-_model: page-advanced
+_model: framside
 ---
 tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
+#### hero ####
+bilete: framside.jpg
+----
+body:
+<h1>Velkomen til Norsk Målungdom</h1>
+<a href="/meld-deg-inn" class="button bli-medlem-stor">Bli medlem!</a>
 
-Bli medlem!
-=======
-Send ein e-post til skriv@nynorsk.no eller 
-send SMS med kodeord NMU + namn, fødeår, e-post og postadresse til 2090. 50 kroner blir trekt frå mobilrekninga di. 
 ---
 tekst:
 

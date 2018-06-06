@@ -54,7 +54,7 @@ label {
   width: 100%;
 }
 input:not([type]), input[type=text], input[type=email], input[type=number],
-input[type=submit], textarea {
+input[type=submit], textarea, button, .button {
   border-radius: 2px;
   border: 1px solid rgba(80, 80, 80, 0.4);
   box-shadow: 0 1px 4px rgba(20, 60, 70, 0.4);
@@ -65,16 +65,31 @@ input[type=submit], textarea {
   transition: 100ms box-shadow;
   width: 100%;
 }
-input[type=submit] {
+input[type=submit], button, .button {
   background: linear-gradient(to top, rgb(30, 96, 113), rgb(80, 162, 183));
   border: none;
   color: white;
-  margin-left: auto;
   padding: 10px 20px;
   width: auto;
 }
+.button {
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+}
+input[type=submit]:hover, button:hover, .button:hover {
+  background: linear-gradient(to top, rgb(50, 142, 143), rgb(80, 162, 183));
+}
 input:focus, .meld-deg-inn input:focus {
   box-shadow: 0 0 0 3px rgba(60, 140, 160, 0.5);
+}
+.bli-medlem-stor {
+  background: linear-gradient(to top, rgb(183, 154, 14), rgb(236, 225, 97));
+  font-size: 28px;
+  padding: 2rem 4rem;
+}
+.bli-medlem-stor:hover {
+  background: linear-gradient(to top, rgb(218, 193, 73), rgb(255, 243, 104))
 }
 main {
  background-color: rgba(0, 102, 128, 0.03);
