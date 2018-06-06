@@ -107,20 +107,6 @@ Viss du gjev 500 kroner eller meir i gåve kan du få skattefrådrag.
   </label>
   <input type="submit" value="Registrer deg!">
 </form>
-
-----
-class: box
-
-class: box
-#### text-block ####
-content:
-
-Fylg NMU
-====
-<img src="face-small.png" alt=""> NMU på facebook. Fylg sida vår! Hendingar og oppdateringar
-<img src="insta-small.png" alt=""> NMU-kvardagen
-<img src="twitter-small.png" alt=""> Ta diskusjonen
-
 ----
 class: box
 ---
