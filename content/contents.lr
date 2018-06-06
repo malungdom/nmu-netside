@@ -7,7 +7,8 @@ ingress:
 
 Bli medlem!
 =======
-Send SMS med kodeord NMU + namn, fødeår, e-post og postadresse til 2090. Det kostar 50 kroner. 
+Fyll inn skjemaet eller 
+send SMS med kodeord NMU + namn, fødeår, e-post og postadresse til 2090. 50 kroner blir trekt frå mobilrekninga di. 
 ---
 tekst:
 
@@ -108,6 +109,6 @@ Viss du gjev 500 kroner eller meir i gåve kan du få skattefrådrag.
 </form>
 
 ----
-class: big-box
+class: box
 ---
 toppbilete: framside.jpg
