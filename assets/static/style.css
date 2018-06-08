@@ -84,15 +84,15 @@ input:focus, .meld-deg-inn input:focus {
   box-shadow: 0 0 0 3px rgba(60, 140, 160, 0.5);
 }
 .bli-medlem-stor {
-  background: linear-gradient(to top, rgb(183, 123, 14), rgb(236, 186, 97));
+  background: linear-gradient(to top, #5d0811, #7c101c 5%, #ab2030);
   font-size: 28px;
   padding: 2rem 4rem;
 }
 .bli-medlem-stor:hover {
-  background: linear-gradient(to top, rgb(183, 123, 14), rgb(246, 206, 117));
+  background: linear-gradient(to top, #5d0811, #7c101c 5%, #ef2e44);
 }
 .bli-medlem-stor:active {
-  background: rgb(183, 123, 14);
+  background: linear-gradient(to top, #7f131f, #ef2e44);
 }
 main {
  background-color: rgba(0, 102, 128, 0.03);
