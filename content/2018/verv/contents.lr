@@ -1,0 +1,104 @@
+_model: page-advanced
+---
+tittel: Vervekampanje
+---
+ingress: Frå 20. august til 23. september er det vervekampanje. I vervekampanjen er det om å gjere å verve flest mogleg!  
+---
+tekst:
+
+#### text-block ####
+content:
+
+<style>
+.meter {
+  border: 0;
+  height: 35px;
+  width: calc(100% - 40px);
+  padding: 0 20px;
+}
+
+</style>
+----
+class: full
+#### text-block ####
+content:
+
+Gjer ein skilnad for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk og meir nynorsk i kvardagen.
+
+Lokallagskonkurranse
+=============
+Kva lokallag vervar flest?
+Studentmållaga kjempar om den gjæve vandregralen.
+Dei tre beste elevmållaga vinn jakkemerke med sin eigen logo.
+
+Lokallaget ditt får utteljing for kvar ny medlem som vert
+verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
+deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
+ditt i kampen mot dei andre lokallaga eller studentmållaga.
+
+<small>Eit døme: 24. august vervar Ivar Aasen, medlem i Ørsta
+Elevmållag, Hulda Garborg på stand på storefri. Ivar oppmodar Hulda
+til å melde seg inn med SMS. Ho finn fram mobilen og sender «NMU100
+Hulda Garborg+1862+huldagarborg@nynorsk.no+Knudaheio+4342 Undheim+Ivar Aasen» til 2090. Denne
+vervinga gjev utteljing både til Ørsta Elevmållag og Ivar
+sjølv, så lenge Hulda hugsar å skrive inn både fødeår og postnummer.</small>
+----
+class: big-box
+#### text-block ####
+content:
+
+Vervepremiar
+===========
+Vi avslører snart premielista! 
+
+----
+class: box
+#### text-block ####
+content:
+
+Registrer verving
+================
+Når vervekampanjen startar kan du registrere vervingar her. 
+
+<form method="POST" action="/cgi-bin/send.py?_type=verv2018"
+  data-type="verv2017" data-success="Tusen takk for veringa!">
+  <label>Vervar-namn <input name="vervarnamn" required></label>
+  <label>Namn <input name="namn" required></label>
+  <label>Addresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Epost <input type="email" name="epost"></label>
+  <input type="submit" value="Registrer!">
+</form>
+----
+class: box
+#### text-block ####
+content:
+
+Vervetoppen
+========
+<style>
+.toppen {
+  border: 0;
+  width: 100%;
+  height: 500px;
+}
+</style>
+<iframe class="toppen" src="https://medlem.nynorsk.no/stats/vervetopp/?from=2018-08-13&to=2018-09-25"></iframe>
+
+
+Elevmållagsvervetoppen
+========
+Når de startar å verve oppdaterer vi elemållagsvervetoppen, slik at de kan fylgje med på kva lokallag som ligg best an til å vinne jakkermerke med eigen logo. 
+
+Studentmållagsvervetoppen
+========
+Når de startar å verve oppdaterer vi studentmållagsvervetoppen, slik at de kan fylgje med på kva lokallag som ligg best an til å vinne vandregralen. 
+
+
+---
+----
+class: box
+---
+toppbilete: None
