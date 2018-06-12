@@ -9,17 +9,24 @@ tekst:
 #### text-block ####
 content:
 
-<style>
-.meter {
-  border: 0;
-  height: 35px;
-  width: calc(100% - 40px);
-  padding: 0 20px;
-}
+Registrer verving
+================
+Når vervekampanjen startar kan du registrere vervingar her. 
 
-</style>
+<form method="POST" action="/cgi-bin/send.py?_type=verv2018"
+  data-type="verv2017" data-success="Tusen takk for veringa!">
+  <label>Vervar-namn <input name="vervarnamn" required></label>
+  <label>Namn <input name="namn" required></label>
+  <label>Addresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Epost <input type="email" name="epost"></label>
+  <input type="submit" value="Registrer!">
+</form>
 ----
-class: full
+-----
+class: box
 #### text-block ####
 content:
 
@@ -51,26 +58,6 @@ Vervepremiar
 ===========
 Vi avslører snart premielista! 
 
-----
-class: box
-#### text-block ####
-content:
-
-Registrer verving
-================
-Når vervekampanjen startar kan du registrere vervingar her. 
-
-<form method="POST" action="/cgi-bin/send.py?_type=verv2018"
-  data-type="verv2017" data-success="Tusen takk for veringa!">
-  <label>Vervar-namn <input name="vervarnamn" required></label>
-  <label>Namn <input name="namn" required></label>
-  <label>Addresse <input name="adresse"></label>
-  <label>Postnr <input name="postnr" required></label>
-  <label>Telefonnr <input name="tlfnr"></label>
-  <label>Fødeår <input name="fodear" required></label>
-  <label>Epost <input type="email" name="epost"></label>
-  <input type="submit" value="Registrer!">
-</form>
 ----
 class: box
 #### text-block ####
