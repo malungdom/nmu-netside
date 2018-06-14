@@ -1,0 +1,23 @@
+_model: page-advanced
+---
+tittel: Personvern
+---
+ingress:
+Norsk Målungdom handsamar personopplysningar.  
+
+---
+tekst:
+
+#### text-block ####
+content:
+Personvernerklæring
+=========
+
+
+#### text-block ####
+content:
+Meld frå om endringar
+=====
+
+---
+toppbilete: none
