@@ -14,7 +14,7 @@ content:
 <form method="POST" action="/cgi-bin/send.py?_type=innmelding"
     data-type="innmelding"
     data-success="Tusen takk! Me sender ei velkomstpakke i posten.">
-  <input placeholder="Namn" name=namn required>
+  <input placeholder="Fullt namn" name=namn required>
   <input placeholder="Tilskrift (adresse)" name="tilskrift">
   <input placeholder="Postnr" name="postnr" required>
   <input placeholder="Telefonnr" name="tlfnr">
