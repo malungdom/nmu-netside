@@ -1,19 +1,14 @@
 _model: page-advanced
 ---
+tittel:  
+---
 ingress:
 
-.
+ 
 
-.
-
-.
-
-.
-
-.
-
-tekst:
 ---
+tekst:
+
 #### text-block ####
 content:
 
