@@ -11,10 +11,9 @@ content:
 
 Registrer verving
 ================
-Når vervekampanjen startar kan du registrere vervingar her. 
 
 <form method="POST" action="/cgi-bin/send.py?_type=verv2018"
-  data-type="verv2017" data-success="Tusen takk for veringa!">
+  data-type="verv2018" data-success="Tusen takk for veringa!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
   <label>Namn <input name="namn" required></label>
   <label>Addresse <input name="adresse"></label>
