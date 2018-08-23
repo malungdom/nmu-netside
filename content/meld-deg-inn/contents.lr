@@ -20,6 +20,7 @@ content:
   <input placeholder="Telefonnr" name="tlfnr">
   <input type=number placeholder="Født (årstal)" name="fodt" required>
   <input type=email placeholder="Epost" name="epost">
+  <input type=ververnamn placeholder="Blei du verva?" name="vervarnamn">
   <div class="nyhendebrev" style="width: 100%; margin: 0.5rem 0;">
     <span>Vil du ha nyhendebrev?</span>
     <div style="display: flex">
