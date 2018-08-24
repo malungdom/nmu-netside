@@ -35,7 +35,7 @@ Mangfald-caps
 
 <img src="allemangfald-small.png" alt="">
 
-<small>Vel mellom grå, blå, kvit, rosa og gul.</small> 
+<small>Vel mellom grå, blå, kvit og gul.</small> 
 
 Nyfiken-handlenett
 ===============
@@ -77,7 +77,7 @@ content:
 Ymse tilfang og prisar
 ========
 
-* NMU-sekken: 500 kroner **UTSELD**
+* NMU-sekken: 500 kroner
 * Mangfald-caps: 200 kroner
 * Nyfiken-handlenett: 100 kroner
 * Kampanjegenser: 300 kroner 
@@ -121,7 +121,7 @@ Elles kan ein finne mykje fint i [krambua til Noregs Mållag](http://www.nm.no/k
 class: box
 #### text-block ####
 content:
-Send e-post til skriv@nynorsk.no viss du lurer på noko.
+Send e-post til norsk@malungdom.no viss du lurer på noko.
 
 <form method="POST" action="/cgi-bin/send.py?_type=krambua"
   data-type="krambua" data-success="Takk for tinginga! Vi sender deg det du vil ha og ein faktura.">
