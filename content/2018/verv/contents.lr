@@ -2,7 +2,7 @@ _model: page-advanced
 ---
 tittel: Vervekampanje
 ---
-ingress: Frå 20. august til 23. september er det vervekampanje. I vervekampanjen er det om å gjere å verve flest mogleg!  
+ingress: Vervekampanjen 2018 er over.   
 ---
 tekst:
 
@@ -13,7 +13,7 @@ Registrer verving
 ================
 
 <form method="POST" action="/cgi-bin/send.py?_type=verv2018"
-  data-type="verv2018" data-success="Tusen takk for veringa!">
+  data-type="verv2018" data-success="Tusen takk for vervinga!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
   <label>Namn <input name="namn" required></label>
   <label>Addresse <input name="adresse"></label>
@@ -114,19 +114,21 @@ Elevmållagsvervetoppen
 ========
 Fron Målungdom: 8 vervingar
 
-Målungdommen i Telemark: 7 vervingar
+Målungdommen i Telemark: 8 vervingar
 
-Katta Målungdom: 7 vervingar
+Katta Målungdom: 8 vervingar
+
+Vågen Elevmållag: 7 vervingar
+
+Voss Målungdom: 4 vervingar
+
+Søre Sunnmøre Målungdom: 4 vervingar
 
 Sogndal Målungdom: 3 vervingar
 
-Voss Målungdom: 3 vervingar
-
-Haugalandet Målungdom: 2 vervingar
+Haugalandet Målungdom: 3 vervingar
 
 Sumarøyo Målungdom: 2 vervingar
-
-Søre Sunnmøre Målungdom: 1 verving
 
 NMU Ålesund og omland: 1 verving
 
@@ -134,28 +136,26 @@ Firda Målungdom: 1 verving
 
 Sandefjord Elevmållag: 1 verving
 
-Vågen Elevmållag: 1 verving
-
 Indre Sunnfjord Målungdom: 1 verving
 
 Studentmållagsvervetoppen
 ========
-Studentmållaget i Nidaros: 8 vervingar
+Studentmållaget i Agder: 17 vervingar 
 
-Studentmållaget i Bergen: 8 vervingar 
+Studentmållaget i Nidaros: 16 vervingar
+
+Studentmållaget i Bergen: 12 vervingar 
+
+Studentmållaget i Oslo: 12 vervingar
 
 Studentmållaget i Volda: 7 vervingar 
 
-Studentmållaget i Oslo: 6 vervingar
-
-Studentmållaget i Tromsø: 2 vervingar
+Studentmållaget i Tromsø: 3 vervingar
 
 Ås studentmållag: 1 verving
 
-Studentmållaget i Agder: 1 verving 
 
-
-<small>Oppdatert 19.09 klokka 11</small>
+<small>Oppdatert 24.09. Konkurransen  er avslutta. Gratulerer til vinnarane!</small>
 
 Ressurspakka
 ========
