@@ -1,0 +1,119 @@
+_model: page-advanced
+---
+tittel: Vinterleiren 2019
+---
+ingress:
+
+Frå 18. til 20. januar på Eina på Toten
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Program
+=====
+Vinterleiren 2019 har dialekttema! Det tyder at dialekt kjem til å vere ein raud tråd i programmet. 
+
+Før vi slepp det heilskaplege programmet for leiren, kan vi freiste med nokre smakebitar: 
+
+- Professor i nordisk språkvitskap Brit Mæhlum innleiar om dialektvariasjon og dialektutvikling på flatbygdene rundt Mjøsa
+- Leiar i Numedal Mållag, Sigrun Heimdal, innleiar om arbeidet dei har gjort for å samle og berge numedalsmålet, og om nettsida [numedalsmal.no](https://www.numedalsmal.no/)
+- Jakkemerkeverkstad der vi lagar jakkemerke med dialektord 
+
+I tillegg blir det faste vinterleirprogrampunkt som skitur for dei som vil, og handarbeid. 
+
+Det er innsjekk og brødmat frå 16.00 fredag. Programmet startar tidlegast 17.00. 
+Programmet er ferdig sundag klokka 14.00. 
+
+----
+class: box
+#### text-block ####
+content:
+
+Påmelding
+=========
+<form method="POST" action="/cgi-bin/send.py?_type=vinterleir"
+  data-type="vinterleir" data-success="Innsendt! Me gler oss!">
+  <label>Namn <input name="namn" required></label>
+  <label>Adresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Namn og nummer på pårørande <input name="parorande"></label>
+  <label>Epost <input type="email" name="epost" required></label>
+  <label>
+    Matallergiar? Vegetarianar? Andre ting me bør vite om?
+    <textarea name="fritekst" rows=3></textarea>
+  </label>
+  <input type="submit" value="Meld deg på!">
+</form>
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+Tørre fakta
+-----------
+**Kvar**: Skogstad leirstad på Eina på Toten 
+
+**Når**: 18. til 20. januar
+
+**Pris**: Pris kjem
+
+**Reisedekking**: Vi kostar reisa for alle som kjem på leiren.
+
+**Pakkeliste**:
+- sovepose
+- toalettsaker
+- handkle
+- varme klede
+- ski, viss du vil gå på ski
+
+Reiseruter
+=====
+I år skal vinterleiren vere på Eina på Toten. 
+
+Leirstaden ligg 500 meter frå togstasjonen, så det enklaste og billegaste for dei som bur i nærleiken av ei togline, er å ta toget. Ting billettar så tidleg som mogleg, og kjøp miniprisbillettar viss det er.  
+
+For folk som bur verkeleg langt vekke frå Eina (Nord-Noreg, til dømes), kan det henda fly er einaste fornuftige reisemåte mtp. tidsbruk og reisebelastning.  Ved bruk av fly tilrår me å kryssjekka prisar på Widerøe, SAS og Norwegian. 
+
+Merk: Me dekkjer i utgangspunktet ikkje fly frå andre stader i Sør-Noreg – det må i så fall avtalast med oss på førehand. Du kan eventuelt få refundert tilsvarande billegaste reisemåte, og ta mellomlegget sjølv.
+
+Her er nokre framlegg til reiseruter: 
+
+**Frå Gardermoen** 
+
+Den raskaste måten er å taka bussen til Gran stasjon, og tog vidare til Eina. Bussen går 16:00, 17:20, 18:40. Toga går 17:16, 18:14, 20:09.
+
+Du kan óg taka toget til Oslo, og gjøvikbana til Eina. Ho går omlag annankvar time, 15:02, 16:12, 17:02, 19:02, og tek halvannan time.
+
+**Frå Oslo**
+
+Tak toget mot Gjøvik til du kjem til Eina. Det går omlag annankvar time, 15:02, 16:12, 17.02, 19:02.
+
+**Med tog frå Trondheim, Åndalsnes eller Gudbrandsdalen** 
+
+Det går buss frå Lillehammer til både Eina og Gjøvik. Det tek mindre tid enn å toga via Oslo.
+
+Det går buss til Gjøvik 15:45 og kvart over kvar time: 16:15, 17:15, 18:15, 19:15, 20:15. Frå Gjøvik går det buss 16:30, og tog 17:29, 19:32 og 21:31.
+
+
+Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med praktisk ansvarleg Åsmund Kvifte på e-post aasmund@malungdom.no. 
+
+
+Informasjon til føresette
+=========================
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+Difor har me laga eit [informasjonsskriv til
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+dei kan kjenne seg tryggare.
+----
+class: box
+---
+toppbilete: 
+---
+oversikt_tittel: Vinterleir
