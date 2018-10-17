@@ -43,6 +43,13 @@ Påmelding
   <label>Fødeår <input name="fodear" required></label>
   <label>Namn og nummer på pårørande <input name="parorande"></label>
   <label>Epost <input type="email" name="epost" required></label>
+  <div class="samtykke" style="width: 100%; margin: 0.5rem 0;">
+    <span>Kan vi ta bilete av deg, og bruke bileta til blest i Motmæle og sosiale medium?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="samtykke" value="ja"> Ja</label>
+      <label><input type="radio" required name="samtykke" value="nei"> Nei</label>
+	  </div>
+	</div>
   <label>
     Matallergiar? Vegetarianar? Andre ting me bør vite om?
     <textarea name="fritekst" rows=3></textarea>
