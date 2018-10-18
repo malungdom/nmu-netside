@@ -24,6 +24,16 @@ class: full
 #### text-block ####
 content:
 
+Rumpetaske
+===========
+
+<img src="taska-small.png" alt="">
+
+Miljøkopp
+===========
+
+<img src="miljokopp-small.jpg" alt="">
+
 NMU-sekken
 ===========
 
@@ -47,6 +57,22 @@ Nyfiken-handlenett
 class: big-box
 #### text-block ####
 content:
+
+Ein språkmangfaldig genser
+========
+<img src="eingenser-small.png" alt="">
+
+<small>Frå XS til XL</small>
+
+Kva språk finn du på genseren? 
+- Norsk teiknspråk
+- Nynorsk (ein genser), både med det latinske alfabetet og punktskrift
+- Norsk romani (jikk nutta)
+- Lulesamisk (bájdde)
+- Romanes (špenco)
+- Sørsamisk (abpese)
+- Kvensk (tröijy)
+- Nordsamisk (báidi)
 
 Kampanjegenser
 ========
@@ -77,6 +103,9 @@ content:
 Ymse tilfang og prisar
 ========
 
+* Ein språkmangfaldig genser: 300 kroner
+* Rumpetaske: 150 kroner 
+* Miljøkopp med NMU-logo: 50 kroner
 * NMU-sekken: 500 kroner
 * Mangfald-caps: 200 kroner
 * Nyfiken-handlenett: 100 kroner
