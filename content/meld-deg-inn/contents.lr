@@ -2,7 +2,7 @@ _model: page-advanced
 ---
 tittel: Meld deg inn i Norsk Målungdom!
 ---
-ingress: Send SMS med kodeord NMU + namn, fødeår, e-post og postadresse til 2090 (50 kroner blir trekt frå mobilrekninga di)
+ingress: Send SMS med kodeord NMU + namn, fødeår, e-post og postadresse til 2090 (50 kroner blir trekt frå mobilrekninga di), meld deg inn med vipps,
 eller fyll inn skjemaet under.
 
 ---
@@ -20,6 +20,14 @@ content:
   <input placeholder="Telefonnr" name="tlfnr">
   <input type=number placeholder="Født (årstal)" name="fodt" required>
   <input type=email placeholder="Epost" name="epost">
+   <div class="kjønn" style="width: 100%; margin: 0.5rem 0;">
+    <span>Kjønn?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="kjønn" value="Kvinne"> Kvinne</label>
+      <label><input type="radio" required name="kjønn" value="Mann"> Mann</label>
+	  <label><input type="radio" required name="kjønn" value="Anna"> Anna</label>
+	  </div>
+	</div>
   <div class="nyhendebrev" style="width: 100%; margin: 0.5rem 0;">
     <span>Vil du ha nyhendebrev?</span>
     <div style="display: flex">
