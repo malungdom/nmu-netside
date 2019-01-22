@@ -39,6 +39,9 @@ content:
 
 Påmelding
 =========
+
+Vinterleiren har vore, så du kan ikkje lenger melde deg på. 
+
 <form method="POST" action="/cgi-bin/send.py?_type=vinterleir"
   data-type="vinterleir" data-success="Innsendt! Me gler oss!">
   <label>Namn <input name="namn" required></label>
