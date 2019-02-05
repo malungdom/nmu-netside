@@ -1,0 +1,92 @@
+_model: page-advanced
+---
+tittel: Sumarleir 2019
+---
+ingress:
+
+2\. til 7. juli er det sumarleir i Skogn folkehøgskole! I år skipar vi til sumarleir i lag med [Noregs Ungdomslag](http://www.sommarleiren.no/). 
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Påmelding
+=========
+<form method="POST" action="/cgi-bin/send.py?_type=sumarleir"
+  data-type="sumarleir" data-success="Innsendt! Me gler oss!">
+  <label>Namn <input name="namn" required></label>
+  <label>Adresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Namn og nummer på pårørande <input name="parorande"></label>
+  <label>Epost <input type="email" name="epost" required></label>
+    <div class="samtykke" style="width: 100%; margin: 0.5rem 0;">
+    <span>Kan vi ta bilete av deg, og bruke bileta til blest?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="samtykke" value="ja"> Ja</label>
+      <label><input type="radio" required name="samtykke" value="nei"> Nei</label>
+	  </div>
+	</div>
+  <label>
+    Matallergiar? Vegetarianar? Andre ting me bør vite om?
+    <textarea name="fritekst" rows=3></textarea>
+  </label>
+  <input type="submit" value="Meld deg på!">
+</form>
+----
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+
+**Kvar**: Skogn Folkehøgskole i Levanger kommune (Trøndelag)
+
+**Når**: 2. til 7. juli.
+
+**Pris**: Kjem
+
+**Reisedekking**: Me kostar reisa for alle som kjem på leiren.
+
+
+
+Reiseruter
+----------
+Det enklaste for dei fleste er å reise til Trondheim fyrst, og så reise vidare til Skogn derifrå. Til Trondheim kan du reise med tog, buss og fly. 
+
+Frå Trondheim tek du tog til Skogn stasjon. Det tek om lag 10 minutt å gå frå togstasjonen til folkehøgskulen. 
+
+Meld frå om kva tid du kjem!
+
+
+Informasjon til føresette
+=========================
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+Difor har me laga eit [informasjonsskriv til
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+dei kan kjenne seg tryggare.
+
+----
+#### text-block ####
+content:
+
+Samarbeid
+=======
+I år prøver vi noko nytt: Å skipe til sumarleir i lag med Noregs Ungdomslag! 
+
+Noregs Ungdomslag (NU) vart skipa i 1896, og har som føremål å skape engasjement og levande lokalmiljø, gjennom folkelege kulturaktivitetar. 
+Du kan lese meir om sumarleiren på (deira heimesider)[http://www.sommarleiren.no/]. 
+
+Program
+=======
+Det kjem informasjon om programmet etter kvart. 
+
+----
+class: box
+---
+toppbilete: <img src="slbanner.png" alt="">
