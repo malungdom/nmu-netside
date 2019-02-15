@@ -16,8 +16,10 @@ tekst:
 #### text-block ####
 content:
 
-Påmelding (påmeldingsfrist: 1. juni)
+Påmelding 
 =========
+(påmeldingsfrist: 1. juni)
+
 <form method="POST" action="/cgi-bin/send.py?_type=sumarleir"
   data-type="sumarleir" data-success="Innsendt! Me gler oss!">
   <label>Namn <input name="namn" required></label>
