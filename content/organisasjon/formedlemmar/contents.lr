@@ -1,0 +1,45 @@
+_model: page-advanced
+---
+tittel: For medlemmar
+---
+ingress:
+
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Nyttige skjema
+=========
+
+- [Reiserekningsskjema](https://drive.google.com/a/malungdom.no/file/d/1zkMRdmFbpu82OgQAlsuidCpS1t71w2lU/view?usp=sharing)
+
+- [Kilometerrefusjonsskjema](https://drive.google.com/a/malungdom.no/file/d/1TuY88GXrMISEyl22Mme_2Sp1Gh7X9_b7/view?usp=sharing) 
+
+Les rettleiinga på side to av dokumentet, fyll ut skjemaet, og send det til norsk@malungdom.no. Når du sender reiserekningsskjema, er det viktig at du legg ved alle kvitteringane. Du kan til dømes vidaresende epostkvitteringar, eller sende bilete av papirkvitteringar. 
+
+----
+#### text-block ####
+content:
+
+Saknar du noko? 
+=========
+
+Er det eit skjema, nokre tips eller ressursar du gjerne vil ha på denne sida? Ta kontakt! 
+
+<form method="POST" action="/cgi-bin/send.py?_type=kontakt"
+  data-type="kontakt" data-success="Innsendt!">
+  <label>
+    Fritt felt <small>(hugs namn/anna informasjon)</small>
+    <textarea name="fritekst" rows=3 required></textarea>
+  </label>
+  <label>
+    Eposten din
+    <input type="email" name="epost">
+  </label>
+  <input type="submit" value="Send inn">
+</form>
+---
+toppbilete: none
