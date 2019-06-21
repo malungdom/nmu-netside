@@ -1,0 +1,127 @@
+_model: page-advanced
+---
+tittel: Vervekampanje
+---
+ingress: <center> Vervekampanjen 2019 er frå 12. august til 22. september. </center>
+<br>
+<center> Gjer ein skilnad for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk og meir nynorsk i kvardagen.</center>
+<style>
+.meter {
+  border: 0;
+  width: 100%;
+  height: 35px;
+}
+</style>
+<iframe class="meter" src="https://medlem.malungdom.no/stats/vervometer/?from=2019-08-12&to=2019-09-24"></iframe>
+---
+tekst:
+
+#### text-block ####
+content:
+
+Registrer verving
+================
+
+<form method="POST" action="/cgi-bin/send.py?_type=verv2018"
+  data-type="verv2018" data-success="Tusen takk for vervinga!">
+  <label>Vervar-namn <input name="vervarnamn" required></label>
+  <label>Namn <input name="namn" required></label>
+  <label>Addresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Epost <input type="email" name="epost"></label>
+    <div class="nyhendebrev" style="width: 100%; margin: 0.5rem 0;">
+    <span>Vil du ha nyhendebrev?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="nyhendebrev" value="ja"> Ja, på epost</label>
+      <label><input type="radio" required name="nyhendebrev" value="nei"> Nei</label>
+	  </div>
+	</div>
+  <div class="medlemsavis" style="width: 100%; margin: 0.5rem 0;">
+    <span>Vil du ha medlemsavis?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="medlemsavis" value="ja"> Ja, i posten</label>
+      <label><input type="radio" required name="medlemsavis" value="nei"> Nei</label>
+	  </div>
+	</div>
+  <input type="submit" value="Registrer!">
+</form>
+----
+-----
+class: box
+#### text-block ####
+content:
+
+Ressurspakka
+========
+Her kan du få tips til korleis du og lokallaget ditt kan hamne på toppen av vervetoppen! 
+
+<div data-configid="31246951/62371193" style="width:450px; height:318px;" class="issuuembed"></div>
+<script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+<br>
+Lokallagskonkurranse
+========
+Kva lokallag vervar flest?
+Studentmållaga og elevmållaga kjempar om kvar sin vandregral.
+Lokallaget ditt får utteljing for kvar ny medlem som vert
+verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
+deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
+ditt i kampen mot dei andre lokallaga eller studentmållaga.
+----
+class: big-box
+#### text-block ####
+content:
+
+Vervepremiar
+=========== 
+<dt><b>Verv 1</b>
+<dd>Ringhaldar til telefon
+<dd><img src="verv1-small.png" alt="">
+<dt><b>Verv 2</b>
+<dd>T-skjorte
+<dd><img src="verv2-small.png" alt="">
+<dt><b>Verv 3</b>
+<dd>Notatbok
+<dd><img src="verv3-small.png" alt="">
+<dt><b>Verv 5</b>
+<dd>Språkmangfaldig genser
+<dd><img src="verv5-small.jpg" alt="">
+<dt><b>Verv 7</b>
+<dd>NMU-sekk
+<dd><img src="verv7-small.png" alt="">
+<dt><b>Verv 10</b>
+<dd>Gåvekort på samlaget eller storytel
+<dt><b>Verv 13</b>
+<dd>2 festivalpass til ein nynorskfestival
+<dd><img src="verv15-small.png" alt="">
+----
+class: box
+#### text-block ####
+content:
+
+Vervetoppen
+========
+<style>
+.toppen {
+  border: 0;
+  width: 100%;
+  height: 400px;
+}
+</style>
+<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2019-08-12&to=2019-09-24"></iframe>
+
+
+Elevmållagsvervetoppen
+========
+Det er ikkje registret vervingar endå.
+
+Studentmållagsvervetoppen
+========
+Det er ikkje registret vervingar endå.
+
+---
+----
+class: box
+---
+toppbilete: None
