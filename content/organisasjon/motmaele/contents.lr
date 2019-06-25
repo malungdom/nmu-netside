@@ -3,7 +3,7 @@ _model: page-advanced
 tittel: Motmæle
 ---
 ingress:
-[<img src="motmaele219.jpg" alt="">](https://malungdom.no/motmaelearkiv/219/)
+[<img src="motmaele219-small.jpg" alt="">](https://malungdom.no/motmaelearkiv/219/)
 
 ---
 tekst:
@@ -100,3 +100,5 @@ Eller tykkjer du den digitale versjonen er så kjekk at du ikkje lenger vil ha M
 [Meld frå](https://malungdom.no/organisasjon/skrivarstova/) til oss!
 ---
 oversikt_tittel: Motmæle
+---
+toppbilete: None
