@@ -1,0 +1,87 @@
+_model: page-advanced
+---
+tittel:  Haustkonferanse: Nynorske talent
+---
+ingress: Er du eit nynorsk talent, eller vil du bli eit? Kom på haustkonferansen i Bergen! Her får du lære korleis du kan gjere ein skilnad for nynorsken, dialektene og språkmangfaldet.
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Program
+=====
+Programet kjem seinare, men me kan allereie avsløra at JON OLAV kjem og spelar for oss. 
+
+#### text-block ####
+content:
+
+Påmelding
+=========
+Fyll inn skjemaet for å melde deg på. 
+<form method="POST" action="/cgi-bin/send.py?_type=tillitsvaldsamling"
+  data-type="tillitsvaldsamling" data-success="Innsendt! Me gler oss!">
+  <label>Namn <input name="namn" required></label>
+  <label>Adresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Namn og nummer på pårørande <input name="parorande"></label>
+  <label>Epost <input type="email" name="epost" required></label>
+  <label>
+  <div class="samtykke" style="width: 100%; margin: 0.5rem 0;">
+    <span>Kan vi ta bilete av deg, og bruke bileta til blest?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="samtykke" value="ja"> Ja</label>
+      <label><input type="radio" required name="samtykke" value="nei"> Nei</label>
+	  </div>
+	</div>
+  <label>
+    Matallergiar? Vegetarianar? Andre ting me bør vite om?
+    <textarea name="fritekst" rows=3></textarea>
+  </label>
+  <input type="submit" value="Meld deg på!">
+</form>
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+Tørre fakta
+-----------
+**Kvar**: St. Paul skole i Bergen
+
+**Når**: 27. - 29. september
+
+**Pris**: Kjem 
+
+**Reisedekking**: Me kostar billegaste reiseveg for alle som kjem på leiren. Ta kontakt om du lyt reise med fly eller ikkje-billegaste reiseveg. Me tek sosiale omsyn.
+
+**Pakkeliste**:
+- sovepose
+- liggjeunderlag/luftmadrass
+- toalettsaker
+- handkle
+
+Reiseruter
+=====
+Ta kontakt om du tykkjer det er vanskeleg å finne ein passande reiserute. Dei fleste vil finne ei høvande reiserute til Bergen på nettsida til reiseplanleggjaren Entur. (https://en-tur.no/). 
+
+Samlinga startar 17.00, og det er lurt å vere der omlag ein time før for å få mat og praktisk informasjon. Samlinga sluttar 13.00 på sundagen.
+
+
+Informasjon til føresette
+=========================
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+Difor har me laga eit [informasjonsskriv til
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+dei kan kjenne seg tryggare.
+----
+class: box
+---
+toppbilete: none
+---
+oversikt_tittel: Haustkonferanse
