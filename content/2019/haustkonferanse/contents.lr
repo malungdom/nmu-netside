@@ -19,9 +19,9 @@ content:
 
 Påmelding
 =========
-Fyll inn skjemaet for å melde deg på. 
-<form method="POST" action="/cgi-bin/send.py?_type=tillitsvaldsamling"
-  data-type="tillitsvaldsamling" data-success="Innsendt! Me gler oss!">
+Fyll inn skjemaet for å melde deg på. Påmeldingsfristen er 20. september.
+<form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
+  data-type="haustkonferanse" data-success="Innsendt! Me gler oss!">
   <label>Namn <input name="namn" required></label>
   <label>Adresse <input name="adresse"></label>
   <label>Postnr <input name="postnr" required></label>
