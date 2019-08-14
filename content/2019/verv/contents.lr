@@ -13,7 +13,6 @@ content:
 
 Registrer verving
 ================
-Du får ikkje poeng for vervingar før 12. august.
 <form method="POST" action="/cgi-bin/send.py?_type=verv2018"
   data-type="verv2018" data-success="Tusen takk for vervinga!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
