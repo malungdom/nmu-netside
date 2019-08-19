@@ -11,10 +11,10 @@ tekst:
 #### text-block ####
 content:
 
-Registrer verving
+Registrer verving her
 ================
-<form method="POST" action="/cgi-bin/send.py?_type=verv2018"
-  data-type="verv2018" data-success="Tusen takk for vervinga!">
+<form method="POST" action="/cgi-bin/send.py?_type=verv2019"
+  data-type="verv2019" data-success="Tusen takk for vervinga!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
   <label>Namn <input name="namn" required></label>
   <label>Addresse <input name="adresse"></label>
