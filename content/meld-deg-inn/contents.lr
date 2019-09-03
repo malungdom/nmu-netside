@@ -20,6 +20,7 @@ content:
   <input placeholder="Telefonnr" name="tlfnr">
   <input type=number placeholder="Født (årstal)" name="fodt" required>
   <input type=email placeholder="Epost" name="epost">
+  <input placeholder="Verva av?" name="verva av">
    <div class="kjønn" style="width: 100%; margin: 0.5rem 0;">
     <span>Kjønn?</span>
     <div style="display: flex">
