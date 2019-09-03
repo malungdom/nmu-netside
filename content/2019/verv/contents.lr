@@ -22,6 +22,14 @@ Registrer verving her
   <label>Telefonnr <input name="tlfnr"></label>
   <label>Fødeår <input name="fodear" required></label>
   <label>Epost <input type="email" name="epost"></label>
+  <div class="kjønn" style="width: 100%; margin: 0.5rem 0;">
+    <span>Kjønn?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="kjønn" value="Kvinne"> Kvinne</label>
+      <label><input type="radio" required name="kjønn" value="Mann"> Mann</label>
+	  <label><input type="radio" required name="kjønn" value="Anna"> Anna</label>
+	  </div>
+	</div>
     <div class="nyhendebrev" style="width: 100%; margin: 0.5rem 0;">
     <span>Vil du ha nyhendebrev?</span>
     <div style="display: flex">
