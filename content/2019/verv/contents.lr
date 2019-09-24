@@ -13,6 +13,7 @@ content:
 
 Registrer verving her
 ================
+Verekampanjen er over for i år.
 <form method="POST" action="/cgi-bin/send.py?_type=verv2019"
   data-type="verv2019" data-success="Tusen takk for vervinga!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
@@ -117,8 +118,8 @@ Vervetoppen
 
 Elevmållagsvervetoppen
 ========
-Firda Målungdom: 12 vervingar <br>
-Fron Målungdom: 10 vervingar <br>
+Firda Målungdom: 15 vervingar <br>
+Fron Målungdom: 14 vervingar <br>
 Søre Sunnmøre Målungdom: 5 verving <br>
 Indre Sunnfjord Målungdom: 4 verving <br>
 VelSygna Målungdom: 3 vervingar <br>
@@ -128,11 +129,13 @@ Sørfjorden Målungdom: 1 verving <br>
 Trøndersk Målungdom: 1 verving <br>
 Vågen Elevmållag: 1 verving <br>
 Sandefjord Elevmållag: 1 verving <br>
+Molde Målungdom: 1 verving <br>
+Hallingdal Målungdom: 1 verving <br>
 
 Studentmållagsvervetoppen
 ========
-Studentmållaget i Oslo: 36 vervingar <br>
-Studentmållaget i Bergen: 12 vervingar <br>
+Studentmållaget i Oslo: 52 vervingar <br>
+Studentmållaget i Bergen: 13 vervingar <br>
 Studentmållaget i Sogndal: 4 vervingar <br>
 Studentmållaget i Tromsø: 3 verving <br>
 Studentmållaget i Nidaros: 2 verving <br>
