@@ -1,0 +1,99 @@
+_model: page-advanced
+---
+tittel: Vinterleiren 2019
+---
+ingress:
+
+Frå 17. til 19. januar på Eina på Toten
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Program
+=====
+Programmet for vinterleiren 2020 kjem!
+
+Det er innsjekk og brødmat frå 16.00 fredag. Programmet startar tidlegast 17.00. 
+Programmet er ferdig sundag klokka 14.00. 
+Det er lagt inn pause mellom kvart programpunkt, i tillegg til godt med matpausar. 
+----
+class: box
+#### text-block ####
+content:
+
+Påmelding
+=========
+<form method="POST" action="/cgi-bin/send.py?_type=vinterleir"
+  data-type="vinterleir" data-success="Innsendt! Me gler oss!">
+  <label>Namn <input name="namn" required></label>
+  <label>Adresse <input name="adresse"></label>
+  <label>Postnr <input name="postnr" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Namn og nummer på pårørande <input name="parorande"></label>
+  <label>Epost <input type="email" name="epost" required></label>
+  <div class="samtykke" style="width: 100%; margin: 0.5rem 0;">
+    <span>Kan vi ta bilete av deg, og bruke bileta til blest?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="samtykke" value="ja"> Ja</label>
+      <label><input type="radio" required name="samtykke" value="nei"> Nei</label>
+	  </div>
+	</div>
+  <label>
+    Matallergiar? Vegetarianar? Andre ting me bør vite om?
+    <textarea name="fritekst" rows=3></textarea>
+  </label>
+  <input type="submit" value="Meld deg på!">
+</form>
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+Tørre fakta
+-----------
+**Kvar**: Skogstad leirstad på Eina på Toten 
+
+**Når**: 17. til 19. januar
+
+**Pris**: Kjem
+
+**Reisedekking**: Vi kostar reisa for alle som kjem på leiren.
+
+**Pakkeliste**:
+- sovepose
+- toalettsaker
+- handkle
+- varme klede
+- ski, viss du vil gå på ski
+
+Reiseruter
+=====
+I år skal vinterleiren vere på Eina på Toten. 
+
+Leirstaden ligg 500 meter frå togstasjonen, så det enklaste og billegaste for dei som bur i nærleiken av ei togline, er å ta toget. Ting billettar så tidleg som mogleg, og kjøp miniprisbillettar viss det er.  
+
+For folk som bur verkeleg langt vekke frå Eina (Nord-Noreg, til dømes), kan det henda fly er einaste fornuftige reisemåte mtp. tidsbruk og reisebelastning.  Ved bruk av fly tilrår me å kryssjekka prisar på Widerøe, SAS og Norwegian. 
+
+Merk: Me dekkjer i utgangspunktet ikkje fly frå andre stader i Sør-Noreg – det må i så fall avtalast med oss på førehand. Du kan eventuelt få refundert tilsvarande billegaste reisemåte, og ta mellomlegget sjølv.
+
+Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med praktisk ansvarleg Frida Pernille Mikkelsen på e-post frida@malungdom.no. 
+
+
+Informasjon til føresette
+=========================
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+Difor har me laga eit [informasjonsskriv til
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+dei kan kjenne seg tryggare.
+----
+class: box
+---
+toppbilete: vlski1.jpg
+---
+oversikt_tittel: Vinterleir
