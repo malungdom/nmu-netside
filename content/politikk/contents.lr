@@ -5,9 +5,14 @@ _model: page-advanced
 ingress:
 
 Her finn du tufta vår og dei politiske programma våre. I tillegg kan
-du lese fråsegner vedtekne av landsmøta og landsstyret.
+du lese fråsegner vedtekne av landsmøta og landsstyret og pressemeldingar.
 ---
 tekst:
+
+#### subpage-block ####
+for_underside: pressemeldingar
+----
+classes: box
 
 #### subpage-block ####
 for_underside: program
