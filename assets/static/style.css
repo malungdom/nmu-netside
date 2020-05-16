@@ -100,7 +100,9 @@ main {
  padding-bottom: 5em;
 }
 footer.kolofon {
-  display: flex;
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
   background: rgba(140, 140, 140, 1);
   margin: 0;
   padding: 2em 0 3em 0;
@@ -120,6 +122,8 @@ footer.kolofon h2 {
   margin-bottom: 4px;
 }
 footer.kolofon > div {
+  min-width: 9em;
+  padding: 0 0 2em;
   margin: 0 30px;
 }
 footer.kolofon ul {
