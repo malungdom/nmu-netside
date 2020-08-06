@@ -2,7 +2,7 @@ _model: page-advanced
 ---
 tittel: Vervekampanje
 ---
-ingress: <center> Vervekampanjen 2020 kjem til hausten. </center>
+ingress: <center> 10. aug til 13. sep føregår Vervekampanjen 2020. </center>
 <br>
 <center> Gjer ein skilnad for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk og meir nynorsk i kvardagen.</center>
 ---
@@ -12,8 +12,8 @@ tekst:
 content:
 
 Registrer verving her
-
 ================
+
 <form method="POST" action="/cgi-bin/send.py?_type=verv2020"
   data-type="verv2020" data-success="Tusen takk for vervinga!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
@@ -57,10 +57,9 @@ Korleis verve?
 ========
 
 Det er tre måtar å verve på: Nettsida, Vipps og SMS. Om du vil vere heilt sikker på at vervinga blir teljande er det lurast å bruke Vipps eller SMS, for da kjem medlemspengane inn med ein gong.
-<br>- Her: Be personen du vervar om å fylle ut skjemaet til venstre. Den du vervar får giro i posten. 
-<br>- Vipps: Be personen du vervar om å søke opp Norsk Målungdom på Vipps (#22472) og trykke på  «Meld deg inn!».  Personen du vervar må så hake av på nokre spørsmål og leggje bestillinga i handlekurven sin. I handlekurven fyllar ein inn namn og kontaktinformasjon under «Hjemlevering» og namnet på vervaren i kommentarfeltet.
-<br>- SMS: Be personen du vervar om å sende ein SMS med kodeord NMU100 til 2090. I SMS-en må personen du vervar skrive inn namn, fødeår, e-post, adresse og namnet ditt. Da blir 100 kr trekt frå mobilrekninga di.
-
+<br>- **Nettsida**: Be personen du vervar om å fylle ut skjemaet til venstre. Den du vervar får giro i posten. 
+<br>- **Vipps**: Be personen du vervar om å søke opp Norsk Målungdom på Vipps (#22472) og trykke på  «Meld deg inn!».  Personen du vervar må så hake av på nokre spørsmål og leggje bestillinga i handlekurven sin. I handlekurven fyllar ein inn namn og kontaktinformasjon under «Hjemlevering» og namnet på vervaren i kommentarfeltet.
+<br>- **SMS**: Be personen du vervar om å sende ein SMS med kodeord NMU100 til 2090. I SMS-en må personen du vervar skrive inn namn, fødeår, e-post, adresse og namnet ditt. Då blir 100 kr trekt frå mobilrekninga di.
 
 <br>
 Lokallagskonkurranse
@@ -73,8 +72,7 @@ verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
 deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
 ditt i kampen mot dei andre lokallaga eller studentmållaga.
 
-<br>
-I tilegg er det internkonkurranse i kvart lokallag. Den som vervar flest i lokallaget får eit par sokkar med Ivar Aasen-motiv!
+<br>I tilegg er det internkonkurranse i kvart lokallag. Den som vervar flest i lokallaget får eit par sokkar med Ivar Aasen-motiv!
 
 [Her finn du svar på ofte stilte spørsmål om vervekampanjen](https://malungdom.no/2019/verv/oss)
 
