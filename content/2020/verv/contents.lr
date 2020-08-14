@@ -18,7 +18,7 @@ Registrer verving her
   data-type="verv2020" data-success="Tusen takk for vervinga!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
   <label>Namn <input name="namn" required></label>
-  <label>Addresse <input name="adresse"></label>
+  <label>Adresse <input name="adresse"></label>
   <label>Postnr <input name="postnr" required></label>
   <label>Telefonnr <input name="tlfnr"></label>
   <label>Fødeår <input name="fodear" required></label>
