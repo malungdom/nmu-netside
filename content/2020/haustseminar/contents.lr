@@ -1,0 +1,95 @@
+_model: page-advanced
+---
+tittel:  Haustseminar
+---
+ingress: Denne hausten skipar vi til haustseminar i Oslo (3. oktober), Trondheim (10. oktober) og Ørsta (24. oktober). På seminara vil du både få fagleg påfyll, innleiingar med lokal tilknyting og hyggelege folk!
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Program
+=====
+Programma er ikkje klar endå, men seminara føregår over ein dag. 
+<br> Programstart vil vere rundt klokka 12.00, og blir avslutta rundt klokka 18.00, på den måten skal det vere moglege å både reise til og frå på same dag. 
+----
+class: box
+
+#### text-block ####
+content:
+
+Påmelding
+=========
+Fyll inn skjemaet for å melde deg på. 
+<form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
+  data-type="haustkonferanse" data-success="Innsendt! Me gler oss!">
+  <label>Namn <input name="namn" required></label>
+  <label>Kva seminar melder du deg på? (Oslo, Trondheim eller Ørsta) <input name="seminar (Oslo, Trondheim eller Ørsta)" required></label>
+  <label>Telefonnr <input name="tlfnr"></label>
+  <label>Fødeår <input name="fodear" required></label>
+  <label>Namn og nummer på pårørande <input name="parorande"></label>
+  <label>Epost <input type="email" name="epost" required></label>
+<label>
+  <div class="samtykke" style="width: 100%; margin: 0.5rem 0;">
+    <span>Treng du overnatting?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="samtykke" value="ja"> Ja</label>
+      <label><input type="radio" required name="samtykke" value="nei"> Nei</label>
+	  </div>
+	</div>
+  <label>
+  <div class="samtykke" style="width: 100%; margin: 0.5rem 0;">
+    <span>Kan vi ta bilete av deg, og bruke bileta til blest?</span>
+    <div style="display: flex">
+      <label><input type="radio" required name="samtykke" value="ja"> Ja</label>
+      <label><input type="radio" required name="samtykke" value="nei"> Nei</label>
+	  </div>
+	</div>
+  <label>
+    Matallergiar? Vegetarianar? Andre ting me bør vite om?
+    <textarea name="fritekst" rows=3></textarea>
+  </label>
+  <input type="submit" value="Meld deg på!">
+</form>
+----
+class: box
+#### text-block ####
+content:
+
+Praktisk
+=======
+Tørre fakta
+-----------
+**Oslo**: 3. oktober
+
+**Trondheim**: 10. oktober
+
+**Ørsta**: 24. oktober
+
+**Pris**: Gratis!
+
+**Reisedekking**: Vi kostar billegaste reiseveg for alle som kjem. Ta kontakt om du lyt reise med fly eller ikkje-billegaste reiseveg. Vi tek sosiale omsyn.
+<br> Skal du reise så langt at det ikkje er mogleg å reise fram og tilbake same dag, kostar vi også overnatting. 
+
+
+Reiseruter
+=====
+Ta kontakt om du tykkjer det er vanskeleg å finne ein passande reiserute. Dei fleste vil finne ei høvande reiserute på nettsida til reiseplanleggjaren Entur. (https://en-tur.no/). 
+
+Seminara startar rundt klokka 12.00, så det skal vere fint mogleg å reise til staden same dag. Vi avsluttar rundt klokka 18.00, så det kan vere du også greier reise heimatt same dag. 
+
+
+Informasjon til føresette
+=========================
+Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
+Difor har me laga eit [informasjonsskriv til
+føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
+dei kan kjenne seg tryggare.
+----
+class: box
+---
+toppbilete: none
+---
+oversikt_tittel: Haustkonferanse
