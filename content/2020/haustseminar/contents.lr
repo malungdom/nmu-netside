@@ -32,11 +32,11 @@ Fyll inn skjemaet for å melde deg på.
   <label>Namn og nummer på pårørande <input name="parorande"></label>
   <label>Epost <input type="email" name="epost" required></label>
 <label>
-  <div class="samtykke" style="width: 100%; margin: 0.5rem 0;">
+  <div class="overnatting" style="width: 100%; margin: 0.5rem 0;">
     <span>Treng du overnatting?</span>
     <div style="display: flex">
-      <label><input type="radio" required name="samtykke" value="ja"> Ja</label>
-      <label><input type="radio" required name="samtykke" value="nei"> Nei</label>
+      <label><input type="radio" required name="overnatting" value="ja"> Ja</label>
+      <label><input type="radio" required name="overnatting" value="nei"> Nei</label>
 	  </div>
 	</div>
   <label>
