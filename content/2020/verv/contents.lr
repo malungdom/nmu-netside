@@ -11,10 +11,10 @@ tekst:
 #### text-block ####
 content:
 
-Registrer verving her
-================
+Vervekampanjen 2020 er over, men du kan sjølvsagt framleis melde deg inn på https://malungdom.no/meld-deg-inn/
 
-<form method="POST" action="/cgi-bin/send.py?_type=verv2020"
+
+<!-- <form method="POST" action="/cgi-bin/send.py?_type=verv2020"
   data-type="verv2020" data-success="Tusen takk for vervinga!">
   <label>Vervar-namn <input name="vervarnamn" required></label>
   <label>Namn <input name="namn" required></label>
@@ -46,7 +46,7 @@ Registrer verving her
 	  </div>
 	</div>
   <input type="submit" value="Registrer!">
-</form>
+</form> -->
 ----
 -----
 class: box
@@ -139,6 +139,7 @@ Studentmållagsvervetoppen
 <br>**Studentmållaget i Tromsø**: 2
 <br>**Studentmållaget i Stavanger**: 1
 <br>**Studentmållaget i Agder**: 1
+<br>**Studentmållaget i Sogndal**: 1
 ---
 ----
 class: box
