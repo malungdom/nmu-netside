@@ -2,126 +2,169 @@ _model: page-advanced
 ---
 tittel: Krambua
 ---
-ingress: Kjøp tilfang frå Norsk Målungdom
-
+ingress: <center> Kjøp tilfang frå Norsk Målungdom. Nedst på sida finn du skjema der du legg inn bestillinga di. 
 ---
 tekst:
 
 #### text-block ####
 content:
 
-<style>
-.meter {
-  border: 0;
-  height: 35px;
-  width: calc(100% - 40px);
-  padding: 0 20px;
-}
-
-</style>
-----
-class: full
-#### text-block ####
-content:
-
-Miljøkopp
-===========
-
-<img src="miljokopp-small.jpg" alt="">
-
-NMU-sekken
-===========
-
-<img src="sekk-small.png" alt="">
-
-
-Nyfiken-handlenett
-===============
-
-<img src="nyfiken-small.png" alt="">
+<img src="https://drive.google.com/uc?export=view&id=1Qd71liEvOUbUPnJOlXDLtACAzb2HjriW" alt="Sokkar">
+<center> **Ivar Aasen-sokkar**
+<br>70 kroner
 
 
 ----
-class: big-box
+class: box
 #### text-block ####
 content:
 
-Ein språkmangfaldig genser
-========
-<img src="eingenser-small.png" alt="">
-
-<small>Frå XS til XL</small>
-
-Kva språk finn du på genseren? 
-- Norsk teiknspråk
-- Nynorsk (ein genser), både med det latinske alfabetet og punktskrift
-- Norsk romani (jikk nutta)
-- Lulesamisk (bájdde)
-- Romanes (špenco)
-- Sørsamisk (abpese)
-- Kvensk (tröijy)
-- Nordsamisk (báidi)
-
-T-skjorter
-=========
-
-<img src="egelskar-small.png" alt="">
-
-<small>Vel mellom svart og kvit, ho- og hen-modell og utplukka storleikar</small>
-
-<img src="hugnad-small.png" alt="">
-
-<small>Vel mellom i blå og kvit, ho- og hen-modell. Berre i små storleikar: Frå XS til M.</small>
-
-<img src="framifra-small.png" alt="">
-
-
-<small>Vel mellom svart og kvit, ho- og hen-modell. Berre i små storleikar: Frå XS til M.</small>
+<img src="https://drive.google.com/uc?export=view&id=1xdKiJqKuFnp0Hb-6vI4JD1jfEdB0A5Wu" alt="Notatbok">
+<center> **Notatbok**
+<br>100 kroner 
 
 ----
-class: big-box
+class: box
 #### text-block ####
 content:
-Ymse tilfang og prisar
-========
 
-* Ein språkmangfaldig genser: 300 kroner
-* Miljøkopp med NMU-logo: 50 kroner
-* NMU-sekken: 500 kroner
-* Nyfiken-handlenett: 100 kroner
-* T-skjorte med *eg <3 nynorsk*-motiv: 150 kroner
-* T-skjorte med *hugnad*-motiv: 150 kroner
-- T-skjorte med *framifrå*-motiv: 150 kroner 
-- Jakkemerke med *eg <3 nynorsk*-motiv: 
-5 kroner per stykk, 50 kroner for 20 stykk 
-- Jakkemerke med *nynorsk gjer deg smartare*-motiv: 
-5 kroner per stykk, 50 kroner for 20 stykk
-- Dagverd-krus: 150 kroner
-- Årsabonnement på *Motmæle*: 200 kroner
+<img src="https://drive.google.com/uc?export=view&id=1k0lAgOgInvK-5iqMvveGLs3hVRvMjJAr" alt="T-skjorte: Nynorsk">
+<center> **T-skjorte: nynorsk**
+<br>130 kroner 
+<br> <small>Stroleik S, M, L, XL, 3XL</small>
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1fX3nf9vkavwto-bCWgsdFOi0EoRM_PFD" alt="Vassflaske">
+<center> **Vassflaske**
+<br>100 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1HWShYUUW27CJ3ZejopMKEGmnYf4NHUcC" alt="Kaps">
+<center> **Mangfaldkaps**
+<br>100 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=10W0JCXOjvq04iErng1Bi_CVZPYVYY0Hc" alt="Refleksvest">
+<center> **Refleksvest**
+<br>50 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=12lFvl_vFsxlMkGDON6jF-5XZc1h_fSQ0" alt="Jakkemerke">
+<center> **Jakkemerke**
+<br>5 kroner (20 stk for 50 kroner)
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1opiCiPLgRWeh8YeiJ7UiqNoBKEmIwGnT" alt="Genser">
+<center> **Språkmangfaldig genser**
+<br>300 kroner 
+<br> <small>Stroleik XS, L, XL</small>
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1IrMArHI6qQ_esqh2WddoYB3_axfgEuza" alt="T-skjorte: Framifrå">
+<center> **T-skjorte: Framifrå**
+<br>150 kroner 
+<br> <small>Stroleik S, XXL</small>
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1Q3vcvngurij4TW3XtoUT5QCxnb6TF6js" alt="Handlenett">
+<center> **Handlenett: nyfiken**
+<br>50 kroner 
 
 
-Bøker
-=======
-- *Kva skal vi med sidemål? Argument og fakta* av Janne Nygård og Vebjørn Sture : 150 kroner (100 for medlemmar)
-- *Eg vil so gjerne syngja*: 150 kroner (100 for medlemmar)
-- *Syng meir*: 150 kroner (100 for medlemmar)
-- *Målreising i 75 år: Noregs Mållag 1906 - 1981*: 200 kroner (100 for medlemmar)
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1v95wV5MLYVuEDM1OzG8DOAYKl6IitX0N" alt="T-skjorte: Eg <3 nynorsk">
+<center> **T-skjorte: Eg <3 nynorsk**
+<br>150 kroner 
+<br> <small>Stroleik S, M, L, XL</small>
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1AnCf7Z6h_NcDeJcvD2gYAsXWaV6visYA" alt="Pennal">
+<center> **Pennal**
+<br>70 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1TRVGCAb8uoJ72i2s3BKUcCFH74t3XgVy" alt="Tannkost">
+<center> **Tannkost**
+<br>40 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1lwCSEAA1OU6FnrGhY4wpA_P3Oym2DYfB" alt="Miljøkopp">
+<center> **Miljøkopp**
+<br>50 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=17lfl8q3Jg1mZmn3eJq96Rz5P56O76z99" alt="Krus">
+<center> **Krus**
+<br>150 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1bm9isXPhz7OMw4RB0HKtAvj19S38LNP4" alt="T-skjorte: Hugnad">
+<center> **T-skjorte: Hugnad**
+<br>150 kroner 
+<br> <small>Stroleik S, L</small>
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1GShsNwBBNKwmTTxtfzVVKiCEurXtoE4x" alt="Motmæle">
+<center> **Motmæle abonnement**
+<br>200 kroner for eit år
 
 
-Tilfang frå lokallaga
-========
-Fleire av lokallaga våre sel tilfang. 
-
-* Studentmållaget i Oslo sel 
-	* Handlenett med *vi må handle nett no*-motiv. 
-	* Årsabonnement på *Mål og Makt*: 200 kroner
-* [Studentmållaget i Nidaros](https://www.facebook.com/sminidaros/) sel 
-	* t-skjorter med Ivar Aasen-motiv. 
-	* Jubileumsskriftet *Målungdomsrørsla i Trondheim gjennom 100 år*
-* Studentmållaget i Bergen gir vekk [*Nei takk til uadressert bokmål*-klistremerke](http://smib.no/ting-klistremerke/?utm_source=malungdom.no&utm_medium=krambua&utm_campaign=tilfang-lokallaga)
-
-
-Elles kan ein finne mykje fint i [krambua til Noregs Mållag](http://www.nm.no/krambua.cfm?path=10216). 
 
 ----
 class: box
@@ -137,7 +180,7 @@ Send e-post til norsk@malungdom.no viss du lurer på noko.
   <label>Postnr <input name="postnr" required></label>
   <label>Epost <input type="email" name="epost"></label>
   <input type="submit" value="Send!">
-</form>
+</form> 
 
 
 <small>Hugs at porto kjem i tillegg</small>
