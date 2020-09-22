@@ -1,0 +1,104 @@
+_model: page-advanced
+---
+tittel: Fadderordninga
+---
+ingress:
+<center>Alle lokallaga har ein fadder som har eit ekstra ansvar for å følgje opp lokallaget. Denne personen kan de spørje om til dømes Frifond, å arrangere stand, bestille tilfang og mykje anna. Her er ei oversikt over kven i sentralstyret som er fadder for kva lokallag.
+
+---
+
+
+tekst:
+
+#### text-block ####
+content:
+
+**Gunnhild Skjold**, leiar
+<br>gunnhild@malungdom.no
+- Studentmållaget i Tromsø
+- Kongsgård Elevmållag
+- Sandefjord Elevmållag
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Ingunn V. Steinsvåg**, 1. nestleiar
+<br>ingunn@malungdom.no
+- Vika Målungdom
+- Ås studentmållag
+- Studentmållaget i Stavanger
+----
+
+class: box
+#### text-block ####
+content:
+
+**Ragnhild Kvifte**, 2. nestleiar
+<br>ragnhild@malungdom.no
+- Hallingdal Målungdom
+- Knarvik Elevmållag
+- Studentmållaget i Bergen
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Frida Pernille Mikkelsen**, skrivar
+<br>frida@malungdom.no
+- Indre Sunnfjord Målungdom
+- Indre Agder Målungdom
+- Studentmållaget i Oslo
+- Studentmållaget i Agder
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Ådne Reidar Nes Kleppe**, sentralstyremedlem
+<br>aadnereidar@malungdom.no
+- Sogndal Målungdom
+- Studentmållaget i Sogndal
+- Firda Målungdom
+- Studentmållaget i Volda
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Erling Leivestad**, sentralstyremedlem
+<br>erling@malungdom.no
+- Sumarøyo Målungdom
+- Vågen Elevmållag
+- Trøndersk Målungdom
+- Haugaland Målungdom
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Tobias Eikeland**, sentralstyremedlem
+<br>tobias@malungdom.no
+- Fron Målungdom
+- Studentmållaget i Nidaros
+- Søre Sunnmøre Målungdom
+- Studentmållaget i Gjøvik
+
+
+----
+
+
+class: box
+
+---
+toppbilete: none
