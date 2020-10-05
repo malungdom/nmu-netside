@@ -33,7 +33,6 @@ Fyll inn skjemaet for å melde deg på.
     <div class="seminar" style="width: 100%; margin: 0.5rem 0;">
       <span>Kva seminar melder du deg på? </span>
       <div>
-        <label><input type="radio" required name="seminar" value="oslo">Oslo</label>
         <label><input type="radio" required name="seminar" value="trondheim">Trondheim</label>
         <label><input type="radio" required name="seminar" value="ørsta">Ørsta</label>
       </div>
