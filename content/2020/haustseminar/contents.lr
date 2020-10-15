@@ -14,6 +14,11 @@ Program
 =====
 **Program for seminaret i Trondheim**
 <br>
+<br> <img src="https://drive.google.com/uc?export=view&id=1M2QqkdOdUtxS_Df2PH7xmF51PDs49tPL" alt="Program, haustseminar i Ørsta">
+<br>
+
+**Program for seminaret i Trondheim**
+<br>
 <br> <img src="https://drive.google.com/uc?export=view&id=1OSqLzCAAyqIs7YlIv-U-h_Z55i6PIeRn" alt="Program, haustseminar i Trondheim">
 <br>
 
@@ -38,7 +43,6 @@ Fyll inn skjemaet for å melde deg på.
     <div class="seminar" style="width: 100%; margin: 0.5rem 0;">
       <span>Kva seminar melder du deg på? </span>
       <div>
-        <label><input type="radio" required name="seminar" value="trondheim">Trondheim</label>
         <label><input type="radio" required name="seminar" value="ørsta">Ørsta</label>
       </div>
     </div>
