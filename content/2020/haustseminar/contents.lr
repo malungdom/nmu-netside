@@ -36,44 +36,8 @@ content:
 Påmelding
 =========
 Haustseminara er over for i år, og det er ikkje mogleg å melde seg på.  
-<!-
-<form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
-  data-type="haustkonferanse" data-success="Innsendt! Me gler oss!">
-  <label>Namn <input name="namn" required></label>
-  <label>
-    <div class="seminar" style="width: 100%; margin: 0.5rem 0;">
-      <span>Kva seminar melder du deg på? </span>
-      <div>
-        <label><input type="radio" required name="seminar" value="ørsta">Ørsta</label>
-      </div>
-    </div>
-  <label>Telefonnr <input name="tlfnr"></label>
-  <label>Fødeår <input name="fodear" required></label>
-  <label>Namn og nummer på pårørande <input name="parorande"></label>
-  <label>Epost <input type="email" name="epost" required></label>
-<label>
-  <div class="overnatting" style="width: 100%; margin: 0.5rem 0;">
-    <span>Treng du overnatting?</span>
-    <div style="display: flex">
-      <label><input type="radio" required name="overnatting" value="ja"> Ja</label>
-      <label><input type="radio" required name="overnatting" value="nei"> Nei</label>
-	  </div>
-	</div>
-  <label>
-  <div class="samtykke" style="width: 100%; margin: 0.5rem 0;">
-    <span>Kan vi ta bilete av deg, og bruke bileta til blest?</span>
-    <div style="display: flex">
-      <label><input type="radio" required name="samtykke" value="ja"> Ja</label>
-      <label><input type="radio" required name="samtykke" value="nei"> Nei</label>
-	  </div>
-	</div>
-  <label>
-    Matallergiar? Vegetarianar? Andre ting me bør vite om?
-    <textarea name="fritekst" rows=3></textarea>
-  </label>
-  <input type="submit" value="Meld deg på!">
-</form> 
-->
+
+
 ----
 class: box
 #### text-block ####
