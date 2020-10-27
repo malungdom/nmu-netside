@@ -36,7 +36,8 @@ content:
 Påmelding
 =========
 Haustseminara er over for i år, og det er ikkje mogleg å melde seg på.  
-<!-- <form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
+<!--
+<form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
   data-type="haustkonferanse" data-success="Innsendt! Me gler oss!">
   <label>Namn <input name="namn" required></label>
   <label>
@@ -71,7 +72,9 @@ Haustseminara er over for i år, og det er ikkje mogleg å melde seg på.
     <textarea name="fritekst" rows=3></textarea>
   </label>
   <input type="submit" value="Meld deg på!">
-</form> -->
+</form> 
+
+-->
 ----
 class: box
 #### text-block ####
