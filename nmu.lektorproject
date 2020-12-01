@@ -9,4 +9,4 @@ default = yes
 target = rsync://ny.malungdom.no/srv/www/ny.malungdom.no/htdocs
 
 [packages]
-lektor-thumbnail-generator = 0.3
+lektor-thumbnail-generator = 0.5
