@@ -10,8 +10,7 @@ class ExternalImagesPlugin(Plugin):
     name = u'External images'
     description = u'Downloads images into content on build'
 
-    def on_setup_env(self, extra_flags):
-        print(extra_flags)
+    def on_setup_env(self):
         config = self.get_config()
         default_remote = ''
         content_path = os.path.join(self.env.root_path, 'content')
@@ -29,7 +28,7 @@ class ExternalImagesPlugin(Plugin):
             resource_uri = remote_fn
             if 'http' not in resource_uri:
                 resource_uri = default_remote + resource_uri
-            print("{} -> {}".format(resource_uri, new_path))
+            print "%s -> %s" % (resource_uri, new_path)
             response = requests.get(resource_uri)
             with open(new_path, 'wb') as fp:
                 fp.write(response.content)
