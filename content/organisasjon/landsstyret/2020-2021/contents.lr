@@ -10,9 +10,8 @@ namn: Gunnhild Skjold
 tittel: Leiar
 ----
 om:
-Tromsø, fødd 1995
-Kontakt: 
-gunnhild@malungdom.no
+Tromsø, fødd 1995<br>
+Kontakt: gunnhild@malungdom.no
 ----
 
 #### styreperson ####
@@ -21,9 +20,8 @@ namn: Ingunn V. Steinsvåg
 tittel: nestleiar
 ----
 om:
-Stord, fødd 1995
-Kontakt: 
-ingunn@malungdom.no
+Stord, fødd 1995<br>
+Kontakt: ingunn@malungdom.no
 
 ----
 
@@ -118,15 +116,14 @@ om:
 Oslo i Oslo, fødd 1998
 
 #### styreperson ####
-tittel: 1. vara
-----
+
 namn: Jens Håkon Birkeland
 ----
 om:
 Voss i Vestland, fødd 1999
 
 #### styreperson ####
-tittel: 2. vara
+tittel: 1. vara
 ----
 namn: Julie Garmo
 ----
@@ -134,7 +131,7 @@ om:
 Oslo i Oslo, fødd 2000
 
 #### styreperson ####
-tittel: 3. vara
+tittel: 2. vara
 ----
 namn: Steinar Voldsund Fjeldvær
 ----
@@ -142,23 +139,16 @@ om:
 Volda i Møre og Romsdal, fødd 1999
 
 #### styreperson ####
-tittel: 4. vara
+tittel: 3. vara
 ----
 namn: Erika Melhus
 ----
 om:
 Lier i Viken, fødd 2002
 
-#### styreperson ####
-tittel: 5. vara
-----
-namn: Daniel Tobias Johansen Langhoff
-----
-om:
-Tromsø i Troms og Finnmark, fødd 1997
 
 #### styreperson ####
-tittel: 6. vara
+tittel: 4. vara
 ----
 namn: Synne Solberg
 ----
@@ -166,7 +156,7 @@ om:
 Sør-Fron i Innlandet, fødd 2002
 
 #### styreperson ####
-tittel: 7. vara
+tittel: 5. vara
 ----
 namn: Håkon Remøy
 ----

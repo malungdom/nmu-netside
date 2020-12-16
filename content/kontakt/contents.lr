@@ -5,7 +5,10 @@ toppbilete: None
 tekst:
 
 # Kontakt oss
-
+**Norsk Målungdom**<br>
+Lilletorget 1, 0184 Oslo<br>
+E-post: norsk@malungdom.no<br>
+Telefon: 23 00 29 40
 <form method="POST" action="/cgi-bin/send.py?_type=kontakt"
   data-type="kontakt" data-success="Innsendt!">
   <label>
@@ -19,6 +22,8 @@ tekst:
   <input type="submit" value="Send inn">
 </form>
 
+
+
 # Målferd / skulebesøk
 
 Vil du ha oss på [målferd](/organisasjon/malferd/)? Då kan du ta kontakt på
@@ -26,27 +31,35 @@ norsk@malungdom.no.
 
 #Sentralstyret
 
+
 **Gunnhild Skjold**, leiar<br>
-gunnhild@malungdom.no
+E-post: gunnhild@malungdom.no<br>
+Telefon: 97 41 71 45
 
 **Ingunn V. Steinsvåg**, 1. nestleiar<br>
-ingunn@malungdom.no<br>
+E-post: ingunn@malungdom.no<br>
+Telefon: 45 66 34 73
 
 **Ragnhild Kvifte**, 2. nestleiar<br>
-ragnhild@malungdom.no<br>
-
-**Frida Pernille Mikkelsen**, skrivar<br>
-E-post: frida@malungdom.no<br>
-Telefon: 482 48 747
+E-post: ragnhild@malungdom.no<br>
+Telefon: 92 89 63 92
 
 **Erling Løklingholm Leivestad**, styremedlem<br>
 E-post: erling@malungdom.no<br>
-Telefon: 905 80 318
+Telefon: 90 58 03 18
 
 **Tobias Christensen Eikeland**, styremedlem<br>
 E-post: tobias@malungdom.no<br>
-Telefon: 948 94 969
+Telefon: 94 89 49 69
 
 **Ådne Reidar Nes Kleppe**, styremedlem<br>
 E-post: aadnereidar@malungdom.no<br>
-Telefon: 919 12 687
+Telefon: 91 91 26 87
+
+#Skrivarstova
+**Frida Pernille Mikkelsen**, skrivar<br>
+E-post: frida@malungdom.no<br>
+Telefon: 48 24 87 47
+
+**Idunn Victoria Rostøl**, kontormedarbeidar<br>
+E-post: kontor@malungdom.no

@@ -25,7 +25,6 @@
             ['/nynorsk', 'Nynorsk'],
             ['/politikk', 'Politikk'],
 			['/krambua', 'Krambua'],
-			['/2020/omframt-landsmote', 'Omframt landsmøte'],
           ] %}
             <li{% if this.is_child_of(href) %} class=active{% endif
               %}><a href="{{ href|url }}">{{ title }}</a></li>
@@ -33,7 +32,8 @@
         </ul>
         <ul class=extra>
           {% for href, title in [
-            ['/kontakt', 'Kontakt og presse'],
+            ['/kontakt', 'Kontakt'],
+			['/kontakt/presse', 'Presse'],
             ['/engasjer-deg', 'Engasjer deg'],
           ] %}
             <li{% if this.is_child_of(href) %} class=active{% endif
