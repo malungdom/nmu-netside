@@ -15,9 +15,9 @@ content:
 
 **Gunnhild Skjold**, leiar
 <br>gunnhild@malungdom.no
+- Indre Agder målungdom
+- Katta målungdom
 - Studentmållaget i Tromsø
-- Kongsgård Elevmållag
-- Sandefjord Elevmållag
 
 ----
 
@@ -25,9 +25,8 @@ class: box
 #### text-block ####
 content:
 
-**Ingunn V. Steinsvåg**, 1. nestleiar
+**Ingunn V. Steinsvåg**, nestleiar
 <br>ingunn@malungdom.no
-- Vika Målungdom
 - Ås studentmållag
 - Studentmållaget i Stavanger
 ----
@@ -36,24 +35,11 @@ class: box
 #### text-block ####
 content:
 
-**Ragnhild Kvifte**, 2. nestleiar
-<br>ragnhild@malungdom.no
-- Hallingdal Målungdom
-- Knarvik Elevmållag
-- Studentmållaget i Bergen
-
-----
-
-class: box
-#### text-block ####
-content:
-
 **Frida Pernille Mikkelsen**, skrivar
 <br>frida@malungdom.no
-- Indre Sunnfjord Målungdom
-- Indre Agder Målungdom
-- Studentmållaget i Oslo
 - Studentmållaget i Agder
+- Studentmållaget i Bergen
+- Studentmållaget i Oslo
 
 ----
 
@@ -63,9 +49,8 @@ content:
 
 **Ådne Reidar Nes Kleppe**, sentralstyremedlem
 <br>aadnereidar@malungdom.no
-- Sogndal Målungdom
 - Studentmållaget i Sogndal
-- Firda Målungdom
+- Firda målungdom
 - Studentmållaget i Volda
 
 ----
@@ -76,10 +61,9 @@ content:
 
 **Erling Leivestad**, sentralstyremedlem
 <br>erling@malungdom.no
-- Sumarøyo Målungdom
-- Vågen Elevmållag
-- Trøndersk Målungdom
-- Haugaland Målungdom
+- Sumarøyo målungdom
+- Trøndersk målungdom
+- Vika målungdom
 
 ----
 
@@ -89,11 +73,20 @@ content:
 
 **Tobias Eikeland**, sentralstyremedlem
 <br>tobias@malungdom.no
-- Fron Målungdom
+- Fron målungdom
 - Studentmållaget i Nidaros
-- Søre Sunnmøre Målungdom
-- Studentmållaget i Gjøvik
+- Sogndal målungdom
 
+----
+
+class: box
+#### text-block ####
+content:
+
+**Anna Rekdal**, 1. vara til sentralstyret
+<br>anna@malungdom.no
+- Hallingdal målungdom
+- Sandefjord elevmållag
 
 ----
 

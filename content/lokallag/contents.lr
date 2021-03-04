@@ -1,4 +1,6 @@
-tittel: Ressursar for lokallaga
+_model: page-advanced
+---
+tittel: Lokallag
 ---
 ingress:
 <center>Lokallaga er grunnsteinen i Norsk Målungdom. Dei skipar til både sosiale og politiske hendingar gjennom året og vil gjerne ha med deg! 
@@ -8,40 +10,29 @@ toppbilete: None
 ---
 tekst:
 
-
-
-Lokallagsliste
+#### text-block ####
+----
+content:
+Lokallagsressursar
 =========
-Me har lokallag over heile landet. Her finn du lag du kan bli med i:
+Er du med i eit lokallag? Her finn du ressursar som kan vera nyttige!
+- <a href="/lokallag/aarsmote">Årsmøte i lokallaget</a>
+- <a href="/lokallag/fadder">Fadderordninga</a>
+- <a href="/lokallag/frifond">Frifond</a>
+- <a href="/lokallag/handboka">Lokallagshandboka</a>
+----
 
-- Firda Målungdom
-- Fron Målungdom
-- Hallingdal Målungdom
-- Indre Agder Målungdom
-- Indre Sunnfjord Målungdom
-- Knarvik Elevmållag
-- Kongsgård Elevmållag (Stavanger katedralskule)
-- Sandefjord Elevmållag
-- Sogndal Målungdom
-- Studentmållaget i Agder
-- Studentmållaget i Bergen
-- Studentmållaget i Gjøvik
-- Studentmållaget i Nidaros
-- Studentmållaget i Oslo
-- Studentmållaget i Sogndal
-- Studentmållaget i Stavanger
-- Studentmållaget i Tromsø
-- Studentmållaget i Volda
-- Sumarøyo Målungdom
-- Søre Sunnmøre Målungdom
-- Trøndersk Målungdom
-- Vika Målungdom
-- Vågen Elevmållag
-- Ås Studentmållag
-<br>
-<br>
+#### text-block ####
+----
+content:
+Lokallaga våre
+=========
+Norsk Målungdom har lokallag frå Kristiansand i sør til Tromsø i nord! Her finn du [kontaktinformasjon til lokallaga](/lokallag/lokallag).
+----
 
+#### text-block ####
+----
+content:
 Korleis skipe lokallag?
 =========
-Det er enkelt. Finn tre andre som er interesserte og kontakt oss, så hjelper sentralstyret deg med resten. 
-
+Det er enkelt! Kontakt oss på [norsk@malungdom.no](mailto:norsk@malungdom.no), så hjelper sentralstyret deg med resten. De må vera minst to styremedlemar. Vi kan hjelpe deg med å koma i kontakt med andre målungdomar i området ditt, og med alt det praktiske rundt lagsskipinga!

@@ -1,0 +1,215 @@
+_model: page-advanced
+---
+tittel: Lokallag
+---
+ingress:
+<center>Me har lokallag over heile landet. Her finn du eit oversyn over alle laga våre og korleis du kan koma i kontakt med dei!</center>
+---
+tekst:
+
+#### text-block ####
+----
+content:
+Firda målungdom
+==
+**Stad:** Firda VGS, Gloppen i Vestland <br>
+**Leiar:** Nikoline Gloppestad <br>
+
+**Finn dei på:** <br>
+[Instagram](https://www.instagram.com/firdamalungdom/) ∙ [Facebook](https://www.facebook.com/FirdaMaalungdom/about/?ref=page_internal)
+----
+
+#### text-block ####
+-
+content: 
+Fron målungdom
+==
+**Stad:** Vinstra i Innlandet <br>
+**Leiar:** Synne Solberg <br>
+**Kontakt:** [fron.mu@gmail.com](mailto:fron.mu@gmail.com)
+
+**Finn dei på:**<br>
+[Instagram](https://www.instagram.com/fronmalungdom/) ∙ [Facebook](https://www.facebook.com/fronmalungdom)
+----
+
+#### text-block ####
+-
+content:
+Hallingdal målungdom
+==
+**Stad:** Hallingdal i Viken <br>
+**Leiar:** Anne Skølt <br>
+
+**Finn dei på:**<br>
+[Instagram](https://www.instagram.com/hallingdal_mu) ∙ [Facebook](https://www.facebook.com/Hallingdal-M%C3%A5lungdom-111144640280360)
+----
+
+#### text-block ####
+-
+content:
+Indre Agder målungdom
+==
+**Stad:** Lyngdal i Agder <br>
+**Leiar:** Synnøve Stulien Lauen <br>
+**Kontakt:** [indre.agder.maalungdom@gmail.com](mailto:indre.agder.maalungdom@gmail.com)
+
+**Finn dei på:**<br>
+[Facebook](https://www.facebook.com/Indre-Agder-M%C3%A5lungdom-102089811920884)
+----
+
+#### text-block ####
+-
+content:
+Katta målungdom
+==
+**Stad:** Oslo katedralskole, Oslo <br>
+**Leiar:** Magnus Vesterøy Bryne <br>
+**Kontakt:** [katta@malungdom.no](mailto:katta@malungdom.no)
+
+**Finn dei på:**<br>
+[Discord](https://discord.gg/a5pJj8feCf) ∙ [Facebook](https://www.facebook.com/groups/2383969626/)
+----
+
+#### text-block ####
+-
+content: Sandefjord elevmållag
+==
+**Stad:** Sandefjord i Vestfold og Telemark <br>
+**Leiar:** Kristina Bjørnereim <br>
+**Kontakt:** [kristinabjo@hotmail.no](mailto:kristinabjo@hotmail.no)
+
+**Finn dei på:**<br>  [Facebook](https://www.facebook.com/sfjelevmallag/)
+----
+
+#### text-block ####
+-
+content: Sogndal målungdom
+==
+**Stad:** Sogndal i Vestland <br>
+**Leiar:** Rasmus Tennø Loe <br>
+**Kontakt:** [sogndalmu@gmail.com](mailto:sogndalmu@gmail.com)
+
+**Finn dei på:**<br> [Facebook](https://www.facebook.com/SogndalMU)
+
+----
+#### text-block ####
+-
+content: Studentmållaget i Agder
+==
+**Stad:** Kristiansand i Agder
+<br>**Leiar:** Marthe Mæland
+<br>**Kontakt:** [smia.nynorsk@gmail.com](mailto:smia.nynorsk@gmail.com)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/smiagder/) ∙ [Facebook](https://www.facebook.com/smiagder)
+----
+#### text-block ####
+-
+content: Studentmållaget i Bergen
+==
+**Stad:** Bergen i Vestland
+<br>**Leiar:** Ingrid Mølmen Gråsletten
+<br>**Kontakt:** [smib@malungdom.no](mailto:smib@malungdom.no)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/smibergen/) ∙ [Facebook](https://www.facebook.com/SmiBergen)  ∙ [Nettstad](https://smib.no)
+----
+#### text-block ####
+-
+content: Studentmållaget i Nidaros
+==
+**Stad:** Trondheim i Trøndelag
+<br>**Leiar:** Marte Søreng
+<br>**Kontakt:** [smin-styret@malungdom.no](mailto:smin-styret@malungdom.no)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/sminidaros/) ∙ [Facebook](https://www.facebook.com/sminidaros)
+----
+#### text-block ####
+-
+content: Studentmållaget i Oslo
+==
+**Stad:** Oslo i Oslo
+<br>**Leiar:** Jonas Økland
+<br>**Kontakt:** [smio@malungdom.no](mailto:smio@malungdom.no)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/studentmallaget/) ∙ [Facebook](https://www.facebook.com/Studentmallaget)
+----
+
+#### text-block ####
+-
+content: Studentmållaget i Sogndal
+==
+**Stad:** Sogndal i Vestland
+<br>**Leiar:** Iselin Sande Bakke
+<br>**Kontakt:** [smisogndal@outlook.com](mailto:smisogndal@outlook.com)
+
+**Finn dei på:<br>** [Instagram](https://www.instagram.com/smisogndal/) ∙ [Facebook](https://www.facebook.com/smiSogndal)
+----
+
+#### text-block ####
+-
+content: Studentmållaget i Stavanger
+==
+**Stad:** Stavanger i Rogaland
+<br>**Leiar:** Halvard Hinnaland
+<br>**Kontakt:** [smis@malungdom.no](mailto:smis@malungdom.no)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/smistavanger/) ∙ [Facebook](https://www.facebook.com/smistavanger)
+----
+
+#### text-block ####
+-
+content: Studentmållaget i Tromsø
+==
+**Stad:** Tromsø i Troms og Finnmark
+<br>**Leiar:** Trond Tynnøl
+<br>**Kontakt:** [smit@malungdom.no](smit@malungdom.no)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/smitromso/) ∙ [Facebook](https://www.facebook.com/smitromso)
+----
+#### text-block ####
+-
+content: Studentmållaget i Volda
+==
+**Stad:** Volda i Møre og Romsdal
+<br>**Leiar:** Steinar Voldsund Fjeldvær
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/smivolda/) ∙ [Facebook](https://www.facebook.com/SmiVolda)
+----
+#### text-block ####
+-
+content: Sumarøyo målungdom
+==
+**Stad:** Stord i Vestland <br>
+**Leiar:** Hannah Hillersøy Resser <br>
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/sumaroyo_malungdom/) ∙ [Facebook](https://www.facebook.com/sumaroyomalungdom)
+----
+
+#### text-block ####
+-
+content: Trøndersk målungdom
+==
+**Stad:** Trondheim i Trøndelag
+<br>**Leiar:** Johanna Breivang
+<br>**Kontakt:** [trondersk@malungdom.no](mailto:trondersk@malungdom.no)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/tronderskmalungdom/) ∙ [Facebook](https://www.facebook.com/Trondersk.MU)
+----
+#### text-block ####
+-
+content: Vika målungdom
+==
+**Stad:** Asker i Viken
+<br>**Leiar:** Ingvild Maria Utne Nese
+
+**Finn dei på:**<br> [Facebook](https://www.facebook.com/Akershusmalungdom)
+----
+#### text-block ####
+-
+content: Ås studentmållag
+==
+**Stad:** Ås i Viken
+<br>**Leiar:** Stine Fjellkårstad
+<br>**Kontakt:** [studentmallag@gmail.com](mailto:studentmallag@gmail.com)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/aasstudentmaallag/) ∙ [Facebook](https://www.facebook.com/asstudentmallag)
+----
