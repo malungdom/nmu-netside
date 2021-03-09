@@ -6,3 +6,5 @@ env/
 *.png
 .DS_Store
 configs/external-images.ini
+content/kontakt/.gunnhild2.jpg.icloud
+*.icloud
