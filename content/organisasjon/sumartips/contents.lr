@@ -4,14 +4,13 @@ tittel: Sumartips
 ---
 toppbilete: none
 ---
-ingress:
-
-**Her finn du nokre tips til kva du kan finne på i sumar!**
+ingress: **Her finn du nokre tips til kva du kan finne på i sumar!**
 ---
 tekst:
 
 #### text-block ####
 content:
+
 Sumarlytting
 =================
 **I karantene**
@@ -30,7 +29,6 @@ Sumarlytting
 <br>Denne våren har eg endeleg fått gjort noko som har venta heile livet, eg har sett *The Office* (amerikansk versjon). Ikkje berre var det ei god oppleving i seg sjølv, men eg kan no også nyte podkasten *Office Ladies*. Jenna og Angela, skodespelarar i serien, snakkar seg gjennom The Office episode for episode. Ein får høre detaljar om livet bak kamera, kva som ikkje kom med i seieren, og kva scener som var dei kjekkaste å spele inn. Akkurat sånn sladder ein ønskjer å høyre om serien ein ikkje heilt får nok av. Podkasten fungerer nok best, ev. berre, om du har sett det *The Office*. Om du ikkje har det har du no sjukt mykje god underhaldning føre deg, både mat for auge og øyre.
 
 Tipsa er henta frå Motmæle 2/20, skriven av Frida Pernille Mikkelsen  
-
 ----
 class: box
 #### text-block ####
@@ -85,6 +83,10 @@ Sumarsjåing
 
 Tipsa er henta frå Motmæle 2/20, skriven av Gunnhild Skjold  
 ----
-class: box
+class:
 
-
+box
+---
+_discoverable: no
+---
+_hidden: yes
