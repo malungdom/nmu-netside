@@ -84,16 +84,6 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1IrMArHI6qQ_esqh2WddoYB3_axfgEuza" alt="T-skjorte: Framifrå">
-<center> **T-skjorte: Framifrå**
-<br>150 kroner 
-<br> <small>Storleik S, XXL</small>
-
-----
-class: box
-#### text-block ####
-content:
-
 <img src="https://drive.google.com/uc?export=view&id=1Q3vcvngurij4TW3XtoUT5QCxnb6TF6js" alt="Handlenett">
 <center> **Handlenett: nyfiken**
 <br>50 kroner 
@@ -133,16 +123,6 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=17lfl8q3Jg1mZmn3eJq96Rz5P56O76z99" alt="Krus">
 <center> **Krus**
 <br>150 kroner 
-
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1bm9isXPhz7OMw4RB0HKtAvj19S38LNP4" alt="T-skjorte: Hugnad">
-<center> **T-skjorte: Hugnad**
-<br>150 kroner 
-<br> <small>Storleik S</small>
 
 ----
 class: box
