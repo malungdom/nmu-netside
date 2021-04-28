@@ -1,33 +1,31 @@
-tittel: Skrivarstova (kontakt oss!)
+tittel: Skrivarstova
 ---
-oversikt_skjult: True
----
-ingress: Me har til vanleg kontortid 09.00-17.00 (telefontid 10.00-16.00)
+ingress: Skrivarstova er kontoret til Norsk Målungdom, og held til på Lilletorget 1 i Oslo. Dei tilsette utfører administrative oppgåver knytte til målferd, medlemsregister, målgåveregister, dagleg økonomiarbeid og kontakt med medlemmane og lokallaga. 
 ---
 tekst:
+Om skrivarstova
+====
+Skrivarstova er sett saman av skrivar og kontormedarbeidar, i tillegg til leiaren. Her kan du [kontakte skrivarstova](/kontakt).
 
-## E-post
-norsk@malungdom.no
+**Skrivaren** har hovudansvar for dagleg drift, økonomiarbeid, rekneskap, medlemsregister og organisatorisk arbeid, i tillegg til å vere skrivar for sentralstyret og landsstyret. Dette er den same rolla andre organisasjonar kallar «dagleg leiar» eller «generalsekretær».
 
-## Telefon
-23 00 29 40
+**Kontormedarbeidaren** arbeider med medlemsregister, sosiale medium, Frifond og anna kontorarbeid. Dette er ei halv stilling. 
 
-## Postadresse
-Norsk Målungdom <br>
-Lilletorget 1<br>
-0184 Oslo
+**Leiaren** i sentralstyret er frikjøpt i full stilling for å arbeide med politikk og oppfølging av styre og lokallag. 
 
-# Kontakt oss
+Kontakt
+====
+**Norsk Målungdom**<br>
+Lilletorget 1, 0184 Oslo<br>
+E-post: [norsk@malungdom.no](mailto:norsk@malungdom.no)<br>
+Telefon: 23 00 29 40
 
-<form method="POST" action="/cgi-bin/send.py?_type=kontakt"
-  data-type="kontakt" data-success="Innsendt!">
-  <label>
-    Fritt felt <small>(hugs namn/anna informasjon)</small>
-    <textarea name="fritekst" rows=3 required></textarea>
-  </label>
-  <label>
-    Eposten din
-    <input type="email" name="epost">
-  </label>
-  <input type="submit" value="Send inn">
-</form>
+Dei tilsette
+====
+Skrivar – **Frida Pernille Mikkelsen** (*Frå Sunnfjord, fødd 1997*)<br>
+E-post: frida@malungdom.no Telefon: 48 24 87 47
+
+Frida har bakgrunn frå Firda Målungdom og Studentmållaget i Oslo. Ho har sete ein periode i landsstyret og tre år i sentralstyret. Frida har ein bachelor i offentleg administrasjon og leiing frå UiO. Ho er på jakt etter nye fritidsaktivitetar, send gjerne tips til frida@malungdom.no! 
+
+Kontormedarbeidar - **Idunn Victoria Rostøl** <br>
+E-post: kontor@malungdom.no
