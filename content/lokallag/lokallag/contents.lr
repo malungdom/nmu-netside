@@ -140,7 +140,8 @@ content:
 
 #### text-block ####
 -
-content: <img src="smisog.jpg" alt="Studentmållaget i Sogndal">
+content:
+<img src="smis.jpg" alt="Studentmållaget i Stavanger">
 ==
 **Stad:** Sogndal i Vestland 
 <br>**Leiar:** Iselin Sande Bakke
