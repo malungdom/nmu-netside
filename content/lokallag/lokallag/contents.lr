@@ -9,8 +9,7 @@ tekst:
 
 #### text-block ####
 ----
-content:
-Firda målungdom
+content: <img src="firda.jpg" alt="Firda Målungdom">
 ==
 **Stad:** Firda VGS, Gloppen i Vestland <br>
 **Leiar:** Nikoline Gloppestad <br>
@@ -22,7 +21,7 @@ Firda målungdom
 #### text-block ####
 -
 content: 
-Fron målungdom
+<img src="fron.jpg" alt="Fron Målungdom">
 ==
 **Stad:** Vinstra i Innlandet <br>
 **Leiar:** Vanja Haugen Stener <br>
@@ -35,7 +34,7 @@ Fron målungdom
 #### text-block ####
 -
 content:
-Hallingdal målungdom
+<img src="hallingdal.jpg" alt="Hallingdal Målungdom">
 ==
 **Stad:** Hallingdal i Viken <br>
 **Leiar:** Anne Skølt <br>
@@ -47,7 +46,7 @@ Hallingdal målungdom
 #### text-block ####
 -
 content:
-Indre Agder målungdom
+<img src="indre-agder.jpg" alt="Indre Agder Målungdom">
 ==
 **Stad:** Lyngdal i Agder <br>
 **Leiar:** Synnøve Stulien Lauen <br>
@@ -60,7 +59,7 @@ Indre Agder målungdom
 #### text-block ####
 -
 content:
-Katta målungdom
+<img src="katta.jpg" alt="Katta Målungdom">
 ==
 **Stad:** Oslo katedralskole, Oslo <br>
 **Leiar:** Magnus Vesterøy Bryne <br>
@@ -72,7 +71,8 @@ Katta målungdom
 
 #### text-block ####
 -
-content: Sandefjord elevmållag
+content: 
+<img src="sandefjord.jpg" alt="Sandefjord elevmållag">
 ==
 **Stad:** Sandefjord i Vestfold og Telemark <br>
 **Leiar:** Kristina Bjørnereim <br>
@@ -83,7 +83,8 @@ content: Sandefjord elevmållag
 
 #### text-block ####
 -
-content: Sogndal målungdom
+content: 
+<img src="sogndal.jpg" alt="Sogndal Målungdom">
 ==
 **Stad:** Sogndal i Vestland <br>
 **Leiar:** Rasmus Tennø Loe <br>
@@ -94,7 +95,8 @@ content: Sogndal målungdom
 ----
 #### text-block ####
 -
-content: Studentmållaget i Agder
+content: 
+<img src="smia.jpg" alt="Studentmållaget i Agder">
 ==
 **Stad:** Kristiansand i Agder
 <br>**Leiar:** Marthe Mæland
@@ -104,7 +106,8 @@ content: Studentmållaget i Agder
 ----
 #### text-block ####
 -
-content: Studentmållaget i Bergen
+content: 
+<img src="smib.jpg" alt="Studentmållaget i Bergen">
 ==
 **Stad:** Bergen i Vestland
 <br>**Leiar:** Victoria Humborstad
@@ -114,7 +117,8 @@ content: Studentmållaget i Bergen
 ----
 #### text-block ####
 -
-content: Studentmållaget i Nidaros
+content: 
+<img src="smin.jpg" alt="Studentmållaget i Nidaros">
 ==
 **Stad:** Trondheim i Trøndelag
 <br>**Leiar:** Marte Søreng
@@ -124,7 +128,8 @@ content: Studentmållaget i Nidaros
 ----
 #### text-block ####
 -
-content: Studentmållaget i Oslo
+content: 
+<img src="smio.jpg" alt="Studentmållaget i Oslo">
 ==
 **Stad:** Oslo i Oslo
 <br>**Leiar:** Jonas Økland
@@ -135,7 +140,8 @@ content: Studentmållaget i Oslo
 
 #### text-block ####
 -
-content: Studentmållaget i Sogndal
+content: 
+<img src="smisog.jpg" alt="Studentmållaget i Sogndal">
 ==
 **Stad:** Sogndal i Vestland 
 <br>**Leiar:** Iselin Sande Bakke
@@ -147,7 +153,7 @@ content: Studentmållaget i Sogndal
 #### text-block ####
 -
 content:
-Studentmållaget i Stavanger
+<img src="smis.jpg" alt="Studentmållaget i Stavanger">
 ==
 **Stad:** Stavanger i Rogaland
 <br>**Leiar:** Johanne Malene Ekeland Valvatne
@@ -158,7 +164,8 @@ Studentmållaget i Stavanger
 
 #### text-block ####
 -
-content: Studentmållaget i Tromsø
+content: 
+<img src="smit.jpg" alt="Studentmållaget i Tromsø">
 ==
 **Stad:** Tromsø i Troms og Finnmark
 <br>**Leiar:** Trond Tynnøl
@@ -168,7 +175,8 @@ content: Studentmållaget i Tromsø
 ----
 #### text-block ####
 -
-content: Studentmållaget i Volda
+content: 
+<img src="smiv.jpg" alt="Studentmållaget i Volda">
 ==
 **Stad:** Volda i Møre og Romsdal
 <br>**Leiar:** Steinar Voldsund Fjeldvær
@@ -177,7 +185,8 @@ content: Studentmållaget i Volda
 ----
 #### text-block ####
 -
-content: Sumarøyo målungdom
+content: 
+<img src="sumar.jpg" alt="Sumarøyo Målungdom">
 ==
 **Stad:** Stord i Vestland <br>
 **Leiar:** Hannah Hillersøy Resser <br>
@@ -187,7 +196,8 @@ content: Sumarøyo målungdom
 
 #### text-block ####
 -
-content: Trøndersk målungdom
+content: 
+<img src="trondersk.jpg" alt="Trøndersk Målungdom">
 ==
 **Stad:** Trondheim i Trøndelag
 <br>**Leiar:** Johanna Breivang
@@ -197,7 +207,8 @@ content: Trøndersk målungdom
 ----
 #### text-block ####
 -
-content: Vika målungdom
+content: 
+<img src="vika.jpg" alt="Vika Målungdom">
 ==
 **Stad:** Asker i Viken
 <br>**Leiar:** Ingvild Maria Utne Nese
@@ -206,7 +217,8 @@ content: Vika målungdom
 ----
 #### text-block ####
 -
-content: Ås studentmållag
+content: 
+<img src="aas.jpg" alt="Ås studentmållag">
 ==
 **Stad:** Ås i Viken
 <br>**Leiar:** Stine Fjellkårstad
