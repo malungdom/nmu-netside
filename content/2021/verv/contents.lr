@@ -1,0 +1,105 @@
+_model: page-advanced
+---
+oversikt_skjult: yes
+---
+tittel: Vervekampanje
+---
+ingress: <center> 16. august til 19. september føregår vervekampanjen 2021. <br><br>
+</center>
+
+
+
+<center><a href="/meld-deg-inn" class="button bli-medlem-stor">Verv ein ven!</a></center>
+---
+tekst:
+
+#### text-block ####
+content:
+Om vervekampanjen
+=======
+Gjer ein skilnad for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk og meir nynorsk i kvardagen.
+
+Kampanjen varer frå 16. august til 19. september, og om du vervar nokon i denne perioden, samlar du vervepoeng. Dei kan du bruke til å handle premiane du ser på sida her!
+
+[Her finn du svar på ofte stilte spørsmål om vervekampanjen](oss)
+
+[Her finn du kontaktinformasjon til lokallaga](/lokallag/lokallag)
+
+Korleis verve?
+======
+
+Det er tre måtar å verve på: Nettsida, Vipps og SMS. Om du vil vere heilt sikker på at vervinga blir teljande er det lurast å bruke Vipps eller SMS, for da kjem medlemspengane inn med ein gong.
+<br>- **Nettsida**: Be personen du vervar om å fylle ut [dette skjemaet](/meld-deg-inn). Den du vervar blir så sendt til ei Vippsbetaling. Hen kan også vente på å få giro i posten eller sende NMU100 til 2090 (trekk 100,- frå mobilrekninga).
+<br>- **Vipps**: Be personen du vervar om å søke opp Norsk Målungdom på Vipps (#22472) og trykke på  «Meld deg inn!».  Personen du vervar må så hake av på nokre spørsmål og leggje bestillinga i handlekurven sin. I handlekurven fyllar ein inn namn og kontaktinformasjon under «Hjemlevering» og namnet på vervaren i kommentarfeltet.
+<br>- **SMS**: Be personen du vervar om å sende ein SMS med kodeord NMU100 til 2090. I SMS-en må personen du vervar skrive inn namn, fødeår, e-post, adresse og namnet ditt. Då blir 100 kr trekt frå mobilrekninga deira.
+
+<br>
+Lokallagskonkurranse
+========
+
+Kva lokallag vervar flest?
+Studentmållaga og elevmållaga kjempar om kvart sitt gåvekort på gratis tilskiping for medlemmane.
+Lokallaget ditt får utteljing for kvar ny medlem som vert
+verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
+deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
+ditt i kampen mot dei andre lokallaga eller studentmållaga.
+
+
+----
+class: big-box
+#### text-block ####
+content:
+
+Vervepremiar
+=========== 
+
+<dt><b>Verv 1</b>
+<dd>Refleksvest
+<dd><img src="https://drive.google.com/uc?export=view&id=1E2nlG2lCLW7P5llmO2iq62oX1EmpkhVx" alt="Refleksvest">
+<dt><b>Verv 2</b>
+<dd>T-skjorte
+<dd><img src="https://drive.google.com/uc?export=view&id=1tLcFAt-yZNn8h24JKSWeJ9ZyCwTqf2NP" alt="T-skjorte">
+<dt><b>Verv 3</b>
+<dd>Drikkeflaske
+<dd><img src="https://drive.google.com/uc?export=view&id=1MO089aYNxyu_AjUnMXUkEzTYclrfKSrB" alt="Drikkeflaske">
+<dt><b>Verv 5</b>
+<dd>Fire kinobillettar
+<dd><img src="https://drive.google.com/uc?export=view&id=1FwbrPsHX_cqw0TDB4hUQjbd2DxXTO6My" alt="Kinobillettar">
+<dt><b>Verv 7</b>
+<dd>Genser med reiseruta til Aasen
+<dd><img src="https://drive.google.com/uc?export=view&id=1To5qFwkomsetbwySfTZXZ9GkrxGG7T64" alt="Genser">
+<dt><b>Verv 10</b>
+<dd>Gåvekort på samlaget eller storytel
+<dd><img src="https://drive.google.com/uc?export=view&id=1R67Wr-1V0Wz3aUsO2BqMVN-2C5BeqeOa" alt="Gåvekort">
+<dt><b>Verv 13</b>
+<dd>2 festivalpass til ein nynorskfestival
+<dd><img src="https://drive.google.com/uc?export=view&id=1bM-MlYCGLcJdGz24mZENf7ggjPJs9tAx" alt="Festivalpass">
+----
+class: box
+#### text-block ####
+content:
+
+Vervetoppen
+========
+<style>
+.toppen {
+  border: 0;
+  width: 100%;
+  height: 400px;
+}
+</style>
+<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2021-08-16&to=2020-09-20"></iframe>
+
+
+Elevmållagsvervetoppen
+========
+Ingen elevmållag har verva enno.
+
+Studentmållagsvervetoppen
+=======
+Ingen studentmållag har verva enno.
+---
+----
+class: box
+---
+toppbilete: None
