@@ -1,5 +1,7 @@
 oversikt_ingress: 
 ---
+_discoverable: no
+---
 avsendar: Landsmøtet 2016
 ---
 publiseringsdato: 2016-04-03
