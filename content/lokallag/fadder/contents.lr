@@ -13,33 +13,14 @@ tekst:
 #### text-block ####
 content:
 
-**Gunnhild Skjold**, leiar
-<br>gunnhild@malungdom.no
-- Indre Agder målungdom
-- Katta målungdom
-- Studentmållaget i Tromsø
+**Frida Pernille Mikkelsen**
+<br><a href="mailto:frida@malungdom.no">frid@malungdom.no</a>
+<br>*Leiar*
 
-----
-
-class: box
-#### text-block ####
-content:
-
-**Ingunn V. Steinsvåg**, nestleiar
-<br>ingunn@malungdom.no
-- Ås studentmållag
-- Studentmållaget i Stavanger
-----
-
-class: box
-#### text-block ####
-content:
-
-**Frida Pernille Mikkelsen**, skrivar
-<br>frida@malungdom.no
-- Studentmållaget i Agder
-- Studentmållaget i Bergen
+- Hardanger og Voss Målungdom
 - Studentmållaget i Oslo
+- Studentmållaget i Tromsø
+- Studentmållaget i Stavanger
 
 ----
 
@@ -47,10 +28,24 @@ class: box
 #### text-block ####
 content:
 
-**Ådne Reidar Nes Kleppe**, sentralstyremedlem
-<br>aadnereidar@malungdom.no
+**Rebekka Hugøy Hovland**
+<br>[rebekka@malungdom.no](mailto:rebekka@malungdom.no)
+<br>*Skrivar*
+- Hallingdal Målungdom
 - Studentmållaget i Sogndal
-- Firda målungdom
+- Vika Målungdom
+- Ås studentmållag
+----
+
+class: box
+#### text-block ####
+content:
+
+**Ådne Reidar Nes Kleppe**
+<br>[aadnereidar@malungdom.no](mailto:aadnereidar@malungdom.no)
+<br>*Nestleiar*
+- Firda Målungdom
+- Studentmållaget i Nidaros
 - Studentmållaget i Volda
 
 ----
@@ -59,11 +54,12 @@ class: box
 #### text-block ####
 content:
 
-**Erling Leivestad**, sentralstyremedlem
-<br>erling@malungdom.no
-- Sumarøyo målungdom
-- Trøndersk målungdom
-- Vika målungdom
+**Dordi Boksasp Lerum**
+<br>[dordi@malungdom.no](mailto:dordi@malungdom.no)
+<br>*Sentralstyremedlem*
+- Indre Agder Målungdom
+- Studentmållaget i Bergen
+- Sogndal Målungdom
 
 ----
 
@@ -71,11 +67,12 @@ class: box
 #### text-block ####
 content:
 
-**Tobias Eikeland**, sentralstyremedlem
-<br>tobias@malungdom.no
-- Fron målungdom
-- Studentmållaget i Nidaros
-- Sogndal målungdom
+**Tobias Christensen Eikeland**
+<br>[tobias@malungdom.no](mailto:tobias@malungdom.no)
+<br>*Sentralstyremedlem*
+- Fron Målungdom
+- Katta Målungdom
+- Trøndersk Målungdom
 
 ----
 
@@ -83,10 +80,12 @@ class: box
 #### text-block ####
 content:
 
-**Anna Rekdal**, 1. vara til sentralstyret
-<br>anna@malungdom.no
-- Hallingdal målungdom
-- Sandefjord elevmållag
+**Marit Voldsund Fjeldvær**
+<br>[marit@malungdom.no](mailto:marit@malungdom.no)
+<br>*Sentralstyremedlem*
+- Studentmållaget i Agder
+- Sumarøyo Målungdom
+- Søre Sunnmøre Målungdom
 
 ----
 
