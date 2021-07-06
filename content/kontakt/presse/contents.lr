@@ -2,6 +2,8 @@ tittel: Presse
 ---
 _model: page-advanced
 ---
+toppbilete: None
+---
 ingress:
 
 Her finn du pressemeldingar Norsk Målungdom har sendt til pressa, og kontaktinfo. 
@@ -28,5 +30,4 @@ for_underside: pressemeldingar
 classes: box
 ----
 
-toppbilete: none
 
