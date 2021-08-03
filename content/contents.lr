@@ -4,7 +4,7 @@ tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
 #### hero ####
-bilete: framsiden.jpg
+bilete: framsidebilete.jpg
 ----
 body:
 <h1>Velkomen til Norsk Målungdom</h1>
