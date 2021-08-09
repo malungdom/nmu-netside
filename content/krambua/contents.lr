@@ -115,15 +115,7 @@ content:
 <br>50 kroner 
 
 ----
-class: box
-#### text-block ####
-content:
 
-<img src="https://drive.google.com/uc?export=view&id=17lfl8q3Jg1mZmn3eJq96Rz5P56O76z99" alt="Krus">
-<center> **Krus**
-<br>150 kroner 
-
-----
 class: box
 #### text-block ####
 content:
@@ -150,15 +142,6 @@ content:
 <center> **Eg vil so gjerne syngja**
 <br>100 kroner
 
-
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1WBkCTn4azpJvRq4jrNu91NNJNYAS6j1P" alt="NMUs">
-<center> **NMUs**
-<br>50 kroner
 
 ----
 
