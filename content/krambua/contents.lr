@@ -101,15 +101,6 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1TRVGCAb8uoJ72i2s3BKUcCFH74t3XgVy" alt="Tannkost">
-<center> **Tannkost**
-<br>40 kroner 
-
-----
-class: box
-#### text-block ####
-content:
-
 <img src="https://drive.google.com/uc?export=view&id=1AnCf7Z6h_NcDeJcvD2gYAsXWaV6visYA" alt="Pennal">
 <center> **Pennal**
 <br>70 kroner 
