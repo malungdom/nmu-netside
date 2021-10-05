@@ -3,13 +3,14 @@ _model: framside
 tittel: Velkomen til Norsk Målungdom
 ---
 ingress:
+
 #### hero ####
 bilete: framsidebilete.jpg
 ----
 body:
+
 <h1>Velkomen til Norsk Målungdom</h1>
 <a href="/meld-deg-inn" class="button bli-medlem-stor">Bli medlem!</a>
-
 ---
 tekst:
 
@@ -43,7 +44,6 @@ Språklege rettar
 --------
 Me må ha eit lovverk som står stør opp om det språklege mangfaldet. Me seier frå når nokon bryt mållova og jobbar for at fleire skal fylgje lovverket.
 ----
-
 class: box
 #### text-block ####
 content:
@@ -51,11 +51,9 @@ content:
 Kva skjer framover?
 ===================
 
-**16. aug - 19. sep**: Vervekampanje
+**1. - 3. oktober**: [Jubileumssamling](/2021/jubileumssamling/)
 
-**17. - 19. sep**: Landsstyremøte
-
-**1. - 3. oktober**: Jubileumssamling
+**3. oktober**: Landsstyremøte
 
 
 
@@ -68,11 +66,11 @@ Du kan melda deg inn ved å senda SMS med kodeord
 eller fylla ut dette <a href="/meld-deg-inn">skjemaet</a>.
 
 
-Viss du allereie er medlem kan du senda kodeord `MEDLEMSPENGAR` til `2090` (80 kr),
+Viss du allereie er medlem, kan du senda kodeord `MEDLEMSPENGAR` til `2090` (80 kr),
 
 eller
 
-betala 80 kr til Norsk Målungdom (`640459`) i Vipps,  og merka betalinga med namnet ditt,
+betala 80 kr til Norsk Målungdom (`640459`) i Vipps, og merka betalinga med namnet ditt,
 
 eller
 
@@ -105,9 +103,9 @@ Gåve?
 ====
 Me er avhengige av stabil økonomi for å få frie hender til politisk arbeid. Gode målfolk har i årevis stødd oss med målgåver, og det kjem godt til nytte.
 
-Har du lyst til å gje målgåve? Vipps ei pengegåve til vippsnummer 22472 eller registrer deg i dette skjemaet for å få giro i posten tre gongar i året.
+Har du lyst til å gje målgåve? Vipps ei pengegåve til vippsnummer 22472, eller registrer deg i dette skjemaet for å få giro i posten tre gongar i året.
 
-Viss du gjev 500 kroner eller meir i gåve kan du få skattefrådrag.
+Viss du gjev 500 kroner eller meir i gåve, kan du få skattefrådrag.
 
 
 <form method="POST" action="/cgi-bin/send.py?_type=gaave"
