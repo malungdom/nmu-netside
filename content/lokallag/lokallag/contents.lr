@@ -10,7 +10,7 @@ tekst:
 #### text-block ####
 -
 content: 
-<dd><img src="https://drive.google.com/uc?export=view&id=12M06h7Cg4fwy47i2IPuGtbBinNfXwFc8" alt="Katten Målungdom">
+<dd><img src="https://drive.google.com/uc?export=view&id=" alt="Katten Målungdom">
 ==
 **Stad:** Bergen katedralskule <br>
 **Leiar:** Sebastian Natvik <br>
@@ -18,6 +18,19 @@ content:
 
 **Finn dei på:**<br>
 [Instagram](https://www.instagram.com/kattenmaalungdom/) ∙ [Facebook](https://www.facebook.com/kattenmaalungdom)
+----
+
+#### text-block ####
+-
+content: 
+<dd><img src="https://drive.google.com/uc?export=view&id=" alt="Hardanger og Voss Målungdom">
+==
+**Stad:** Herad i Vestland <br>
+**Leiar:** Sander Eide Aase <br>
+**Kontakt:** [havo@malungdom.no](mailto:havo@malungdom.no)
+
+**Finn dei på:**<br>
+[Facebook](https://www.facebook.com/hardangerogvossmaalungdom)
 ----
 
 #### text-block ####
