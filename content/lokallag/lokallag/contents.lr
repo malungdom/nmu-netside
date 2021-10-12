@@ -8,6 +8,19 @@ ingress:
 tekst:
 
 #### text-block ####
+-
+content: 
+<img src="fron.jpg" alt="Katten Målungdom">
+==
+**Stad:** Bergen katedralskule <br>
+**Leiar:** Sebastian Natvik <br>
+**Kontakt:** [katten@malungdom.no](mailto:katten@malungdom.no)
+
+**Finn dei på:**<br>
+[Instagram](https://www.instagram.com/kattenmaalungdom/) ∙ [Facebook](https://www.facebook.com/kattenmaalungdom)
+----
+
+#### text-block ####
 ----
 content: <img src="firda.jpg" alt="Firda Målungdom">
 ==
