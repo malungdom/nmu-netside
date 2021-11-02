@@ -116,6 +116,16 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=1NXrf7dC5B_TylfvZSiZTWm1W_rqGCVhO" alt="paraply">
 <center> **Paraply**
 <br>70 kroner
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1sEBOJb1nQtpQeCYis8fxPl1zRWoSO32l" alt="Nykelband">
+<center> **Nykelband**
+<br>10 kroner
+
 ----
 class: box
 #### text-block ####
@@ -154,15 +164,6 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=1qmTKgdCDSku-qXBT2Jywgjm80XygQSbB" alt="Kva skal vi med sidemål?">
 <center> **Kva skal vi med sidemål?**
 <br>100 kroner
-
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1sEBOJb1nQtpQeCYis8fxPl1zRWoSO32l" alt="Nykelband">
-<center> **Nykelband**
-<br>10 kroner
 
 ----
 class: box
