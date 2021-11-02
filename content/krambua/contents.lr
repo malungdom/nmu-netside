@@ -75,15 +75,6 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1bMvv2EP3YAF9wK2FBDW84s2QBZw_FusC" alt="Vassflaske">
-<center> **Vassflaske**
-<br>100 kroner 
-
-----
-class: box
-#### text-block ####
-content:
-
 <img src="https://drive.google.com/uc?export=view&id=1bJsx6XLUkIiec78wiijUs1YBJrj2qCb_" alt="Jakkemerke">
 <center> **Jakkemerke**
 <br>5 kroner (20 stk for 50 kroner)
@@ -98,6 +89,15 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=19KonCuuWqwp_UfYkwz9_RtBCB77jdzck" alt="Pennal">
 <center> **Pennal**
 <br>70 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1bMvv2EP3YAF9wK2FBDW84s2QBZw_FusC" alt="Vassflaske">
+<center> **Vassflaske**
+<br>100 kroner 
 
 ----
 class: box
