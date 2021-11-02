@@ -54,19 +54,20 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1gT9qzs1XWTYOFBn1tmsqzL4xhurtl6Wg" alt="Notatbok">
-<center> **Notatbok**
-<br>50 kroner 
+<img src="https://drive.google.com/uc?export=view&id=1MKasMW8b4D3_PRHHC0DPltPrIlV2m_c2" alt="T-skjorte: Nynorsk">
+<center> **T-skjorte: nynorsk**
+<br>130 kroner 
+<br> <small>Storleik XL, 3XL</small>
 
 ----
 class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1MKasMW8b4D3_PRHHC0DPltPrIlV2m_c2" alt="T-skjorte: Nynorsk">
-<center> **T-skjorte: nynorsk**
-<br>130 kroner 
-<br> <small>Storleik XL, 3XL</small>
+<img src="https://drive.google.com/uc?export=view&id=1gT9qzs1XWTYOFBn1tmsqzL4xhurtl6Wg" alt="Notatbok">
+<center> **Notatbok**
+<br>50 kroner 
+
 
 ----
 class: box
