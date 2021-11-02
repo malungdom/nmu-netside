@@ -87,14 +87,6 @@ content:
 <center> **Elska handlenett**
 <br>60 kroner 
 
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1T4s2bTm3NwGUnKi7YrVuV3OgeSBmQO1w" alt="Kopp">
-<center> **Kopp**
-<br>100 kroner 
 
 ----
 class: box
@@ -121,18 +113,10 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1bMvv2EP3YAF9wK2FBDW84s2QBZw_FusC" alt="Vassflaske">
-<center> **Vassflaske**
-<br>100 kroner 
+<img src="https://drive.google.com/uc?export=view&id=1sEBOJb1nQtpQeCYis8fxPl1zRWoSO32l" alt="Nykelband">
+<center> **Nykelband**
+<br>10 kroner
 
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1iiniF9zv8RA6KLq8LvpOoUlK3edKAHKr" alt="Miljøkopp">
-<center> **Miljøkopp**
-<br>50 kroner 
 
 ----
 class: box
@@ -148,9 +132,27 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1sEBOJb1nQtpQeCYis8fxPl1zRWoSO32l" alt="Nykelband">
-<center> **Nykelband**
-<br>10 kroner
+<img src="https://drive.google.com/uc?export=view&id=1T4s2bTm3NwGUnKi7YrVuV3OgeSBmQO1w" alt="Kopp">
+<center> **Kopp**
+<br>100 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1bMvv2EP3YAF9wK2FBDW84s2QBZw_FusC" alt="Vassflaske">
+<center> **Vassflaske**
+<br>100 kroner 
+
+----
+class: box
+#### text-block ####
+content:
+
+<img src="https://drive.google.com/uc?export=view&id=1iiniF9zv8RA6KLq8LvpOoUlK3edKAHKr" alt="Miljøkopp">
+<center> **Miljøkopp**
+<br>50 kroner 
 
 ----
 class: box
