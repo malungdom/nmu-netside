@@ -64,6 +64,16 @@ class: box
 #### text-block ####
 content:
 
+<img src="https://drive.google.com/uc?export=view&id=16OqdtUnSH5JzvUa6pKQEOBW16ptfaJAe" alt="Genser">
+<center> **Språkmangfaldig genser**
+<br>150 kroner 
+<br> <small>Storleik XS, L, XL</small>
+
+----
+class: box
+#### text-block ####
+content:
+
 <img src="https://drive.google.com/uc?export=view&id=1gT9qzs1XWTYOFBn1tmsqzL4xhurtl6Wg" alt="Notatbok">
 <center> **Notatbok**
 <br>50 kroner 
@@ -87,15 +97,7 @@ content:
 <center> **Jakkemerke**
 <br>5 kroner (20 stk for 50 kroner)
 
-----
-class: box
-#### text-block ####
-content:
 
-<img src="https://drive.google.com/uc?export=view&id=16OqdtUnSH5JzvUa6pKQEOBW16ptfaJAe" alt="Genser">
-<center> **Språkmangfaldig genser**
-<br>150 kroner 
-<br> <small>Storleik XS, L, XL</small>
 
 ----
 class: box
