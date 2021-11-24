@@ -137,16 +137,16 @@ content:
 <br>100 kroner 
 
 ----
-<!--class: box
-#### text-block ####
+class: box
+<!-- #### text-block ####
 content:
 
 <img src="https://drive.google.com/uc?export=view&id=1bMvv2EP3YAF9wK2FBDW84s2QBZw_FusC" alt="Vassflaske">
 <center> **Vassflaske**
 <br>100 kroner 
 
----- -->
-class: box
+---- 
+class: box -->
 #### text-block ####
 content:
 
