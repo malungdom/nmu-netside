@@ -1,5 +1,8 @@
 oversikt_ingress: 
 ---
+_discoverable: no
+---
+
 avsendar: Landsstyret
 ---
 publiseringsdato: 2016-10-30
