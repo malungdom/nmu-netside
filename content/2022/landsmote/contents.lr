@@ -132,4 +132,6 @@ class: box
 ---
 oversikt_tittel: Landsmøte
 
-
+---
+_discoverable: no
+---
