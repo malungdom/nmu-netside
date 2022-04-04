@@ -1,6 +1,7 @@
 ---
 oversikt_skjult: yes
 ---
+
 _model: page-advanced
 ---
 tittel: Landsmøte 2022
@@ -130,6 +131,7 @@ Anten du har vore på mange landsmøte eller skal på ditt fyrste, kan det vere 
 class: box
 ---
 oversikt_tittel: Landsmøte
+
 ---
 _discoverable: no
 ---
