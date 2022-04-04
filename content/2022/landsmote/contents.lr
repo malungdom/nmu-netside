@@ -1,8 +1,7 @@
+_model: page-advanced
 ---
 oversikt_skjult: yes
 ---
-
-_model: page-advanced
 ---
 tittel: Landsmøte 2022
 ---
@@ -132,6 +131,4 @@ class: box
 ---
 oversikt_tittel: Landsmøte
 
----
-_discoverable: no
----
+
