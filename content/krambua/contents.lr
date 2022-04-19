@@ -8,7 +8,7 @@ ingress: <center> Kjøp tilfang frå Norsk Målungdom. Nedst på sida finn du sk
 
 ---
 tekst:
-
+class: box
 #### text-block ####
 content:
 
