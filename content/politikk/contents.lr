@@ -10,17 +10,23 @@ du lese fråsegner vedtekne av landsmøta og landsstyret og pressemeldingar.
 tekst:
 
 #### subpage-block ####
-for_underside: program
+description: 
+----
+for_underside:
 
-
-
+program
+----
+maks: 
+----
+classes: box
 #### subpage-block ####
+description: 
+----
 for_underside: fraasegner
 ----
 maks: 5
 ----
 classes: box
-
 #### text-block ####
 content:
 
@@ -31,9 +37,13 @@ Tufta er det politiske grunnlagsdokumentet for Norsk Målungdom, og dimed utgang
 [Les tufta her](tufta/).
 ----
 class: box
-
 #### subpage-block ####
+description: 
+----
 for_underside: styringsdokument
 ----
+maks: 
+----
 classes: box
-
+---
+oversikt_skjult: no
