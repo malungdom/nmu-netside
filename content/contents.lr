@@ -10,7 +10,7 @@ bilete: framsidebilete.jpg
 body:
 
 <h1>Velkomen til Norsk Målungdom</h1>
-<a href="/meld-deg-inn" class="button bli-medlem-stor">Bli medlem!</a>
+<a href="https://www4.solidus.no/SolidusUser/nettbutikk/norsk_m%C3%A5lungdom/medlemspengar" class="button bli-medlem-stor">Bli medlem!</a>
 ---
 tekst:
 
