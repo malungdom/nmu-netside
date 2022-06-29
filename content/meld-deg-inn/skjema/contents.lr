@@ -1,0 +1,52 @@
+_model: page-advanced
+---
+tittel: Meld deg inn i Norsk Målungdom!
+---
+ingress:
+
+Send SMS med kodeord NMU + namn, fødeår, e-post og postadresse til 2090 (50 kroner blir trekt frå mobilrekninga di), eller fyll inn skjemaet under. Når du melder deg inn godkjenner du [personvernerklæringa](https://malungdom.no/organisasjon/personvern/).
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+<form method="POST" action="/cgi-bin/send.py?_type=innmelding"
+    data-type="innmelding"
+    data-success="Tusen takk! Me sender ei velkomstpakke i posten.">
+  <input placeholder="Fullt namn" name=namn required>
+  <input placeholder="Adresse" name="tilskrift">
+  <input placeholder="Postnummer" name="postnr" required>
+  <input placeholder="Telefonnummer" name="tlfnr">
+  <input type=number placeholder="Fødd (årstal)" name="fodt" required>
+  <input type=email placeholder="E-post" name="epost">
+  <input placeholder="(Verva av)" name="verva av">
+   <div class="kjønn" style="width: 100%; margin: 0.5rem 0;">
+    <span>Kjønn</span>
+    <div>
+      <label><input type="radio" required name="kjønn" value="Kvinne">Jente/kvinne</label>
+      <label><input type="radio" required name="kjønn" value="Mann">Gut/mann</label>
+	  <label><input type="radio" required name="kjønn" value="Anna">Ikkje-binær/anna</label>
+	  </div>
+	</div>
+  <div class="nyhendebrev" style="width: 100%; margin: 0.5rem 0;">
+    <span>Vil du ha nyhendebrev på e-post?</span>
+    <div>
+      <label><input type="radio" required name="nyhendebrev" value="ja">Ja</label>
+      <label><input type="radio" required name="nyhendebrev" value="nei">Nei</label>
+	  </div>
+	</div>
+  <div class="medlemsavis" style="width: 100%; margin: 0.5rem 0;">
+    <span>Vil du ha medlemsavisa vår, Motmæle, gratis i posten?</span>
+    <div>
+      <label><input type="radio" required name="medlemsavis" value="ja">Ja</label>
+      <label><input type="radio" required name="medlemsavis" value="nei">Nei</label>
+	  </div>
+	</div>
+  <input type="submit" style="margin-left: auto" value="Send inn">
+</form>
+----
+class: box
+---
+_discoverable: no

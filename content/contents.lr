@@ -10,7 +10,7 @@ bilete: framsidebilete.jpg
 body:
 
 <h1>Velkomen til Norsk Målungdom</h1>
-<a href="https://www4.solidus.no/SolidusUser/nettbutikk/norsk_m%C3%A5lungdom/medlemspengar" target="_blank" class="button bli-medlem-stor">Bli medlem!</a>
+<a href="/meld-deg-inn" target="_blank" class="button bli-medlem-stor">Bli medlem!</a>
 ---
 tekst:
 
@@ -51,26 +51,19 @@ content:
 Kva skjer framover?
 ===================
 
-**3. - 4. september**: 2. Landsstyremøte
+**3.–4. september**: 2. landsstyremøte
 
 
 Betala medlemspengar?
 ===============
-Du kan melda deg inn ved å senda SMS med kodeord
+Du kan melda deg inn eller betala medlemspengar ved å fylla ut **<a href="/meld-deg-inn">dette skjemaet</a>**.
 
-`NMU + namn + fødeår + postadresse + e-post` til `2090` (50 kr)
-
-eller fylla ut dette <a href="/meld-deg-inn">skjemaet</a>.
-
+Elles kan du sende `NMU + namn + fødeår + postadresse + e-post` til `2090` (50 kr)
 
 Viss du allereie er medlem, kan du senda kodeord `MEDLEMSPENGAR` til `2090` (80 kr),
-
 eller
-
 betala 80 kr til Norsk Målungdom (`640459`) i Vipps, og merka betalinga med namnet ditt,
-
 eller
-
 setja inn 80 kr på kontonr. `3450.65.48618` og merka betalinga med namnet ditt.
 ----
 class: box
@@ -104,7 +97,9 @@ Har du lyst til å gje målgåve? Vipps ei pengegåve til vippsnummer #724133, e
 
 Viss du gjev 500 kroner eller meir i gåve, kan du få skattefrådrag.
 
+<a href="https://www4.solidus.no/SolidusUser/nettbutikk/norsk_m%C3%A5lungdom/m%C3%A5lg%C3%A5ve" target="_blank" class="button bli-medlem-liten">Registrer deg!</a>
 
+<!---
 <form method="POST" action="/cgi-bin/send.py?_type=gaave"
   data-type="gaave" data-success="Registrert! Takk for at du vil stø oss!">
   <label>Namn <input name="namn" required></label>
@@ -113,6 +108,7 @@ Viss du gjev 500 kroner eller meir i gåve, kan du få skattefrådrag.
   </label>
   <input type="submit" value="Registrer deg!">
 </form>
+--->
 ----
 class: box
 ---
