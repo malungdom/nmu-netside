@@ -111,7 +111,7 @@ footer.kolofon {
 footer.kolofon a {
   color: rgba(255, 255, 255);
   text-decoration: none;
-  font-size: 0.9em
+  font-size: 16px
 }
 footer.kolofon a:hover {
   color: rgba(255, 255, 255, 0.8);
@@ -119,7 +119,7 @@ footer.kolofon a:hover {
 }
 footer.kolofon h2 {
   color: white;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 4px;
 }
 footer.kolofon > div {
@@ -594,11 +594,18 @@ h2 {
 
 /*Testar mørkemodus*/
 
+img:not([src*='.svg']) {
+  filter: var(--image-gray);
+  filter: var(--image-dark);
+}
+
 :root {
   --color-bg: #ffffff;
   --color-mg: #ffffff;
   --color-fg: #000000;
   --link: rgba(50, 150, 175, 1);
+  --image-gray: grayscale(0%);
+  --image-dark: brightness(100%);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -607,5 +614,8 @@ h2 {
   --color-mg: #454545;
   --color-fg: #dddddd;
   --link: rgb(47, 194, 231);
+  --image-gray: grayscale(10%);
+  --image-dark: brightness(85%);
+  color-scheme: light dark;
   }
 }
