@@ -103,22 +103,23 @@ footer.kolofon {
   display: inline-flex;
   flex-wrap: wrap;
   flex-direction: row;
-  background: rgba(140, 140, 140, 1);
+  background: rgba(100, 150, 165, 1);
   margin: 0;
   padding: 2em 0 3em 0;
   justify-content: center;
 }
 footer.kolofon a {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255);
   text-decoration: none;
+  font-size: 0.9em
 }
 footer.kolofon a:hover {
-  color: rgba(255, 255, 255, 1);
+  color: rgba(255, 255, 255, 0.8);
   text-decoration: underline;
 }
 footer.kolofon h2 {
   color: white;
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 4px;
 }
 footer.kolofon > div {
@@ -135,9 +136,8 @@ footer.kolofon li {
   margin: 0
 }
 footer.kontakt {
-  background: rgba(200, 200, 200, 1);
+  background: rgba(222, 222, 222, 1);
   font-size: 0.8em;
-  opacity: 0.7;
   padding: 0.5em 0 3em 0;
   text-align: center;
 }
