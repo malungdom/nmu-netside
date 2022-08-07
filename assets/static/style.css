@@ -40,7 +40,7 @@ img, video {
  max-width: 100%;
 }
 a {
-  color: rgba(50, 150, 175, 1);
+  color: var(--link);
 }
 a:hover {
   color: rgba(50, 200, 240, 1);
@@ -95,7 +95,7 @@ input:focus, .meld-deg-inn input:focus {
   background: linear-gradient(to top, #7f131f, #ef2e44);
 }
 main {
- background-color: rgba(0, 102, 128, 0.03);
+ background-color: var(--color-bg);
  flex: 1;
  padding-bottom: 5em;
 }
@@ -136,7 +136,8 @@ footer.kolofon li {
   margin: 0
 }
 footer.kontakt {
-  background: rgba(222, 222, 222, 1);
+  color: var(--color-fg);
+  background: var(--color-bg);
   font-size: 0.8em;
   padding: 0.5em 0 3em 0;
   text-align: center;
@@ -486,9 +487,9 @@ h2 {
   justify-content: center;
 }
 .box, .big-box {
-  background: white;
+  background: var(--color-mg);
   box-shadow: 0 10px 24px -13px rgba(0, 0, 0, 0.5);
-  color: #333;
+  color: var(--color-fg);
   margin: 2rem 20px 1rem;
   max-width: 18rem;
   min-width: 12rem;
@@ -504,7 +505,7 @@ h2 {
   margin-bottom: 0.25em;
 }
 .box h2, footer h2 {
-  color: #000;
+  color: var(--color-fg);
   font-size: 1em;
   font-weight: 300;
   letter-spacing: 0.5px;
@@ -588,5 +589,23 @@ h2 {
   }
   #menu-checkbox:checked + .items {
     display: flex;
+  }
+}
+
+/*Testar mørkemodus*/
+
+:root {
+  --color-bg: #ffffff;
+  --color-mg: #ffffff;
+  --color-fg: #000000;
+  --link: rgba(50, 150, 175, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+  --color-bg: #252525;
+  --color-mg: #454545;
+  --color-fg: #dddddd;
+  --link: rgb(47, 194, 231);
   }
 }
