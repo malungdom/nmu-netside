@@ -1,32 +1,16 @@
 _model: styrepersonliste
 ---
-tittel: Sentralstyret 2021-2022 
+tittel: Sentralstyret 2022-2023 
 ---
 tekst:
 
 #### styreperson ####
 tittel: Leiar
 ----
-namn: Frida Pernille Mikkelsen
-----
-kortom: Frå Sunnfjord, fødd 1997
-----
-om:
-Frida Pernille Mikkelsen har bakgrunn frå Firda Målungdom og Studentmållaget i Oslo. Ho har sete fire periodar i sentralstyret som økonomiansvarleg og skrivar, og ein periode i landsstyret.
-----
-kontakt:
-E-post: [frida@malungdom.no](mailto:frida@malungdom.no)
-Telefon: 48 24 87 47
-
-#### styreperson ####
-tittel: Påtroppande leiar
-----
 namn: Tobias Christensen Eikeland
 ----
-kortom: Frå Oslo, fødd 2000
-----
-om:
-Tobias Christensen Eikeland har sete ein periode i sentralstyret og var tredje vara til sentralstyret i perioden 18–19, Han har og sete i landsstyret og vore medlem i Katta MU.
+kortom: frå Oslo, fødd 2000
+ 
 ----
 kontakt:
 E-post: [tobias@malungdom.no](mailto:tobias@malungdom.no)
@@ -37,10 +21,7 @@ tittel: Nestleiar
 ----
 namn: Marit Voldsund Fjeldvær
 ----
-kortom: Frå Hitra, fødd 2001
-----
-om:
-Marit Voldsund Fjeldvær har bakgrunn frå Trøndersk Målungdom og har sete to periodar i landsstyret. Ho har ogso erfaring frå Trøndelag Sosialistisk Ungdom.
+kortom: frå Hitra, fødd 2001
 ----
 kontakt:
 E-post: [marit@malungdom.no](mailto:marit@malungdom.no)
@@ -51,34 +32,40 @@ tittel: Sentralstyremedlem
 ----
 namn: Synne Solberg
 ----
-kortom: Frå Sør-Fron, fødd 2002
+kortom: frå Sør-Fron, fødd 2002
 ----
-om: 
+kontakt:
+E-post: [synne@malungdom.no](mailto:synne@malungdom.no)
+Telefon: 95 80 68 35
 
 #### styreperson ####
 tittel: Sentralstyremedlem
 ----
 namn: Rasmus Tennø Loe
 ----
-kortom: Frå Luster, fødd 2002
+kortom: frå Luster, fødd 2002
 ----
-om: 
+kontakt:
+E-post: [rasmus@malungdom.no](mailto:rasmus@malungdom.no)
+Telefon: 48 27 81 07
 
 #### styreperson ####
 tittel: Sentralstyremedlem
 ----
 namn: Mathilde Løkkevik
 ----
-kortom: Frå Fredrikstad, fødd 2003
+kortom: frå Fredrikstad, fødd 2003
 ----
-om: 
+kontakt:
+E-post: [mathilde@malungdom.no](mailto:mathilde@malungdom.no)
+Telefon: 96 01 32 22
 
 #### styreperson ####
 tittel: 1. vara
 ----
 namn: Stine Fjellkårstad
 ----
-kortom: Frå Stryn, fødd 1999
+kortom: frå Stryn, fødd 1999
 ----
 om:
 
@@ -88,9 +75,8 @@ tittel: 2. vara
 ----
 namn: Erling Løklingholm Leivestad
 ----
-kortom: Frå Stord, fødd 2001
+kortom: frå Stord, fødd 2001
 ----
-om: 
-Erling Løklingholm Leivestad har vore leiar i Sumarøyo Målungdom. Han har sete ein periode i landsstyret og ein i sentralstyret. Erling studerer industriell kjemi og bioteknologi ved NTNU.
+om:
 ----
 
