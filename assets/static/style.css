@@ -66,7 +66,7 @@ input[type=submit], textarea, button, .button {
   width: 100%;
 }
 input[type=submit], button, .button {
-  background:rgb(21, 149, 181);
+  background: linear-gradient(to top, rgb(30, 96, 113), rgb(80, 162, 183));
   border: none;
   color: white;
   padding: 10px 20px;
@@ -76,25 +76,23 @@ input[type=submit], button, .button {
   display: inline-block;
   cursor: pointer;
   text-decoration: none;
-  border-radius: 0%;
-  box-shadow: inset 0px 0px 20px 1.5px rgb(0 0 0 / 43%)
 }
 input[type=submit]:hover, button:hover, .button:hover {
-  background:rgb(60, 125, 142);
+  background: linear-gradient(to top, rgb(50, 142, 143), rgb(80, 162, 183));
 }
 input:focus, .meld-deg-inn input:focus {
   box-shadow: 0 0 0 3px rgba(60, 140, 160, 0.5);
 }
 .bli-medlem-stor {
-  background: #ac0014;
-  font-size: 30px;
-  padding: 1.5rem 3rem;
+  background: linear-gradient(to top, #5d0811, #7c101c 5%, #ab2030);
+  font-size: 28px;
+  padding: 2rem 4rem;
 }
 .bli-medlem-stor:hover {
-  background: #d70019;
+  background: linear-gradient(to top, #5d0811, #7c101c 5%, #ef2e44);
 }
 .bli-medlem-stor:active {
-  background: #930011;
+  background: linear-gradient(to top, #7f131f, #ef2e44);
 }
 main {
  background-color: var(--color-bg);
