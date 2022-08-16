@@ -4,7 +4,9 @@ oversikt_skjult: yes
 ---
 tittel: Vervekampanje
 ---
-ingress: <center> 15. august til 11. september går vervekampanjen 2022 føre. <br><br>
+ingress:
+
+<center> 15. august til 11. september går vervekampanjen 2022 føre. <br><br>
 </center>
 
 
@@ -15,6 +17,7 @@ tekst:
 
 #### text-block ####
 content:
+
 Om vervekampanjen
 =======
 Gjer ein innsats for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk!
@@ -40,8 +43,6 @@ Lokallaget ditt får utteljing for kvar ny medlem som vert
 verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
 deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
 ditt i kampen mot dei andre lokallaga eller studentmållaga.
-
-
 ----
 class: big-box
 #### text-block ####
@@ -63,8 +64,8 @@ Vervepremiar
 <dd>Genser
 <dd><img src="https://drive.google.com/uc?export=view&id=1fT-3GDJWkCCkp5uv9QJb8fxU6iY_zA4C" alt="Genser">
 <dt><b>7 vervepoeng</b>
-<dd>Overrasking
-<dd><img src="https://drive.google.com/uc?export=view&id=1IkxgI2iZP5JajNmNwgmr2_ZdDAq-N6Ln" alt="Overrasking">
+<dd>***Ringdrotten*** av J.R.R. Tolkien (*Ringenes herre* på nynorsk og dialekt)
+<dd><img src="https://drive.google.com/uc?export=view&id=1spsHpGQFprrQAbIjk7rLje8W0rnsS1q1" alt="Ringdrotten">
 <dt><b>10 vervepoeng</b>
 <dd>JBL Flip 5
 <dd><img src="https://drive.google.com/uc?export=view&id=1wdHA3EX8aCfbsKIiQS-5K9GHQhVXdCiR" alt="JBL Flip 5">
@@ -95,8 +96,9 @@ Ingen elevmållag har verva enno.
 Studentmållagsvervetoppen
 =======
 Ingen studentmållag har verva enno.
----
 ----
+class: box
+---
 class: box
 ---
 toppbilete: None
