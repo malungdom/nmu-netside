@@ -11,7 +11,7 @@ ingress:
 
 
 
-<center><a href="/meld-deg-inn" class="button bli-medlem-stor">Verv ein ven!</a></center>
+<center><a href="/meld-deg-inn" class="button bli-medlem-stor">Verv ein venn!</a></center>
 ---
 tekst:
 
@@ -31,7 +31,7 @@ Korleis verve?
 ======
 
 Det er to måtar å verve på: Nettsida og SMS. Medlemspengane må vere betalt for at vervinga skal bli gjeldande.
-<br>- **Nettsida**: Be personen du vervar om å melde seg inn [her](/meld-deg-inn). Der kan ein mellom anna betala med Vipps. Om du som fyller ut skjemaet ikkje skal betala medlemspengane, vel "Papirfaktura". Om skjemaet ikkje funkar, bruk SMS i staden:
+<br>- **Nettsida**: Be personen du vervar om å melde seg inn [her](/meld-deg-inn). Der kan ein mellom anna betala automatisk med Vipps. Om du som fyller ut skjemaet ikkje skal betala medlemspengane, vel "Papirfaktura". Om skjemaet ikkje funkar, bruk SMS i staden:
 <br>- **SMS**: Be personen du vervar om å sende ein SMS med kodeord NMU100 til 2090. I SMS-en må personen du vervar skrive inn namnet sitt, fødeår, e-post, adresse og namnet ditt. Då blir 100 kr trekt frå mobilrekninga deira, og dei er medlem ut 2023.
 
 Lokallagskonkurranse
@@ -86,16 +86,19 @@ Vervetoppen
   height: 400px;
 }
 </style>
-<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2022-08-08&to=2022-09-18"></iframe>
+<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2022-07-01&to=2022-09-18"></iframe>
 
 
-Elevmållagsvervetoppen
+Elevmållaga
 ========
-Ingen elevmållag har verva enno.
+- Katten Målungdom: **4** vervingar
+- Sumarøyo Målungdom: **1** verving
 
-Studentmållagsvervetoppen
+Studentmållaga
 =======
-Ingen studentmållag har verva enno.
+- Studentmållaget i Nidaros: **11** vervingar
+- Studentmållaget i Tromsø: **9** vervingar
+- Studentmållaget i Oslo: **6** vervingar
 ----
 class: box
 ---
