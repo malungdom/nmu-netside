@@ -3,6 +3,7 @@ _model: page-advanced
 tittel: Salsvilkår
 ---
 ingress:
+
 Norsk Målungdom sel varer og tenester. Her kan du lese salsvilkåra vår, som seier noko om korleis vi handsamar personopplysningar, og kva rettar du har.  
 
 ---
@@ -10,6 +11,7 @@ tekst:
 
 #### text-block ####
 content:
+
 Mellombelse salsvilkår (bokmål)
 =========
 
@@ -158,5 +160,9 @@ Ta kontakt med oss for å be om innsyn, melde endringar eller viss du vil vi ska
   </label>
   <input type="submit" value="Send inn">
 </form>
+----
+class: box
 ---
 toppbilete: none
+---
+_discoverable: no
