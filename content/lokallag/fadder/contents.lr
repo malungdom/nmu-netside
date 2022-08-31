@@ -13,67 +13,25 @@ tekst:
 #### text-block ####
 content:
 
-**Frida Pernille Mikkelsen**
-<br>[frida@malungdom.no](mailto:frida@malungdom.no)
-<br>*Leiar*
-
-- Hardanger og Voss Målungdom
-- Studentmållaget i Oslo
-- Studentmållaget i Tromsø
-- Studentmållaget i Stavanger
-
-----
-
-class: box
-#### text-block ####
-content:
-
-**Rebekka Hugøy Hovland**
-<br>[rebekka@malungdom.no](mailto:rebekka@malungdom.no)
-<br>*Skrivar*
-- Hallingdal Målungdom
-- Studentmållaget i Sogndal
-- Vika Målungdom
-- Ås studentmållag
-----
-
-class: box
-#### text-block ####
-content:
-
-**Ådne Reidar Nes Kleppe**
-<br>[aadnereidar@malungdom.no](mailto:aadnereidar@malungdom.no)
-<br>*Nestleiar*
-- Firda Målungdom
-- Studentmållaget i Nidaros
-- Studentmållaget i Volda
-
-----
-
-class: box
-#### text-block ####
-content:
-
-**Dordi Boksasp Lerum**
-<br>[dordi@malungdom.no](mailto:dordi@malungdom.no)
-<br>*Sentralstyremedlem*
-- Indre Agder Målungdom
-- Studentmållaget i Bergen
-- Sogndal Målungdom
-
-----
-
-class: box
-#### text-block ####
-content:
-
 **Tobias Christensen Eikeland**
-<br>[tobias@malungdom.no](mailto:tobias@malungdom.no)
-<br>*Sentralstyremedlem*
-- Fron Målungdom
-- Katta Målungdom
-- Trøndersk Målungdom
+<br>[tobias@malungdom.no](tobias:frida@malungdom.no)
+<br>*leiar*
 
+- Katta Målungdom
+- Studentmållaget i Oslo
+- Ås studentmållag
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Olav Wixøe Svela**
+<br>[olav@malungdom.no](mailto:olav@malungdom.no)
+<br>*kontormedarbeidar*
+- Indre Agder Målungdom
+- Studentmållaget i Stavanger
 ----
 
 class: box
@@ -82,10 +40,50 @@ content:
 
 **Marit Voldsund Fjeldvær**
 <br>[marit@malungdom.no](mailto:marit@malungdom.no)
-<br>*Sentralstyremedlem*
-- Studentmållaget i Agder
-- Sumarøyo Målungdom
-- Søre Sunnmøre Målungdom
+<br>*nestleiar*
+- Studentmållaget i Nidaros
+- Trøndersk Målungdom
+- Studentmållaget i Volda
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Rasmus Tennø Loe**
+<br>[rasmus@malungdom.no](mailto:rasmus@malungdom.no)
+<br>*sentralstyremedlem*
+- Hardanger og Voss Målungdom
+- Katten Målungdom
+- Studentmållaget i Bergen
+- Studentmållaget i Sogndal
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Mathilde Løkkevik**
+<br>[mathilde@malungdom.no](mailto:mathilde@malungdom.no)
+<br>*sentralstyremedlem*
+- Firda Målungdom
+- Hallingdal Målungdom
+- Vika Målungdom
+
+----
+
+class: box
+#### text-block ####
+content:
+
+**Synne Solberg**
+<br>[synne@malungdom.no](mailto:synne@malungdom.no)
+<br>*sentralstyremedlem*
+- Fron Målungdom
+- Studentmållaget i Tromsø
+- Studentmållaget i Volda
 
 ----
 
