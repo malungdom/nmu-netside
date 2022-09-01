@@ -36,14 +36,14 @@ def send_email(data, realm, subject):
         # Not worth sending then
         return
     msg = EmailMessage()
-    msg['Subject'] = '[netside:%s] %s' % (realm, subject)
-    msg['From'] = 'noreply@fosse.nynorsk.no'
+    msg['Subject'] = '[Nettsida: %s] %s' % (realm, subject)
+    msg['From'] = 'norsk+fosse@malungdom.no'
     msg['To'] = TO_EMAIL
     body = ['%s:  %s' % (k, v) for k, v in data.items() if k[0] != '_']
     msg.set_content(textwrap.dedent("""\
     %s
 
-    -- netsida
+    -- nettsida
     """) % '\n'.join(body))
     from_email = data.get('epost', data.get('email'))
     if from_email:
