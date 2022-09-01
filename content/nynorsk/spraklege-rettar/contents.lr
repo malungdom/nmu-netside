@@ -80,33 +80,3 @@ Det er kommunane som har ansvar for at elevane får oppfylt sine språklege rett
 For å kartlegga kva digitale læremiddel som finst på nynorsk, og kva som ikkje finst på nynorsk, treng vi di hjelp.
 
 Les meir om kampanjen og send inn tipsa dine [her](http://www.nm.no/tekst.cfm?path=10618).
-
-
-#### text-block ####
-content:
-Send inn klage
-==============
-Med skjemaet under kan du melde frå til oss om du ikkje får oppfylt dei språklege rettane dine, til dømes viss du ikkje får læremiddel på nynorsk, eller viss skulen ikkje let deg velja hovudmål.
-
-Når vi har motteke klaga di gjer vi slik:
-
-- Vi samlar inn alle klagene
-- Når vi får inn ei klage, sender vi klagebrev til skuleeigaren (det vil seie kommunen hvis du går på grunnskulen, og fylkeskommunen viss du går på vidaregåande) eller studiestaden din.
-- Alle klagene blir sendte i kopi til Språkrådet.
-- Du får ogso ein kopi av klaga.
-
-
-<h2 id="skjema">Klageskjema</h2>
-
-<form method="POST" action="/cgi-bin/send.py?_type=elevklage"
-  data-type="elevklage" data-success="Vi har fått klaga di, du høyrer frå oss.">
-  <label>Namnet ditt <small>(Du vil vera anynom i klaga)</small> <input name="namn" required></label>
-  <label>Epostadressa di <smalL>(Slik at vi kan kontakte deg)</small> <input type="email" name="epost" required></label>
-  <label>Skule eller utdanningsstad <input name="utdanningsstad"></label>
-  <label>Fag eller emne <input name="emnekode" required></label>
-  <label>
-    Klage <small>(Kva vil du klage på?)</small>
-    <textarea name="klage" rows=6></textarea>
-  </label>
-  <input type="submit" value="Send inn">
-</form>
