@@ -5,6 +5,7 @@ avsendar: Landsstyret
 publiseringsdato: 2017-09-03
 ---
 tekst:
+
 Norske elevar bør kunne forvente å få lærarar som meistrar språket sitt. På mange
 nynorskskular kan ikkje elevar og føresett sjå dette som sjølvsagt, sidan kommunane ikkje
 eksplisitt etterspør nynorskkompetanse når dei søkjer etter nye lærarar. Landsstyret i Norsk
@@ -44,6 +45,12 @@ nynorskkompetanse.
 
 
 ---
-tittel: Nynorskelevar treng lærarar som kan nynorsk! 
+tittel:
+
+Nynorskelevar treng lærarar som kan nynorsk! 
 
 
+---
+_discoverable: no
+---
+_hidden: yes
