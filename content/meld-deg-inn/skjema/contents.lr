@@ -45,6 +45,8 @@ content:
 	  </div>
 	</div>
   <input type="submit" style="margin-left: auto" value="Send inn">
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
 </form>
 ----
 class: box

@@ -12,11 +12,15 @@ from datetime import datetime
 from email.message import EmailMessage
 from urllib.parse import urlsplit
 
+import requests
+
 
 DEBUG = os.environ.get('DEBUG')
 TO_EMAIL = os.environ.get('TO_EMAIL')
 BCC_EMAIL = os.environ.get('BCC_EMAIL')
 SAVEFILE = os.environ.get('SAVEFILE', '/var/tmp/postings.txt')
+TURNSTILE_SECRET_KEY = os.environ.get('TURNSTILE_SECRET_KEY')
+
 if not DEBUG and not TO_EMAIL:
     raise Exception('Must set DEBUG or TO_EMAIL')
 
@@ -66,13 +70,35 @@ def redirect(location, success):
 
         Redir to: {loc}''').format(loc=location))
 
+def allowed_by_cloudflare_turnstile(token, meta):
+    if not TURNSTILE_SECRET_KEY:
+        return True
+    if not token:
+        return False
+    try:
+        response = requests.post('https://challenges.cloudflare.com/turnstile/v0/siteverify',
+                data={
+                    'secret': 'a',
+                    'response': token,
+                    'remoteip': meta['ip']
+                })
+        if DEBUG:
+            stderr("Cloudflare Turnstile response: " + r.text())
+        r = response.json()
+        return r['success']
+    except:
+        # If we're having issues, let everything with a token through
+        return True
+
 
 # import cgitb; cgitb.enable()
 form = cgi.FieldStorage()
 
 _type = form.getfirst('_type', '')
+token = form.getfirst('cf-turnstile-response', '')
 meta = collections.OrderedDict(
     type=_type,
+    turnstile_token=token,
     ip=os.environ.get('REMOTE_ADDR'),
     lang=os.environ.get('HTTP_ACCEPT_LANGUAGE'),
     time=datetime.utcnow().isoformat(),
@@ -81,13 +107,24 @@ data = collections.OrderedDict(_meta=meta)
 first_value = ''
 # fill in data gotten from form
 for k in form.list:
-    if k.name.startswith('_'):
+    if k.name.startswith('_') or k.name.startswith('cf-turnstile'):
         continue
     data[k.name] = form.getfirst(k.name)
     if not first_value:
         first_value = data[k.name]
 
+allowed = allowed_by_cloudflare_turnstile(token, meta)
+data['_meta']['turnstile_allowed'] = allowed;
+
 save_data(data, _type)
 subject = first_value and first_value.splitlines()[0] or ''
-send_email(data, _type, subject[:64])
-redirect(form.getfirst('_next', ''), _type)
+if allowed:
+    send_email(data, _type, subject[:64])
+    redirect(form.getfirst('_next', ''), _type)
+else:
+    print(textwrap.dedent('''\
+        X-test: yep
+
+        Me trur du er ein «bot».
+        Ta kontakt på epost eller via telefon
+        dersom det er feil.''').format())

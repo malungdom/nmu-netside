@@ -3,7 +3,7 @@ _model: page-advanced
 tittel: Personvern
 ---
 ingress:
-Norsk Målungdom handsamar personopplysningar. Her kan du lese personvernerklæringa vår, som seier noko om korleis vi handsamar personopplysningar, og kva rettar du har.  
+Norsk Målungdom handsamar personopplysningar. Her kan du lese personvernerklæringa vår, som seier noko om korleis vi handsamar personopplysningar, og kva rettar du har.
 
 ---
 tekst:
@@ -147,6 +147,8 @@ Ta kontakt med oss for å be om innsyn, melde endringar eller viss du vil vi ska
     <input type="email" name="epost">
   </label>
   <input type="submit" value="Send inn">
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
 </form>
 ---
 toppbilete: none

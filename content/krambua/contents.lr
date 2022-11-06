@@ -217,7 +217,9 @@ Send e-post til [norsk@malungdom.no](mailto:norsk@malungdom.no) viss du lurer p√
   <label>Postnr <input name="postnr" required></label>
   <label>Epost <input type="email" name="epost"></label>
   <input type="submit" value="Send!">
-</form> 
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
+</form>
 
 
 <small>Hugs at porto kjem i tillegg.</small>

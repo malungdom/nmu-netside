@@ -40,6 +40,8 @@ Er det eit skjema, nokre tips eller ressursar du gjerne vil ha på denne sida? T
     <input type="email" name="epost">
   </label>
   <input type="submit" value="Send inn">
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
 </form>
 ---
 toppbilete: none
