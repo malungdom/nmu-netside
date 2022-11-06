@@ -14,39 +14,6 @@ content:
 Registrer verving her
 ================
 Verekampanjen er over for i år.
-<form method="POST" action="/cgi-bin/send.py?_type=verv2019"
-  data-type="verv2019" data-success="Tusen takk for vervinga!">
-  <label>Vervar-namn <input name="vervarnamn" required></label>
-  <label>Namn <input name="namn" required></label>
-  <label>Addresse <input name="adresse"></label>
-  <label>Postnr <input name="postnr" required></label>
-  <label>Telefonnr <input name="tlfnr"></label>
-  <label>Fødeår <input name="fodear" required></label>
-  <label>Epost <input type="email" name="epost"></label>
-  <div class="kjønn" style="width: 100%; margin: 0.5rem 0;">
-    <span>Kjønn?</span>
-    <div style="display: flex">
-      <label><input type="radio" required name="kjønn" value="Kvinne"> Kvinne</label>
-      <label><input type="radio" required name="kjønn" value="Mann"> Mann</label>
-	  <label><input type="radio" required name="kjønn" value="Anna"> Anna</label>
-	  </div>
-	</div>
-    <div class="nyhendebrev" style="width: 100%; margin: 0.5rem 0;">
-    <span>Vil du ha nyhendebrev?</span>
-    <div style="display: flex">
-      <label><input type="radio" required name="nyhendebrev" value="ja"> Ja, på epost</label>
-      <label><input type="radio" required name="nyhendebrev" value="nei"> Nei</label>
-	  </div>
-	</div>
-  <div class="medlemsavis" style="width: 100%; margin: 0.5rem 0;">
-    <span>Vil du ha medlemsavis?</span>
-    <div style="display: flex">
-      <label><input type="radio" required name="medlemsavis" value="ja"> Ja, i posten</label>
-      <label><input type="radio" required name="medlemsavis" value="nei"> Nei</label>
-	  </div>
-	</div>
-  <input type="submit" value="Registrer!">
-</form>
 ----
 -----
 class: box

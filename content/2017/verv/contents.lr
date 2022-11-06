@@ -91,17 +91,6 @@ Registrer verving
 ================
 (Vervekampanjen er over, så du kjem ikkje til å få premie for vervingane du gjer. Det bør sjølvsagt ikkje hindre deg frå å verve. Verv i veg!)
 
-<form method="POST" action="/cgi-bin/send.py?_type=verv2017"
-  data-type="verv2017" data-success="Tusen takk for veringa!">
-  <label>Vervar-namn <input name="vervarnamn" required></label>
-  <label>Namn <input name="namn" required></label>
-  <label>Addresse <input name="adresse"></label>
-  <label>Postnr <input name="postnr" required></label>
-  <label>Telefonnr <input name="tlfnr"></label>
-  <label>Fødeår <input name="fodear" required></label>
-  <label>Epost <input type="email" name="epost"></label>
-  <input type="submit" value="Registrer!">
-</form>
 ----
 class: box
 #### text-block ####

@@ -24,22 +24,7 @@ content:
 
 Påmelding
 =========
-Haustkonferansen 2017 er over, så det gjev ikkje meining å melde seg på. 
-<form method="POST" action="/cgi-bin/send.py?_type=haustkonferanse"
-  data-type="haustkonferanse" data-success="Innsendt! Me gler oss!">
-  <label>Namn <input name="namn" required></label>
-  <label>Adresse <input name="adresse"></label>
-  <label>Postnr <input name="postnr" required></label>
-  <label>Telefonnr <input name="tlfnr"></label>
-  <label>Fødeår <input name="fodear" required></label>
-  <label>Namn og nummer på pårørande <input name="parorande"></label>
-  <label>Epost <input type="email" name="epost" required></label>
-  <label>
-    Matallergiar? Vegetarianar? Andre ting me bør vite om?
-    <textarea name="fritekst" rows=3></textarea>
-  </label>
-  <input type="submit" value="Meld deg på!">
-</form>
+Haustkonferansen 2017 er over, så det gjev ikkje meining å melde seg på.
 ----
 class: box
 #### text-block ####
