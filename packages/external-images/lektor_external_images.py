@@ -3,7 +3,15 @@ import os.path
 import requests
 
 from lektor.pluginsystem import Plugin
-from jinja2 import Markup
+
+# Just to be safe, to not break an old version when NMU isn't expecting it
+Markup = None
+try:
+    from jinja2.utils import markupsafe
+    Markup = markupsafe.Markup
+except:
+    from jinja2 import Markup as Markup_
+    Markup = Markup_
 
 
 class ExternalImagesPlugin(Plugin):
