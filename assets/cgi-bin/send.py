@@ -83,7 +83,7 @@ def allowed_by_cloudflare_turnstile(token, meta):
                     'remoteip': meta['ip']
                 })
         if DEBUG:
-            stderr("Cloudflare Turnstile response: " + r.text())
+            stderr("Cloudflare Turnstile response: " + r.text)
         r = response.json()
         return r['success']
     except:
