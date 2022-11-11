@@ -78,7 +78,7 @@ def allowed_by_cloudflare_turnstile(token, meta):
     try:
         response = requests.post('https://challenges.cloudflare.com/turnstile/v0/siteverify',
                 data={
-                    'secret': 'a',
+                    'secret': TURNSTILE_SECRET_KEY,
                     'response': token,
                     'remoteip': meta['ip']
                 })
