@@ -125,6 +125,10 @@ else:
     print(textwrap.dedent('''\
         X-test: yep
 
-        Me trur du er ein «bot».
+        <!doctype html>
+        <meta charset=utf-8>
+        <h1>Ikkje sendt</h1>
+        Me trur du er ein «bot», diverre. :(
+        Me orsakar so mykje om det er feil.
         Ta kontakt på epost eller via telefon
         dersom det er feil.''').format())
