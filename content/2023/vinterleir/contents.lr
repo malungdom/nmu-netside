@@ -12,7 +12,7 @@ tekst:
 #### text-block ####
 content:
 
-<a href="https://drive.google.com/file/d/1-nP4vcKop0PJXFC404UXGkIeAW59cVcn/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=12vC4SzSGuHP82Kx0QQO28GxzezEOjNqv" width="100%" style="horizontal-align:middle" alt="Haustkonferansen"></a>
+<img src="https://drive.google.com/uc?export=view&id=12vC4SzSGuHP82Kx0QQO28GxzezEOjNqv" width="100%" style="horizontal-align:middle" alt="Vinterleiren 2023">
 
 Program
 =====
@@ -22,11 +22,9 @@ Program kjem!
 class: big-box
 #### text-block ####
 content:
-
+----------
 Praktisk
 =======
-Tørre fakta
------------
 **Kvar**: Fossheim leirstad på Fosser i Aurskog-Høland
 
 **Når**: 27. til 29. januar
@@ -42,6 +40,7 @@ Tørre fakta
 - varme klede
 - ski, viss du vil gå på ski
 
+----------
 Reiseruter
 =====
 I år skal vinterleiren vere på Fossheim på Fosser. 
@@ -54,9 +53,9 @@ Til Lillestrøm kjem du deg anten med buss eller tog frå Oslo, med flytoget fr�
 
 Merk: Me dekkjer i utgangspunktet ikkje fly frå stader i Sør-Noreg – det må i så fall avtalast med oss på førehand. Du kan eventuelt få refundert tilsvarande billegaste reisemåte, og ta mellomlegget sjølv.
 
-Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med praktisk ansvarleg Jógvan Helge Gardar på e-post jogvan@malungdom.no. 
+Dersom du er i tvil om reisemåte, anten det handlar om pris eller noko anna, ta kontakt med skrivar Jógvan Helge Gardar på e-post [jogvan@malungdom.no](mailto:jogvan@malungdom.no) eller telefon 95078818. 
 
-
+-------------
 Informasjon til føresette
 =========================
 Det hender at foreldre er litt redde for å sende ungdomane sine avgarde aleine.
@@ -64,7 +63,7 @@ Difor har me laga eit [informasjonsskriv til
 føresette](/organisasjon/tilskipingar/informasjon-til-foresette/) slik
 dei kan kjenne seg tryggare.
 ----
-class: box
+class: big-box
 ---
 toppbilete: vl20ski.jpg
 ---
