@@ -118,8 +118,9 @@ data['_meta']['turnstile_allowed'] = allowed;
 
 save_data(data, _type)
 subject = first_value and first_value.splitlines()[0] or ''
-if allowed:
-    send_email(data, _type, subject[:64])
+if allowed or token:
+    short_subj = ('' if allowed else 'SPAM: ') + subject[:64]
+    send_email(data, _type, short_subj)
     redirect(form.getfirst('_next', ''), _type)
 else:
     print(textwrap.dedent('''\
