@@ -71,10 +71,8 @@ def redirect(location, success):
         Redir to: {loc}''').format(loc=location))
 
 def allowed_by_cloudflare_turnstile(token, meta):
-    if not TURNSTILE_SECRET_KEY:
+    if not TURNSTILE_SECRET_KEY and token:
         return True
-    if not token:
-        return False
     try:
         response = requests.post('https://challenges.cloudflare.com/turnstile/v0/siteverify',
                 data={
@@ -88,7 +86,7 @@ def allowed_by_cloudflare_turnstile(token, meta):
         return r['success']
     except:
         # If we're having issues, let everything with a token through
-        return True
+        return bool(token)
 
 
 # import cgitb; cgitb.enable()
