@@ -111,7 +111,6 @@ footer.kolofon {
 footer.kolofon a {
   color: rgba(255, 255, 255);
   text-decoration: none;
-  font-size: 16px
 }
 footer.kolofon a:hover {
   color: rgba(255, 255, 255, 0.8);
