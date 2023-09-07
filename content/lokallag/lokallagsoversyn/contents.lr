@@ -20,7 +20,6 @@ content:
 class: box
 #### text-block ####
 content:
-
 <img src="https://drive.google.com/uc?export=view&id=1uzfBqKKKt2iBq0zvfDRVq9ZmNu3cCN9X" alt="Hallingdal Målungdom">
 ==
 **Stad:** Hemsedal i Viken <br>
@@ -29,19 +28,6 @@ content:
 
 **Finn dei på:**<br>
 [Instagram](https://www.instagram.com/hallingdal_mu/) ∙ [Facebook](https://www.facebook.com/Hallingdal-M%C3%A5lungdom-111144640280360)
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1rLW2oOm2YT6PPqjaBaqH15RtytDHvd2Y" alt="Hardanger og Voss Målungdom">
-==
-**Stad:** Herad i Vestland <br>
-**Leiar:** Sander Eide Aase <br>
-**Kontakt:** [havo@malungdom.no](mailto:havo@malungdom.no)
-
-**Finn dei på:**<br>
-[Facebook](https://www.facebook.com/hardangerogvossmaalungdom)
 ----
 class: box
 #### text-block ####
@@ -102,22 +88,10 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=1WeWYwwTlG0ZG_tSPMY0yaGST3dzVsY0j" alt="Studentmållaget i Agder">
 ==
 **Stad:** Kristiansand i Agder
-<br>**Leiar:** Manglar styre per februar 2023
-<br>**Kontakt:** [smia.nynorsk@gmail.com](mailto:smia.nynorsk@gmail.com)
+<br>**Leiar:** Nora Tangen Aarskog
+<br>**Kontakt:** [smia@malungdom.no](mailto:smia@malungdom.no)
 
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/smiagder/) ∙ [Facebook](https://www.facebook.com/smiagder)
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=15wXyTCT8qo3E6x-C14JvkECf3qM8yxwT" alt="Sogndal Målungdom">
-==
-**Stad:** Sogndal i Vestland <br>
-**Leiar:** Manglar styre per februar 2023 <br>
-**Kontakt:** [sogndalmu@gmail.com](mailto:sogndalmu@gmail.com)
-
-**Finn dei på:**<br> [Facebook](https://www.facebook.com/SogndalMU)
 ----
 class: box
 #### text-block ####
@@ -126,7 +100,7 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=1KVrb8XwkFsJYiR2-on9CVZWehXB1jfo-" alt="Studentmållaget i Bergen">
 ==
 **Stad:** Bergen i Vestland
-<br>**Leiar:** Benjamin Kvaløsæter
+<br>**Leiar:** Stina Ringdal Strøm
 <br>**Kontakt:** [smib@malungdom.no](mailto:smib@malungdom.no)
 
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/smibergen/) ∙ [Facebook](https://www.facebook.com/SmiBergen)  ∙ [Nettstad](https://smib.no)
@@ -138,7 +112,7 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=1jrCmv7B0p0MjFrsVhUJAOm6Ivx0vgHz6" alt="Studentmållaget i Nidaros">
 ==
 **Stad:** Trondheim i Trøndelag
-<br>**Leiar:** Maren Braut
+<br>**Leiar:** Marit Ping Bersås
 <br>**Kontakt:** [smin@malungdom.no](mailto:smin@malungdom.no)
 
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/sminidaros/) ∙ [Facebook](https://www.facebook.com/sminidaros)
@@ -150,33 +124,10 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=15iHaN7i584t6tTS3x8NqK-7TeetV8zXx" alt="Studentmållaget i Oslo">
 ==
 **Stad:** Oslo
-<br>**Leiar:** Jonas Økland
+<br>**Leiar:** 
 <br>**Kontakt:** [smio@malungdom.no](mailto:smio@malungdom.no)
 
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/studentmallaget/) ∙ [Facebook](https://www.facebook.com/Studentmallaget)
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1ipXbZ29M5164aI2H_nHDCOY523TOvjKt" alt="Studentmållaget i Sogndal">
-==
-**Stad:** Sogndal i Vestland <br>
-**Leiar:** Manglar styre per februar 2023<br>
-
-**Finn dei på: **<br> [Instagram](https://www.instagram.com/smisogndal/) ∙ [Facebook](https://www.facebook.com/smiSogndal)
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1SoS4zoWmgmOtNzDhTQFBxG2YfPxLhfAR" alt="Studentmållaget i Stavanger">
-==
-**Stad:** Stavanger i Rogaland
-<br>**Leiar:** Manglar styre per februar 2023
-<br>**Kontakt:** [smis@malungdom.no](mailto:smis@malungdom.no)
-
-**Finn dei på:**<br> [Instagram](https://www.instagram.com/smistavanger/) ∙ [Facebook](https://www.facebook.com/smistavanger)
 ----
 class: box
 #### text-block ####
@@ -205,36 +156,13 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=17YG_7pZtsfWXTUGyhe9aGEtwuMQ6tv47" alt="Sumarøyo Målungdom">
-==
-**Stad:** Stord i Vestland <br>
-**Leiar:** Manglar styre per februar 2023 <br>
-
-**Finn dei på:**<br> [Instagram](https://www.instagram.com/sumaroyo_malungdom/) ∙ [Facebook](https://www.facebook.com/sumaroyomalungdom)
-----
-class: box
-#### text-block ####
-content:
-
 <img src="https://drive.google.com/uc?export=view&id=1bhdYLtWTyeRh2j-8_FCDUZOmOFDqfAN-" alt="Trøndersk Målungdom">
 ==
 **Stad:** Trondheim i Trøndelag
-<br>**Leiar:** Johanna Breivang
+<br>**Leiar:** Ina Benedicte Aune
 <br>**Kontakt:** [trondersk@malungdom.no](mailto:trondersk@malungdom.no)
 
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/tronderskmalungdom/) ∙ [Facebook](https://www.facebook.com/Trondersk.MU)
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1DvF1j9tMbFLZl7rWfauzC8o9YpJPyUIS" alt="Ås studentmållag">
-==
-**Stad:** Ås i Viken
-<br>**Leiar:** Ragnhild Sunde Stokke
-<br>**Kontakt:** [studentmallag@gmail.com](mailto:studentmallag@gmail.com)
-
-**Finn dei på:**<br> [Instagram](https://www.instagram.com/aasstudentmaallag/) ∙ [Facebook](https://www.facebook.com/asstudentmallag)
 ----
 class: box
 ---
