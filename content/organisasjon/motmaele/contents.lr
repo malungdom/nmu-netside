@@ -21,14 +21,7 @@ Avisa vert laga av bladstyret som vert sett ned av landsstyret kvar vår. Om du
 ikkje er medlem av Norsk Målungdom, men likevel vil ha Motmæle, kan du tinga
 bladet frå oss.
 
-
-- **Olav Wixøe Svela** (bladstyrar)<br>
-  E-post: <a href="mailto:bladstyret@malungdom.no">bladstyret@malungdom.no</a>
-- Sabina Fosse Hansen
-- Agnete Aas Haukås
-- Maren Braut
-- Rasmus Tennø Loe
-- Trond Tynnøl
+E-post: [bladstyret@malungdom.no](mailto:bladstyret@malungdom.no)
 
 <span id="skriva"></span>
 
@@ -70,16 +63,29 @@ class: box
 #### text-block ####
 content:
 
-<div data-dark="true" data-display-header="true" data-height="12000" data-layout="list" data-viewer="mime" data-manual="true" data-manual-list="NB_SEARCH_LIST" data-manual-comment-list="NB_SEARCH_LIST_COMMENTS" data-nb-plugin="search" data-sorting="desc" data-title="Nasjonalbiblioteket"></div><script type="text/javascript">
+<div data-dark="true" data-display-header="true"  data-layout="list" data-viewer="mime" data-manual="true" data-manual-list="NB_SEARCH_LIST" data-manual-comment-list="NB_SEARCH_LIST_COMMENTS" data-nb-plugin="search" data-sorting="desc" data-title="Nasjonalbiblioteket"></div><script type="text/javascript">
 	var NB_SEARCH_LIST = [
-    "3bcb0f2a3b1b6543f9f286655f052fa3",
-    "68ef0270cae4f209310e2754907ded5f",
-    "80391fb5c10d521eb4723416948d2614",
-    "2ed23ec0b96be66d7cd2556f38385551",
-    "3cadbd88c7019a8167100f80a44f5bd3",
-    "e21f11a61ca88c8a1bc2af6480519ac1",
-    "0ab671f045544818e145f6cc6876dede",
-    "70d0c59bdb17573235d3d8c385ad56d1",
+    "87b1f67a79ab9feb90b61b729a67211f", //2/23
+    "0b455c2640f0bf2a86605bc090295baa", //1/23
+    "6ee4f046a268c44417519803039a4f7b", //3/23
+    "9eb017f2352f6abde4f0be64e3b13247", //2/22
+    "d6f83f45288a83d0c3710d2720425061", //1/22
+    "80391fb5c10d521eb4723416948d2614", //3/21
+    "87e2440b2d07a877db8e204f12a6a3dd", //2/21
+    "2003b5f3d2063ef595ca32fabb752387", //1/21
+    "7ef96cfbfa4dd46d1402a8b559fbdba7", //3/20
+    "b556fabd2fa747c0ad90f59f1a66fd67", //2/20
+    "8e14adfffc362fe6db9a45ad1d3c8f01", //1/20
+    "56c0d0f4246209b63675c98a077e7fae", //3/19
+    "7e3a0d049ba7fc858a103243807d015f", //2/19
+    "102292a416b8ef4cc8b69f21098884e5", //1/19
+    "61b1470fa2eee0aec1a81c54edc4ebef", //3/18
+    "52fdc9f2763e6b2ba11becda7b91014f", //2/18
+    "878ef9a4e7a931ac0306e2a4d6c8139b", //1/18
+    "42373dd6e729c37e381469b6b5ae4ffc", //4/17
+    "f4d5c66c45a77db0ecd5838c73bf9cbb", //3/17
+    "c08550431c6aef307ef64eb3cc14fae7", //2/17
+    "f350a0f12e41455b8ed0ecadd9fc20a2", //1/17
     "5c6ad13abebe6f555c38c2c10e4c66d8",
     "2adc068ec0dd885bce22dc78c146f2ef",
     "711a1d40145d778e036ad8e54c313c88",
@@ -158,6 +164,7 @@ content:
     "75bb30f5819fc9004d2d59e7db4f81f4",
 ];
 </script><script type="text/javascript">(function(n, b, s, d, k, f, e, t, c, h) {n[k] = d;f = b.createElement(s);e = b.getElementsByTagName(s)[0];f.src=d;e.parentNode.insertBefore(f, e);})(window, document, 'script', 'https://embed.nb.no/nb-embed-sdk.js', 'NB_SDK_PATH');</script>
+
 ----
 class: nothing
 ---
