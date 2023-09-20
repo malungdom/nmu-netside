@@ -47,9 +47,9 @@ content:
 Kva skjer framover?
 ===================
 
-**1. september–8. oktober: [*Vervekampanjen*](/2023/verv)**<br>
+**1. september–15. oktober: [*Vervekampanjen*](/2023/verv)**<br>
 
-Er du den nye kontormedarbeidaren vår? Søknadsfrist 17. september. [**Les meir her**](/2023/kontormedarbeidar).
+Er du den nye kontormedarbeidaren vår? Søknadsfrist 30. september. [**Les meir her**](/2023/kontormedarbeidar).
 
 Betala medlemspengar?
 ===============
@@ -91,21 +91,6 @@ Har du lyst til å gje målgåve? Vipps ei pengegåve til vippsnummer [**#22472*
 Viss du gjev 500 kroner eller meir i gåve, kan du få skattefrådrag.
 
 <a href="https://www4.solidus.no/SolidusUser/nettbutikk/norsk_m%C3%A5lungdom/m%C3%A5lg%C3%A5ve" target="_blank" class="button bli-medlem-liten">Registrer deg!</a>
-----
-
-
-<!---
-<form method="POST" action="/cgi-bin/send.py?_type=gaave"
-  data-type="gaave" data-success="Registrert! Takk for at du vil stø oss!">
-  <label>Namn <input name="namn" required></label>
-  <label>Adresse <input name="adresse"></label>
-  <label>Postnr <input name="postnr" required></label>
-  </label>
-  <input type="submit" value="Registrer deg!">
-  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
-  <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
-</form>
---->
 ----
 class: box
 ---
