@@ -12,10 +12,19 @@ tekst:
 #### text-block ####
 content:
 
+<img src="https://drive.google.com/uc?export=view&id=1DlD2APOLH26wVaS4T338oj9Pg51ki0-7" alt="«Gå for nynorsken»-sokkar">
+<center> **«Gå for nynorsken»-sokkar**
+<br>70 kroner
+<br><small>Storleik 35–38, 39–42, 43–46</small>
+----
+class: box
+#### text-block ####
+content:
+
 <img src="https://drive.google.com/uc?export=view&id=1fT-3GDJWkCCkp5uv9QJb8fxU6iY_zA4C" alt="Ivar Aasen-genser">
 <center> **Genser: Reiseruta til Ivar Aasen**
 <br>350 kroner
-<br><small>Storleik S, M, L, XL </small>
+<br><small>Storleik S</small>
 ----
 class: box
 #### text-block ####
@@ -36,30 +45,6 @@ content:
 <br><small>Storleik XS, S, M, L, XL, XXL</small>
 ----
 class: box
-<!-- #### text-block ####
-content:
-<img src="https://drive.google.com/uc?export=view&id=14sUjYYDfIqP6F45AnFF-U7y7JOv8oCjB" alt="Gul t-skjorte: Eg <3 nynorsk">
-<center> **T-skjorte: Eg <3 nynorsk, gul**
-<br>130 kroner
-<br><small>Storleik XS, XL</small>
-----
-class: box
-<!-- #### text-block ####
-content:
-<img src="https://drive.google.com/uc?export=view&id=1bZKjuSfRV4PP2kLV-IXZ0fO6QbD967sA" alt="Kvit t-skjorte: Eg <3 nynorsk">
-<center> **T-skjorte: Eg <3 nynorsk, kvit**
-<br>130 kroner
-<br><small>Storleik XL</small>
-----
-class: box
-<!-- #### text-block ####
-content:
-<img src="https://drive.google.com/uc?export=view&id=1fd1RiShTVyv-DK0e6maQV2BvPmvtkMcf" alt="Grøn t-skjorte: Eg <3 nynorsk">
-<center> **T-skjorte: Eg <3 nynorsk, grøn**
-<br>130 kroner
-<br><small>Storleik XS, S </small>
-----
-class: box
 #### text-block ####
 content:
 
@@ -67,27 +52,6 @@ content:
 <center> **Genser: sexy**
 <br>300 kroner
 <br> <small>Storleik XL, 2XL</small>
-
-----
-class: box
-<!--#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1MKasMW8b4D3_PRHHC0DPltPrIlV2m_c2" alt="T-skjorte: Nynorsk">
-<center> **T-skjorte: nynorsk**
-<br>130 kroner 
-<br> <small>Storleik 3XL</small>
-
-----
-class: box
-<!--#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=16OqdtUnSH5JzvUa6pKQEOBW16ptfaJAe" alt="Språkmangfaldig genser">
-<center> **Språkmangfaldig genser**
-<br>150 kroner 
-<br> <small>Storleik XL</small>
-
 ----
 class: box
 #### text-block ####
@@ -120,17 +84,6 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=19KonCuuWqwp_UfYkwz9_RtBCB77jdzck" alt="Pennal">
 <center> **Pennal**
 <br>60 kroner 
-
-----
-class: box
-<!--#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1sEBOJb1nQtpQeCYis8fxPl1zRWoSO32l" alt="Nykelband">
-<center> **Nykelband**
-<br>10 kroner
-
-
 ----
 class: box
 #### text-block ####
@@ -139,35 +92,6 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=1953x6OCin1ty0icFu6r4rx3jBmeg98KO" alt="Kopp">
 <center> **Kopp**
 <br>100 kroner 
-
-----
-class: box
-<!-- #### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1bMvv2EP3YAF9wK2FBDW84s2QBZw_FusC" alt="Vassflaske">
-<center> **Vassflaske**
-<br>100 kroner 
-
-----
-class: box
-#### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1gT9qzs1XWTYOFBn1tmsqzL4xhurtl6Wg" alt="Notatbok">
-<center> **Notatbok**
-<br>50 kroner 
-
-----
-
-class: box
-<!-- #### text-block ####
-content:
-
-<img src="https://drive.google.com/uc?export=view&id=1qOZr77BP5ocISGx4pp6K0EnK9HMRJXZG" alt="Språkleg toleranse i Noreg - Norge, for faen">
-<center> **Språkleg toleranse i Noreg - Norge, for faen**
-<br>100 kroner
-
 ----
 class: box
 #### text-block ####
@@ -176,7 +100,6 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=1XaUR0xZXR3CsDFv8gr27JhUmelZWE-dq" alt="Eg vil so gjerne syngja">
 <center> **Eg vil so gjerne syngja**
 <br>100 kroner
-
 ----
 class: box
 #### text-block ####
@@ -193,13 +116,10 @@ content:
 <img src="https://drive.google.com/uc?export=view&id=1maDmWCs-40VE6u3XF8pQnYIIYas9HBX2" alt="Motmæle">
 <center> **Motmæle-abonnement**
 <br>200 kroner for eitt år
-
 ----
 class: box
 #### text-block ####
-content:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiMf08MzY0CuXdpdMdH_n86P5nk6AVGffGW5wmS2uVwfMUJA/viewform?embedded=true" width="100%" height="1800" frameborder="0" marginheight="0" marginwidth="0">Lastar inn …</iframe>
+content: <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiMf08MzY0CuXdpdMdH_n86P5nk6AVGffGW5wmS2uVwfMUJA/viewform?embedded=true" width="100%" height="1800" frameborder="0" marginheight="0" marginwidth="0">Lastar inn …</iframe>
 ----
 class: box
 ---
