@@ -1,0 +1,73 @@
+_model: styrepersonliste
+---
+tittel: Sentralstyret 2023-2024 
+---
+tekst:
+
+#### styreperson ####
+tittel: Leiar
+----
+namn: Tobias Christensen Eikeland
+----
+kortom: frå Oslo, fødd 2000
+ 
+----
+kontakt:
+E-post: [tobias@malungdom.no](mailto:tobias@malungdom.no)
+Telefon: [94 89 49 69](tel:+4794894969)
+
+#### styreperson ####
+tittel: 1. nestleiar
+----
+namn: Synne Solberg
+----
+kortom: frå Sør-Fron, fødd 2002
+----
+kontakt:
+E-post: [synne@malungdom.no](mailto:synne@malungdom.no)
+Telefon: [95 80 68 35](tel:+4795806835)
+
+
+#### styreperson ####
+tittel: 2. nestleiar
+----
+namn: Maren Braut
+----
+kortom: frå Klepp, fødd 2000
+----
+kontakt:
+E-post: [maren@malungdom.no](mailto:maren@malungdom.no)
+Telefon: [97 52 94 07](tel:+4797529407)
+
+#### styreperson ####
+tittel: Sentralstyremedlem
+----
+namn: Rasmus Tennø Loe
+----
+kortom: frå Luster, fødd 2002
+----
+kontakt:
+E-post: [rasmus@malungdom.no](mailto:rasmus@malungdom.no)
+Telefon: [48 27 81 07](tel:+4748278107)
+
+#### styreperson ####
+tittel: Sentralstyremedlem
+----
+namn: Stina Ringdal Strøm
+----
+kortom: frå Bergen, fødd 2003
+----
+kontakt:
+E-post: [stina@malungdom.no](mailto:stina@malungdom.no)
+Telefon: [46 42 96 54](tel:+4746429654)
+
+#### styreperson ####
+tittel: Sentralstyremedlem
+----
+namn: Sebastian Natvik
+----
+kortom: frå Alver, fødd 2003
+----
+kontakt:
+E-post: [sebastian@malungdom.no](mailto:sebastian@malungdom.no)
+Telefon: [99 50 80 11](tel:+4799508011)
