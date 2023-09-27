@@ -6,7 +6,7 @@ tittel: Vervekampanjen 2023
 ---
 ingress:
 
-<center> 1. september til 15. oktober går vervekampanjen 2023 føre. <br><br>
+<center> Vervekampanjen 2023 varar til 29. oktober. <br><br>
 </center>
 
 
@@ -50,7 +50,14 @@ content:
 
 Vervepremiar
 =========== 
-Kjem snart!
+- 1 vervepoeng: Aluminiumsflaske: «Flaska»
+- 2 vervepoeng: «Gå for nynorsken»-sokkar
+- 3 vervepoeng: Halskjede: «kjærleik»/«hugleik»/«augneblink»
+- 5 vervepoeng: «nynorsk.»-t-skjorte
+- 7 vervepoeng: Collegegenser
+- 10 vervepoeng: Gåvekort frå Samlaget
+- 13 vervepoeng: Billett til sumarleir på Færøyane
+
 
 <!---<dt><b>1 vervepoeng</b>
 <dd>Drikkeflaske av metall
@@ -81,7 +88,7 @@ Vervetoppen
   height: 500px;
 }
 </style>
-<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2023-09-01&to=2023-10-10"></iframe>
+<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2023-08-01&to=2023-10-29"></iframe>
 
 
 Elevmållaga
