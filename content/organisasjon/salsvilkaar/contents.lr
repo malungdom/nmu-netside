@@ -168,3 +168,5 @@ class: box
 toppbilete: none
 ---
 _discoverable: no
+---
+_hidden: yes

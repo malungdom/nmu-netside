@@ -7,6 +7,7 @@ ingress: Norsk Målungdom søkjer kontormedarbeidar i 50 % stilling.
 toppbilete: ingen
 ---
 tekst:
+
 #### text-block ####
 content:
 
@@ -53,6 +54,11 @@ Skrivarstova held til i Lilletorget 1, 0184 Oslo. Det er tre folk på skrivarsto
 
 ###Kvifor jobbe i Norsk Målungdom?
 Norsk Målungdom er meir enn berre ein arbeidsplass; det er eit engasjert og inkluderande fellesskap der du kan gjere ein skilnad for nynorsken, dialektene og språkmangfaldet. Som tilsett i Norsk Målungdom vil du få sjansen til å jobbe i lag med ei dedikert og entusiastisk gruppe menneske som brenn for saka. Å jobbe i Norsk Målungdom gjev deg høve til å utvikle deg både fagleg og personleg, og du vil kunne bidra med dine eigne idear og initiativ i ein engasjert ungdomsorganisasjon.
-
 ----
 class: big-box
+---
+_discoverable: no
+---
+_hidden: yes
+---
+oversikt_skjult: yes
