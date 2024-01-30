@@ -7,7 +7,7 @@ tittel: Landsmøtet 2024
 ---
 ingress:
 
-Velkommen til landsmøte 5. til 7. april 2024! 
+Velkommen til landsmøtet i Norsk Målungdom, 5. til 7. april 2024!
 
 ---
 tekst:
@@ -17,7 +17,7 @@ content:
 
 Kom på landsmøtet! 
 =================
-Landsmøtet avgjer kva NMU skal meine og arbeide med i året som kjem. Landsmøtekunngjeringa kjem snart.
+Landsmøtet avgjer kva NMU skal meine og arbeide med i året som kjem.
 
 
 Påmelding
@@ -28,7 +28,7 @@ Er du usikker på om det er lokallag der du bur, eller lurer du på noko anna? S
 
 Still til val
 =========
-Vil du stille til val? Ta kontakt med valnemnda på e-post,  (valnemnda@malungdom.no)[mailto:valnemnda@malungdom.no]
+Vil du stille til val? Ta kontakt med valnemnda på e-post,  [valnemnda@malungdom.no](mailto:valnemnda@malungdom.no)
 ----
 class: box
 #### text-block ####
@@ -36,13 +36,13 @@ content:
 
 Praktisk
 =======
-**Kvar**:
+**Kvar**: Vinstra vidaregåande skule
 
 **Når:** 5.-7. april 2024
 
 **Utloger:** Det er inga deltakaravgift for å delta på landsmøtet. Dei lokallaga som ikkje har monalege inntekter utanom Frifond, kan få dekt reiseutlogene sine av sentrallekken.
 
-**Reise:** Vi ser helst at dei som kan bestiller reise sjølv, og seinare får tilbakebetalt reiseutlogene. Om du treng hjelp til bestilling av reise kan du ta kontakt med skrivarstova på e-post, (norsk@malungdom.no)[mailto:norsk@malungdom.no ] <em>
+**Reise:** Vi ser helst at dei som kan bestiller reise sjølv, og seinare får tilbakebetalt reiseutlogene. Om du treng hjelp til bestilling av reise kan du ta kontakt med skrivarstova på e-post, [norsk@malungdom.no](mailto:norsk@malungdom.no) <em>
 </em>
 
 **Overnatting og mat**: Det er overnatting i sovesal. Om du har ønskjer til overnattinga, kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar. 
@@ -53,17 +53,19 @@ content:
 
 Fristar
 =======
-**xxx:**
-<ul><li>Framlegg til lovendringar må vere skrivarstova i hende</li>
-<li>Framlegg til tuftendringar må vere skrivarstova i hende</li>
-<li>Framlegg til endringar i politiske program må vere skrivarstova i hende.</li>
-<li>Framlegg til andre saker dokker vil ha opp på landsmøtet må vere skrivarstova i hende. Framlegg til andre saker som kjem inn etter dette må ha 2/3 fleirtal på landsmøtet for å bli handsama.</li></ul>
+**25. februar 2024:**
+* Frist for å sende inn framlegg til lovendringar.
+* Frist for å sende inn framlegg til tuftendringar.
+* Frist for å sende inn framlegg til endringar i politiske program.
+* Frist for å sende inn framlegg til andre saker de vil ha opp på landsmøtet.
+* Framlegg til andre saker som kjem inn etter dette, må ha 2/3 fleirtal på landsmøtet for å bli handsama.
 
-**xxx:**
-<ul><li>Frist for å velje utsendingar til landsmøtet.</li></ul>
+**10. mars 2024**
+* Frist for å velje utsendingar til landsmøtet.
+* Påmeldingsfrist til landsmøtet.
 
-**xxx:**
-<ul><li>Send inn fråsegner til skrivarstova.</li></ul>
+**31. mars 2024**
+<ul><li>Frist for å sende inn fråsegner til skrivarstova.</li></ul>
 
 Vil du eller lokallaget ditt fremje ei fråsegn til landsmøtet? Dokker kan lese tips til korleis ein skriv ei fråsegn i [Den vesle fråsegnsskulen](https://drive.google.com/a/malungdom.no/file/d/10Zo__GKPLp0Fl7g0ORRBDbHPk6OX4yBL/view?usp=sharing). Send fråsegna til [norsk@malungdom.no](mailto:norsk@malungdom.no).
 ----
@@ -86,8 +88,8 @@ oversikt_tittel:
 Landsmøte
 
 ---
-oversikt_skjult: yes
+oversikt_skjult: no
 ---
-_discoverable: no
+_discoverable: yes
 ---
 _hidden: no
