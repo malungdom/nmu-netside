@@ -1,0 +1,43 @@
+_model: styrepersonliste
+---
+tittel: Landsstyret 2023-2024
+---
+tekst:
+
+#### styreperson ####
+namn: Tobias Christensen Eikeland
+----
+tittel: Leiar
+----
+om:
+Oslo i Oslo, fødd 2000<br>
+Kontakt: tobias@malungdom.no
+----
+
+#### styreperson ####
+namn: Diandra Drarvik
+----
+tittel: Landsmøtevald representant
+----
+om:
+Stavanger i Rogaland, fødd 1997
+
+#### styreperson ####
+namn: Daniel Tobias Johansen Langhoff
+----
+tittel: Landsmøtevald representant
+----
+om:
+Nordreisa i Troms og Finnmark, fødd 1997
+
+#### styreperson ####
+namn: Sæmund Helde
+----
+tittel: Landsmøtevald representant
+----
+om:
+Herøy i Møre og Romsdal, fødd 1999
+
+#### styreperson ####
+namn: Resten av landsstyret blir valde av lokallaga.
+----
