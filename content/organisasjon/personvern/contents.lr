@@ -29,7 +29,7 @@ Namn, adresse, e-postadresse, telefonnummer, fødeår, pårørandeinformasjon, o
 
 1.3 Målgåvegjevarar
 
-Viss du melder deg som målgåvegjevar lagrar vi desse personopplysningane om deg: 
+Viss du melder deg som målgåvegjevar, lagrar vi desse personopplysningane om deg: 
 Namn, adresse og eventuelt fødselsnummer. 
 
 1.4 Kundar
@@ -40,13 +40,20 @@ Namn, adresse, e-postadresse og kva du har kjøpt.
 1.5 Klagarar
 
 Viss du bruker oss til å klage på til dømes manglande nynorskversjon til eksamen eller mangel på nynorske lærebøker, lagrar vi desse personopplysningane om deg: 
-Namn, e-postadresse og utdanningsstad. 
+Namn, e-postadresse og utdanningsstad.
+
+1.6 Søkarar til stillingar
+
+Viss du søker jobb hjå oss, lagrar vi desse personopplysningane om deg:
+Namn, kontaktinformasjon, CV og søknadsbrev.
 
 **2. Kvifor lagrar vi desse personopplysningane?**
  
 Formålet med å lagre desse personopplysningane er å kunne halde avtaler om medlemskap, eller andre avtaler du har gjort med oss. Det kan vere avtale om kjøp, eller avtale om at vi skal klage på vegner av deg. Vi har grunnlag for å handsame desse personopplysningane i personvernforordninga til EU, artikkel 6 (B). 
 
 Dersom du samtykker til det, bruker vi personopplysningane til å sende deg informasjon på e-post og SMS, nyhendebrev, medlemsblad og målgåveopprop. Du kan trekke samtykket ditt kva tid som helst. Viss du deltek på ei tilskiping i regi av Norsk Målungdom kan du samtykke til at vi lagrar relevante helseopplysningar om deg, som allergiar, og informasjon om pårørande. Du kan òg samtykke til at vi tek bilete av deg. Vi har grunnlag for å handsame slike personopplysningar i personvernforordninga til EU, artikkel 6 (A). 
+
+Dersom du søker jobb hjå oss, handsamar vi personopplysningane dine i samsvar med personvernforordninga. Vi handsamar opplysningane dine for å vurdere søknaden din i samsvar med behova og krava til stillinga. Dersom søknaden din inneheld særlege kategoriar av personopplysningar, handsamar vi desse opplysningane i tråd med personvernforordninga artikkel 9.
 
 **3. Innhenting av personopplysninga**
 
@@ -64,7 +71,7 @@ Viss du er medlem hjå oss og samtykker til det, utleverer vi personopplysningar
 
 *Solidus CRM:* Når du melder deg inn, skjer dette gjennom Solidus CRM. Dei handsamar medlemsinformasjonen du oppgjev og medlemspengane du betalar.
 
-*Google:* Vi lagrer filene våre i Google Workspace. 
+*Google:* Vi lagrer alle filene våre i Google Workspace. 
 
 *Eurobate:* Det er Eurobate som handsamar innbetalinga av medlemspengar med SMS. Dei handsamar telefonnummer. 
 
@@ -94,6 +101,10 @@ Folk som klagar gjennom oss blir alltid anonymiserte når vi klagar vidare. Vi u
 
 Sender du oss ei rekning, til dømes reiserekning, lagrar vi informasjonen på den rekninga i Visma. Revisor har årleg tilgang til all informasjon i Visma.
 
+1.6 Søkarar til stillingar
+
+Vi utleverer ikkje informasjon om at du har søkt på ei stillinga hjå oss. Informasjonen om deg kan bli brukt for anonymisert intern statistikk.
+
 **5. Sletting og sikring av personopplysningar**
 
 Vi lagrar informasjon som vi er forplikta til å lagre etter bokføringslova i 5 år. 
@@ -117,6 +128,10 @@ Informasjonen om deg er sikra med tilgangskontroll og passord. Vi slettar person
 5.5 Klagarar
 
 Vi arkiverer informasjon om klaga, men anonymiserer all informasjon om klagene. Informasjonen er sikra med passord og tilgangskontroll. 
+
+5.6 Søkarar til stillingar
+
+Informasjonen om søkarar til stillingar er sikra med passord og tilgangskontroll. Viss du får jobben, tek vi vare på informasjonen vi har fått frå deg, elles slettar vi personopplysningane om deg så snart du melder frå.
 
 **6. Kva rettar har du?**
 
@@ -143,7 +158,7 @@ Ta kontakt med oss for å be om innsyn, melde endringar eller viss du vil vi ska
     <textarea name="fritekst" rows=3 required></textarea>
   </label>
   <label>
-    Eposten din
+    E-posten din
     <input type="email" name="epost">
   </label>
   <input type="submit" value="Send inn">
