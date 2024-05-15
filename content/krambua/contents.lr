@@ -8,11 +8,20 @@ ingress:
 
 ---
 tekst:
+#### text-block ####
+content:
+
+<img src="sogehefte.png" alt="Ung målstrid. Norsk Målungdom 60 år">
+<div style="text-align: center"><b>Ny bok! <br/><i>Ung målstrid. Norsk Målungdom 60 år</b></i>
+<br>249 kroner</div>
+<small>Norsk Målungdom har runda seksti år. Dette sogeheftet fortel om ideologiske og politiske kampar og stridsspørsmål, men òg om medlemer, aksjonistar og tillitsvalde. Innheld artiklar av Eli Morken Farstad, Magnus Bernhardsen, Øystein Edvardsen Hide, Oddrun Grønvik, Jens Kihl, Rolf Theil og Magnus Løken. Dette gjev eit historisk blikk både frå innsida og utsida.</small>
+----
+class: box
 
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1DlD2APOLH26wVaS4T338oj9Pg51ki0-7" alt="«Gå for nynorsken»-sokkar">
+<img src="sokkar.png" alt="«Gå for nynorsken»-sokkar">
 <center> **«Gå for nynorsken»-sokkar**
 <br>70 kroner
 <br><small>Storleik 35–38, 39–42, 43–46</small>
@@ -21,7 +30,7 @@ class: box
 <!---#### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1fT-3GDJWkCCkp5uv9QJb8fxU6iY_zA4C" alt="Ivar Aasen-genser">
+<img src="genser.png" alt="Ivar Aasen-genser">
 <center> **Genser: Reiseruta til Ivar Aasen**
 <br>350 kroner
 <br><small>Storleik S</small>
@@ -30,7 +39,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1vujMoPK6wXFaQLkIZfrjIMSJKum4jq9u" alt="Kvit t-skjorte: nynorsk.">
+<img src="tskjortekvit.png" alt="Kvit t-skjorte: nynorsk.">
 <center> **T-skjorte: nynorsk., kvit**
 <br>170 kroner
 <br><small>Storleik XS, S, M, L, XL, XXL</small>
@@ -39,7 +48,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1CdK3T5FYD66wxJuFE9mchBOpfxxzN1lY" alt="Svart t-skjorte: nynorsk.">
+<img src="tskjortesvart.png" alt="Svart t-skjorte: nynorsk.">
 <center> **T-skjorte: nynorsk., svart**
 <br>170 kroner
 <br><small>Storleik XS, S, M, L, XL, XXL</small>
@@ -48,7 +57,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=18rNzslcLYCjHczglKvC8TI40Pkdt1XMw" alt="Genser: SEXY">
+<img src="sexygenser.png" alt="Genser: SEXY">
 <center> **Genser: sexy**
 <br>300 kroner
 <br> <small>Storleik XL, 2XL</small>
@@ -57,7 +66,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1v4ZyVjs-i9qX5PZygDjd4UDN0w3HN88s" alt="Livna handlenett">
+<img src="livnahandlenett.png" alt="Livna handlenett">
 <center> **Livna handlenett**
 <br>60 kroner 
 ----
@@ -65,7 +74,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1jJEQGUWuc5bFk2XvmB_g_SWYDefdy3SK" alt="Elska handlenett">
+<img src="elskahandlenett.png" alt="Elska handlenett">
 <center> **Elska handlenett**
 <br>60 kroner 
 ----
@@ -73,7 +82,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1bJsx6XLUkIiec78wiijUs1YBJrj2qCb_" alt="Jakkemerke">
+<img src="jakkemerke.png" alt="Jakkemerke">
 <center> **Jakkemerke**
 <br>5 kroner (20 stk for 50 kroner)
 ----
@@ -81,7 +90,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=19KonCuuWqwp_UfYkwz9_RtBCB77jdzck" alt="Pennal">
+<img src="pennal.png" alt="Pennal">
 <center> **Pennal**
 <br>60 kroner 
 ----
@@ -89,7 +98,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1953x6OCin1ty0icFu6r4rx3jBmeg98KO" alt="Kopp">
+<img src="kopp.png" alt="Kopp">
 <center> **Kopp**
 <br>100 kroner 
 ----
@@ -97,7 +106,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1XaUR0xZXR3CsDFv8gr27JhUmelZWE-dq" alt="Eg vil so gjerne syngja">
+<img src="bok-syngja.png" alt="Eg vil so gjerne syngja">
 <center> **Eg vil so gjerne syngja**
 <br>100 kroner
 ----
@@ -105,7 +114,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1qmTKgdCDSku-qXBT2Jywgjm80XygQSbB" alt="Kva skal vi med sidemål?">
+<img src="bok-sidemaal.png" alt="Kva skal vi med sidemål?">
 <center> **Kva skal vi med sidemål?**
 <br>100 kroner
 ----
@@ -113,7 +122,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1maDmWCs-40VE6u3XF8pQnYIIYas9HBX2" alt="Motmæle">
+<img src="motmaeleabo.png" alt="Motmæle">
 <center> **Motmæle-abonnement**
 <br>200 kroner for eitt år
 ----
