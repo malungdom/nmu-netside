@@ -3,6 +3,7 @@ _model: page-advanced
 tittel: Personvern
 ---
 ingress:
+
 Norsk Målungdom handsamar personopplysningar. Her kan du lese personvernerklæringa vår, som seier noko om korleis vi handsamar personopplysningar, og kva rettar du har.
 
 ---
@@ -10,6 +11,7 @@ tekst:
 
 #### text-block ####
 content:
+
 Personvernerklæring
 =========
 
@@ -148,8 +150,8 @@ content:
 Kontakt oss
 =========
 
-Du kan kreve innsyn i kva personopplysningar vi har lagra om deg. Du kan kreve å flytte dei, du kan kreve at vi slettar dei, og du kan kreve at vi rettar på opplysningane viss dei er feil.
-Ta kontakt med oss for å be om innsyn, melde endringar eller viss du vil vi skal slette personopplysningane om deg frå registera våre. 
+Du kan krevja innsyn i kva personopplysningar vi har lagra om deg. Du kan krevja å flytta dei, du kan krevja at vi slettar dei, og du kan krevja at vi rettar på opplysningane viss dei er feil.
+Ta kontakt med oss for å be om innsyn, melda endringar eller viss du vil vi skal sletta personopplysningane om deg frå registera våre. 
 
 <form method="POST" action="/cgi-bin/send.py?_type=kontakt"
   data-type="kontakt" data-success="Innsendt!">
@@ -165,5 +167,7 @@ Ta kontakt med oss for å be om innsyn, melde endringar eller viss du vil vi ska
   <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
   <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJEAUJ2icigBG4"></div>
 </form>
+----
+class: box
 ---
 toppbilete: none

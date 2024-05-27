@@ -137,7 +137,6 @@ Behandlingsansvarleg for innsamla personopplysningar er seljaren. Med mindre kj�
 Klager skal rettast til seljaren innan rimeleg tid, sjå punkt 9 og 10. Partane skal forsøke å løyse eventuelle tvistar i minnelegheit. Dersom dette ikkje lukkast, kan kjøparen ta kontakt med Forbrukarrådet for mekling. Forbrukarrådet er tilgjengeleg på telefon 23 400 500 eller forbrukerradet.no.
 
 Europakommisjonen si klageportal kan òg nyttast dersom du ønskjer å leggje inn ein klage. Det er særleg relevant, dersom du er forbrukar busett i eit anna EU-land. Klagen blir lagt inn her: http://ec.europa.eu/odr.
-
 ----
 class: big-box
 #### text-block ####
@@ -146,8 +145,8 @@ content:
 Kontakt oss
 =========
 
-Du kan kreve innsyn i kva personopplysningar vi har lagra om deg. Du kan kreve å flytte dei, du kan kreve at vi slettar dei, og du kan kreve at vi rettar på opplysningane viss dei er feil.
-Ta kontakt med oss for å be om innsyn, melde endringar eller viss du vil vi skal slette personopplysningane om deg frå registera våre. 
+Du kan krevja innsyn i kva personopplysningar vi har lagra om deg. Du kan krevja å flytta dei, du kan krevja at vi slettar dei, og du kan krevja at vi rettar på opplysningane viss dei er feil.
+Ta kontakt med oss for å be om innsyn, melda endringar eller viss du vil vi skal sletta personopplysningane om deg frå registera våre. 
 
 <form method="POST" action="/cgi-bin/send.py?_type=kontakt"
   data-type="kontakt" data-success="Innsendt!">
