@@ -20,7 +20,7 @@ content:
 class: box
 #### text-block ####
 content:
-<img src="https://drive.google.com/uc?export=view&id=1uzfBqKKKt2iBq0zvfDRVq9ZmNu3cCN9X" alt="Hallingdal Målungdom">
+<img src="hallingdal.jpg" alt="Hallingdal Målungdom">
 ==
 **Stad:** Hemsedal i Viken <br>
 **Leiar:** Helene Astrid Hillestad Brennhovd<br>
@@ -33,7 +33,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1hDww7mfnw8E4Xec9HMqrdq622Iq7mVbg" alt="Firda Målungdom">
+<img src="firda.jpg" alt="Firda Målungdom">
 ==
 **Stad:** Firda vgs, Gloppen i Vestland <br>
 **Leiar:** Ingeborg Henden Fridtun <br>
@@ -46,7 +46,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1qvEtGaKTnQq0r1b7HQlCs9-e5jTSPtxQ" alt="Vika Målungdom">
+<img src="vika.jpg" alt="Vika Målungdom">
 ==
 **Stad:** Oslofjorden/Akershus <br>
 **Leiar:** Weronika Margol <br>
@@ -59,7 +59,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1ceTv9ugu_SUwiGeUtXE21UZY6BQ2sLRo" alt="Fron Målungdom">
+<img src="fron.jpg" alt="Fron Målungdom">
 ==
 **Stad:** Vinstra i Innlandet <br>
 **Leiar:** Janne Urkegjerde <br>
@@ -72,7 +72,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1pBl59KBJKjP5Swi2Vwj9-cCXKsClXM0f" alt="Katta Målungdom">
+<img src="katta.jpg" alt="Katta Målungdom">
 ==
 **Stad:** Oslo katedralskole <br>
 **Leiar:** Ingrid Renata Nielsen<br>
@@ -85,7 +85,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1WeWYwwTlG0ZG_tSPMY0yaGST3dzVsY0j" alt="Studentmållaget i Agder">
+<img src="smia.jpg" alt="Studentmållaget i Agder">
 ==
 **Stad:** Kristiansand i Agder
 <br>**Leiar:** Nora Tangen Aarskog
@@ -97,7 +97,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1KVrb8XwkFsJYiR2-on9CVZWehXB1jfo-" alt="Studentmållaget i Bergen">
+<img src="smib.jpg" alt="Studentmållaget i Bergen">
 ==
 **Stad:** Bergen i Vestland
 <br>**Leiar:** Stina Ringdal Strøm
@@ -109,7 +109,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1jrCmv7B0p0MjFrsVhUJAOm6Ivx0vgHz6" alt="Studentmållaget i Nidaros">
+<img src="smin.jpg" alt="Studentmållaget i Nidaros">
 ==
 **Stad:** Trondheim i Trøndelag
 <br>**Leiar:** Marit Ping Bersås
@@ -121,7 +121,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=15iHaN7i584t6tTS3x8NqK-7TeetV8zXx" alt="Studentmållaget i Oslo">
+<img src="smio.jpg" alt="Studentmållaget i Oslo">
 ==
 **Stad:** Oslo
 <br>**Leiar:** Helena Kverneland
@@ -147,7 +147,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1MhZoYnz-CylWZ8zbSrogSa9RPrZi0KQ9" alt="Studentmållaget i Tromsø">
+<img src="smit.jpg" alt="Studentmållaget i Tromsø">
 ==
 **Stad:** Tromsø i Troms og Finnmark
 <br>**Leiar:** Sabina Fosse Hansen
@@ -159,7 +159,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1WbPLI1ME8rgLlomXT9wYnMUucj0fLMtf" alt="Studentmållaget i Volda">
+<img src="smiv.jpg" alt="Studentmållaget i Volda">
 ==
 **Stad:** Volda i Møre og Romsdal
 <br>**Leiar:** Andrine Gald Myklebust
@@ -171,7 +171,7 @@ class: box
 #### text-block ####
 content:
 
-<img src="https://drive.google.com/uc?export=view&id=1bhdYLtWTyeRh2j-8_FCDUZOmOFDqfAN-" alt="Trøndersk Målungdom">
+<img src="trondersk.jpg" alt="Trøndersk Målungdom">
 ==
 **Stad:** Trondheim i Trøndelag
 <br>**Leiar:** Ina Benedicte Aune
