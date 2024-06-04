@@ -1,0 +1,94 @@
+_model: page-advanced
+---
+oversikt_skjult: yes
+---
+tittel: Vervekampanjen 2024
+---
+ingress:
+
+<center> Vervekampanjen 2024 varar frå 19. august til 8. september. <br><br>
+</center>
+
+
+
+<center><a href="/meld-deg-inn" class="button bli-medlem-stor">Verv ein ven!</a></center>
+---
+tekst:
+
+#### text-block ####
+content:
+
+Om vervekampanjen
+=======
+Gjer ein innsats for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk!
+
+Kampanjen varer frå 19. august til 8. september, og om du vervar nokon i denne perioden, samlar du vervepoeng. Kvar verving gjev eitt vervepoeng Dei kan du bruke til å handle premiane du ser på sida her!
+
+- **[Her finn du svar på ofte stilte spørsmål om vervekampanjen.](oss)**
+- **[Her finn du kontaktinformasjon til lokallaga.](/lokallag/lokallag)**
+
+Korleis verve?
+======
+
+Det er to måtar å verve på: Nettsida og SMS. Medlemspengane må vere betalt for at vervinga skal bli gjeldande.
+<br>- **Nettsida**: Be personen du vervar om å melde seg inn [her](/meld-deg-inn). Der kan ein mellom anna betala automatisk med Vipps. Om du som fyller ut skjemaet ikkje skal betala medlemspengane, vel "Papirfaktura".
+
+Lokallagskonkurranse
+========
+
+Kva lokallag vervar flest?
+Studentmållaga og elevmållaga kjempar om kvart sitt gåvekort på gratis tilskiping for medlemmane.
+Lokallaget ditt får utteljing for kvar ny medlem som vert
+verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
+deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
+ditt i kampen mot dei andre lokallaga eller studentmållaga.
+----
+class: big-box
+#### text-block ####
+content:
+
+Vervepremiar
+=========== 
+Premielista kjem
+----
+class: box
+#### text-block ####
+content:
+
+Vervetoppen
+========
+<style>
+.toppen {
+  border: 0;
+  width: 100%;
+  height: 500px;
+}
+</style>
+<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2024-08-18&to=2023-09-09"></iframe>
+
+
+Elevmållaga
+========
+(blir oppdatert kvar vyrkedag)
+- Katten Målungdom: **0** vervingar
+- Molde Målungdom: **0** vervingar
+- Firda Målungdom: **0** vervingar
+- Fron Målungdom: **0** vervingar
+- Trøndersk Målungdom: **0** vervingar
+
+Studentmållaga
+=======
+(blir oppdatert kvar vyrkedag)
+- Studentmållaget i Nidaros: **0** vervingar
+- Studentmållaget i Oslo: **0** vervingar
+- Studentmållaget i Tromsø: **0** vervingar
+- Studentmållaget i Bergen: **0** vervingar
+- Studentmållaget i Volda: **0** vervingar
+- Studentmållaget i Agder: **0** vervingar
+- Studentmållaget i Rauland: : **0** vervingar
+----
+class: box
+---
+class: box
+---
+toppbilete: None
