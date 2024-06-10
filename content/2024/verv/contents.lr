@@ -1,6 +1,6 @@
 _model: page-advanced
 ---
-oversikt_skjult: yes
+oversikt_skjult: no
 ---
 tittel: Vervekampanjen 2024
 ---
@@ -91,4 +91,4 @@ class: box
 ---
 class: box
 ---
-toppbilete: <img src="verv24toppbilete.png" alt="Toppbilete av gode vervarar">
+toppbilete: toppbilete.jpg
