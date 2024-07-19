@@ -90,22 +90,6 @@ class: box
 #### text-block ####
 content:
 
-<img src="pennal.png" alt="Pennal">
-<center> **Pennal**
-<br>60 kroner 
-----
-class: box
-#### text-block ####
-content:
-
-<img src="kopp.png" alt="Kopp">
-<center> **Kopp**
-<br>100 kroner 
-----
-class: box
-#### text-block ####
-content:
-
 <img src="bok-syngja.png" alt="Eg vil so gjerne syngja">
 <center> **Eg vil so gjerne syngja**
 <br>100 kroner
