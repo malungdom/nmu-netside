@@ -82,6 +82,30 @@ class: box
 #### text-block ####
 content:
 
+<img src="trondersk.jpg" alt="Trøndersk Målungdom">
+==
+**Stad:** Trondheim i Trøndelag
+<br>**Leiar:** Ina Benedicte Aune
+<br>**Kontakt:** [trondersk@malungdom.no](mailto:trondersk@malungdom.no)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/tronderskmalungdom/) ∙ [Facebook](https://www.facebook.com/Trondersk.MU)
+----
+class: box
+#### text-block ####
+content:
+<img src="aas.jpg" alt="Ås Studentmållag">
+==
+**Stad:** Ås <br>
+**Leiar:** Ragnhild Sunde Stokke <br>
+**Kontakt:** [studentmallag@gmail.com](mailto:studentmallag@gmail.com)
+
+**Finn dei på:**<br>
+[Instagram](https://www.instagram.com/aasstudentmaallag/) ∙ [Facebook](https://www.facebook.com/groups/aas.studentmaalag/)
+----
+class: box
+#### text-block ####
+content:
+
 <img src="smia.jpg" alt="Studentmållaget i Agder">
 ==
 **Stad:** Kristiansand i Agder
@@ -165,17 +189,6 @@ content:
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/studentmallagetvolda/) ∙ [Facebook](https://www.facebook.com/SmiVolda)
 ----
 class: box
-#### text-block ####
-content:
 
-<img src="trondersk.jpg" alt="Trøndersk Målungdom">
-==
-**Stad:** Trondheim i Trøndelag
-<br>**Leiar:** Ina Benedicte Aune
-<br>**Kontakt:** [trondersk@malungdom.no](mailto:trondersk@malungdom.no)
-
-**Finn dei på:**<br> [Instagram](https://www.instagram.com/tronderskmalungdom/) ∙ [Facebook](https://www.facebook.com/Trondersk.MU)
-----
-class: box
 ---
 toppbilete: none
