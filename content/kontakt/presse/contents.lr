@@ -8,7 +8,7 @@ ingress:
 
 Her finn du pressemeldingar Norsk Målungdom har sendt til pressa, og kontaktinfo. 
 ---
-tekst: 
+tekst:
 
 #### text-block ####
 content:
@@ -16,17 +16,17 @@ content:
 Pressekontakt
 ====
 
-**Tobias Christensen Eikeland**, leiar<br>
-E-post: [tobias@malungdom.no](mailto:tobias@malungdom.no)<br>
-Telefon: [94 89 49 69](tel:+4794894969)<br>
+**Sebastian Vinsent Natvik**, leiar<br>
+E-post: [sebastian@malungdom.no](mailto:sebastian@malungdom.no)<br>
+Telefon: [99 50 80 11](tel:+4799508011)<br>
 Ta kontakt på <a href="mailto:norsk@malungdom.no">norsk@malungdom.no</a> for pressebilete.  
 ----
 class: big-box
-
 #### subpage-block ####
+description: 
+----
 for_underside: pressemeldingar
 ----
-classes: box
+maks: 
 ----
-
-
+classes: box
