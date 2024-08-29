@@ -27,22 +27,13 @@ content:
 <br><small>Storleik 35–38, 39–42, 43–46</small>
 ----
 class: box
-<!---#### text-block ####
-content:
-
-<img src="genser.png" alt="Ivar Aasen-genser">
-<center> **Genser: Reiseruta til Ivar Aasen**
-<br>350 kroner
-<br><small>Storleik S</small>
-----
-class: box
 #### text-block ####
 content:
 
 <img src="tskjortekvit.png" alt="Kvit t-skjorte: nynorsk.">
 <center> **T-skjorte: nynorsk., kvit**
 <br>170 kroner
-<br><small>Storleik XS, S, M, L, XL, XXL</small>
+<br><small>Storleik XS, M, XL, XXL</small>
 ----
 class: box
 #### text-block ####
