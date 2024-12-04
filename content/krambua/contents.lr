@@ -24,7 +24,7 @@ content:
 <img src="sokkar.png" alt="«Gå for nynorsken»-sokkar">
 <center> **«Gå for nynorsken»-sokkar**
 <br>70 kroner
-<br><small>Storleik 35–38, 39–42, 43–46</small>
+<br><small>Storleik 35–38, 43–46</small>
 ----
 class: box
 #### text-block ####
@@ -33,16 +33,7 @@ content:
 <img src="tskjortekvit.png" alt="Kvit t-skjorte: nynorsk.">
 <center> **T-skjorte: nynorsk., kvit**
 <br>170 kroner
-<br><small>Storleik XS, M, XL, XXL</small>
-----
-class: box
-#### text-block ####
-content:
-
-<img src="tskjortesvart.png" alt="Svart t-skjorte: nynorsk.">
-<center> **T-skjorte: nynorsk., svart**
-<br>170 kroner
-<br><small>Storleik XS, S, M, L, XL, XXL</small>
+<br><small>Storleik XS, XL, XXL</small>
 ----
 class: box
 #### text-block ####
@@ -59,14 +50,6 @@ content:
 <img src="elskahandlenett.png" alt="Elska handlenett">
 <center> **Elska handlenett**
 <br>60 kroner 
-----
-class: box
-#### text-block ####
-content:
-
-<img src="jakkemerke.png" alt="Jakkemerke">
-<center> **Jakkemerke**
-<br>5 kroner (20 stk for 50 kroner)
 ----
 class: box
 #### text-block ####
