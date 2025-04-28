@@ -55,6 +55,14 @@ class: box
 #### text-block ####
 content:
 
+<img src="jakkemerke.png" alt="Jakkemerke">
+<center> **Jakkemerke**
+<br>5 kroner (20 stk for 50 kroner)
+----
+class: box
+#### text-block ####
+content:
+
 <img src="bok-syngja.png" alt="Eg vil so gjerne syngja">
 <center> **Eg vil so gjerne syngja**
 <br>100 kroner
