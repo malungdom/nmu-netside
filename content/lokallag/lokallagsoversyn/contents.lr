@@ -8,6 +8,7 @@ tekst:
 
 #### text-block ####
 content:
+
 <img src="katten.jpg" alt="Katten Målungdom">
 ==
 **Stad:** Bergen katedralskole <br>
@@ -20,6 +21,7 @@ content:
 class: box
 #### text-block ####
 content:
+
 <img src="hallingdal.jpg" alt="Hallingdal Målungdom">
 ==
 **Stad:** Hemsedal i Viken <br>
@@ -44,14 +46,14 @@ class: box
 #### text-block ####
 content:
 
-<img src="vika.jpg" alt="Vika Målungdom">
+<img src="grappamu.jpg" alt="Grappa Målungdom">
 ==
 **Stad:** Oslofjorden/Akershus <br>
-**Leiar:** Weronika Margol <br>
-**Kontakt:** [vika@malungdom.no](mailto:vika@malungdom.no)
+**Leiar:** Agnes Mathilde Granli Lægreid <br>
+**Kontakt:** [grappa@malungdom.no](mailto:grappa@malungdom.no)
 
 **Finn dei på:** <br>
-[Facebook](https://www.facebook.com/Akershusmalungdom/)
+[Instagram](https://www.instagram.com/grappa.malungdom/)
 ----
 class: box
 #### text-block ####
@@ -93,6 +95,7 @@ content:
 class: box
 #### text-block ####
 content:
+
 <img src="aas.jpg" alt="Ås Studentmållag">
 ==
 **Stad:** Ås <br>
@@ -151,7 +154,6 @@ content:
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/studentmallaget/) ∙ [Facebook](https://www.facebook.com/Studentmallaget)
 ----
 class: box
-
 #### text-block ####
 content:
 
@@ -164,7 +166,6 @@ Studentmållaget i Rauland
 **Finn dei på:**<br> [Instagram]() ∙ [Facebook]()
 ----
 class: box
-
 #### text-block ####
 content:
 
@@ -183,12 +184,10 @@ content:
 <img src="smiv.jpg" alt="Studentmållaget i Volda">
 ==
 **Stad:** Volda i Møre og Romsdal
-<br>**Leiar:** Andrine Gald Myklebust
 <br>**Kontakt:** [smiv@malungdom.no](mailto:smiv@malungdom.no)
 
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/studentmallagetvolda/) ∙ [Facebook](https://www.facebook.com/SmiVolda)
 ----
 class: box
-
 ---
 toppbilete: none
