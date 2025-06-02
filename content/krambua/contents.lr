@@ -7,6 +7,15 @@ ingress:
 <center> Kjøp tilfang frå Norsk Målungdom. Nedst på sida finn du skjema der du legg inn bestillinga di. Porto kjem i tillegg, vanlegvis på 30 eller 50 kr. 
 
 ---
+tekst:
+#### text-block ####
+content:
+
+<img src="sogehefte.png" alt="Ung målstrid. Norsk Målungdom 60 år">
+<center> **Ung målstrid. Norsk Målungdom 60 år**
+<br>249 kroner</div>
+<small>Norsk Målungdom har runda seksti år. Dette sogeheftet fortel om ideologiske og politiske kampar og stridsspørsmål, men òg om medlemer, aksjonistar og tillitsvalde. Innheld artiklar av Eli Morken Farstad, Magnus Bernhardsen, Øystein Edvardsen Hide, Oddrun Grønvik, Jens Kihl, Rolf Theil og Magnus Løken. Dette gjev eit historisk blikk både frå innsida og utsida.</small>
+----
 class: box
 
 #### text-block ####
@@ -42,15 +51,6 @@ content:
 <img src="jakkemerke.png" alt="Jakkemerke">
 <center> **Jakkemerke**
 <br>7 kroner (20 stk for 100 kroner)
-----
-tekst:
-#### text-block ####
-content:
-
-<img src="sogehefte.png" alt="Ung målstrid. Norsk Målungdom 60 år">
-<center> **Ung målstrid. Norsk Målungdom 60 år**
-<br>249 kroner</div>
-<small>Norsk Målungdom har runda seksti år. Dette sogeheftet fortel om ideologiske og politiske kampar og stridsspørsmål, men òg om medlemer, aksjonistar og tillitsvalde. Innheld artiklar av Eli Morken Farstad, Magnus Bernhardsen, Øystein Edvardsen Hide, Oddrun Grønvik, Jens Kihl, Rolf Theil og Magnus Løken. Dette gjev eit historisk blikk både frå innsida og utsida.</small>
 ----
 class: box
 #### text-block ####
