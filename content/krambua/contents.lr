@@ -56,6 +56,15 @@ class: box
 #### text-block ####
 content:
 
+<img src="sogehefte.png" alt="Ung målstrid. Norsk Målungdom 60 år">
+<center> **Ung målstrid. Norsk Målungdom 60 år**
+<br>249 kroner
+<br><small>Norsk Målungdom har runda seksti år. Dette sogeheftet fortel om ideologiske og politiske kampar og stridsspørsmål, men òg om medlemer, aksjonistar og tillitsvalde. Innheld artiklar av Eli Morken Farstad, Magnus Bernhardsen, Øystein Edvardsen Hide, Oddrun Grønvik, Jens Kihl, Rolf Theil og Magnus Løken. Dette gjev eit historisk blikk både frå innsida og utsida.</small>
+----
+class: box
+#### text-block ####
+content:
+
 <img src="bok-syngja.png" alt="Eg vil so gjerne syngja">
 <center> **Eg vil so gjerne syngja**
 <br>100 kroner
