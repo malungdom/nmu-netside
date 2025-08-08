@@ -1,0 +1,99 @@
+_model: page-advanced
+---
+oversikt_skjult: no
+---
+tittel: Vervekampanjen 2025
+---
+ingress:
+
+<center> Vervekampanjen 2025 varar frå 11. august til 21. september. <br><br>
+</center>
+
+
+
+<center><a href="/meld-deg-inn" class="button bli-medlem-stor">Verv ein ven!</a></center>
+---
+tekst:
+
+#### text-block ####
+content:
+
+Om vervekampanjen
+=======
+Gjer ein innsats for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk!
+
+Kampanjen varer frå 11. august til 21. september, og om du vervar nokon i denne perioden, samlar du vervepoeng. Kvar verving gjev eitt vervepoeng. Dei kan du bruke til å handle premiane du ser på sida her!
+(Hei, mobilbrukarar! Sjå nedanfor for premielista!)
+
+- **[Her finn du svar på ofte stilte spørsmål om vervekampanjen.](oss)**
+- **[Her finn du kontaktinformasjon til lokallaga.](/lokallag/lokallag)**
+
+Korleis verve?
+======
+<br>Be personen du vervar om å melde seg inn [her](/meld-deg-inn). Ein kan berre betala med Vipps på nettsida. Dersom skjemaet ikkje skulle fungere eller om ein vil betala på ein annan måte er det og høve for å melda seg inn gjennom SMS med kodeord NMU + namn + fødeår + postadresse + e-post til 2090 (50 kr.) Medlemspengane må vere betalt for at vervinga skal bli gjeldande.
+
+Lokallagskonkurranse
+========
+
+Kva lokallag vervar flest?
+Studentmållaga og elevmållaga kjempar om kvart sitt gåvekort på gratis tilskiping for medlemmane.
+Lokallaget ditt får utteljing for kvar ny medlem som vert
+verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
+deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
+ditt i kampen mot dei andre lokallaga eller studentmållaga.
+
+Vervetoppen
+========
+<style>
+.toppen {
+  border: 0;
+  width: 100%;
+  height: 500px;
+}
+</style>
+<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2025-08-10&to=2025-09-21"></iframe>
+
+
+Elevmållaga
+========
+(blir oppdatert kvar vyrkedag)
+- Katten Målungdom: **0** vervingar
+- Molde Målungdom: **0** vervingar
+- Firda Målungdom: **0** vervingar
+- Fron Målungdom: **0** vervingar
+- Trøndersk Målungdom: **0** vervingar
+- Ålesund Målungdom: **0** vervingar
+
+Studentmållaga
+=======
+(blir oppdatert kvar vyrkedag)
+- Studentmållaget i Agder: **0** vervingar
+- Studentmållaget i Bergen: **0** vervingar
+- Studentmållaget i Nidaros: **0** vervingar
+- Studentmållaget i Oslo: **0** vervingar
+- Studentmållaget i Rauland: **0** vervingar
+- Studentmållaget i Stavanger: **0** verving
+- Studentmållaget i Tromsø: **0** vervingar
+- Studentmållaget i Volda: **0** vervingar
+- Ås Studentmållag: **0** vervingar
+----
+class: big-box
+#### text-block ####
+content:
+
+Vervepremiar
+=========== 
+- **1 vervepoeng**: Bøttehatt: «kjærleik» på anten nordsamisk, sørsamisk, lulesamisk, eller kvensk
+- **2 vervepoeng**: «Gå for nynorsken»-sokkar
+- **3 vervepoeng**: Handlenett: «Kulturberar» (nye design!)
+- **4 vervepoeng**: Ivar Aasen-boksar
+- **5 vervepoeng**: «nynorsk.»-t-skjorte
+- **6 vervepoeng**: Hettegenser med reiseruta til Ivar Aasen
+- **10 vervepoeng**: Gåvekort på Samlaget eller Storytel
+- **13 vervepoeng**: To festivalpass til nynorskfestival! (t.d Vinjerock, Malakoff, eller Fres)
+----
+class: box
+---
+class: box
+---
+toppbilete: toppbilete.jpg
