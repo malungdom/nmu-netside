@@ -1,0 +1,115 @@
+_model: page-advanced
+---
+oversikt_skjult: no
+---
+tittel: Vervekampanjen 2025
+---
+ingress:
+
+<center> Vervekampanjen 2025 varar frå 11. august til 21. september. <br><br>
+</center>
+
+
+
+<center><a href="/meld-deg-inn" class="button bli-medlem-stor">Verv ein ven!</a></center>
+---
+tekst:
+
+#### text-block ####
+content:
+
+Om vervekampanjen
+=======
+Gjer ein innsats for målsaka! Verv vener, sysken, klasse- eller studiekameratar og andre kjende. Slik kan DU gjere Norsk Målungdom til ein større og sterkare organisasjon. Det er på den måten me kan få endå meir gjennomslag for god språkpolitikk!
+
+Kampanjen varer frå 11. august til 21. september, og om du vervar nokon i denne perioden, samlar du vervepoeng. Kvar verving gjev eitt vervepoeng. Dei kan du bruke til å handle premiane du ser på sida her!
+(Hei, mobilbrukarar! Sjå nedanfor for premielista!)
+
+- **[Her finn du svar på ofte stilte spørsmål om vervekampanjen.](oss)**
+- **[Her finn du kontaktinformasjon til lokallaga.](/lokallag/lokallag)**
+
+Korleis verve?
+======
+<br>Be personen du vervar om å melde seg inn [her](/meld-deg-inn). Ein kan berre betala med Vipps på nettsida. Dersom skjemaet ikkje skulle fungere eller om ein vil betala på ein annan måte er det og høve for å melda seg inn gjennom SMS med kodeord NMU + namn + fødeår + postadresse + e-post til 2090 (50 kr.) Medlemspengane må vere betalt for at vervinga skal bli gjeldande.
+
+Lokallagskonkurranse
+========
+
+Kva lokallag vervar flest?
+Studentmållaga og elevmållaga kjempar om kvart sitt gåvekort på gratis tilskiping for medlemmane.
+Lokallaget ditt får utteljing for kvar ny medlem som vert
+verva av nokon i laget. Det vil seie at den du vervar, både gjev utteljing for
+deg som einskildmedlem når det gjeld kva vervepremiar du kan få, og for laget
+ditt i kampen mot dei andre lokallaga eller studentmållaga.
+
+Vervetoppen
+========
+Dersom du har verva nokon som er over 26 år, vert dei ståande som "ikkje teljande", du får framleis vervepoeng for desse.
+<style>
+.toppen {
+  border: 0;
+  width: 100%;
+  height: 500px;
+}
+</style>
+<iframe class="toppen" src="https://medlem.malungdom.no/stats/vervetopp/?from=2025-08-10&to=2025-09-21"></iframe>
+
+
+Elevmållaga
+========
+(blir oppdatert kvar vyrkedag)
+- Katten Målungdom: **13** vervingar
+- Grappa Målungdom: **9** vervingar
+- Firda Målungdom: **2** vervingar
+- Fron Målungdom: **1** vervingar
+- Molde Målungdom: **0** vervingar
+- Trøndersk Målungdom: **0** vervingar
+- Ålesund Målungdom: **0** vervingar
+
+Studentmållaga
+=======
+(blir oppdatert kvar vyrkedag)
+- Studentmållaget i Bergen: **17** vervingar
+- Studentmållaget i Oslo: **15** vervingar
+- Studentmållaget i Nidaros: **5** vervingar
+- Studentmållaget i Agder: **1** verving
+- Studentmållaget i Volda: **2** vervingar
+- Studentmållaget i Rauland: **0** vervingar
+- Studentmållaget i Stavanger: **0** verving
+- Studentmållaget i Tromsø: **0** vervingar
+- Ås Studentmållag: **0** vervingar
+----
+class: big-box
+#### text-block ####
+content:
+
+Vervepremiar
+=========== 
+- **1 vervepoeng**: Bøttehatt: «kjærleik» på anten nordsamisk, sørsamisk, lulesamisk, eller kvensk
+<img src="byttehatt.jpg" alt="«Bøttehatt: «kjærleik» på anten nordsamisk, sørsamisk, lulesamisk, eller kvensk">
+- **2 vervepoeng**: Sokkar, flaske eller pennal
+<img src="sokkar.jpg" alt="«Gå for nynorsken»-sokkar">
+<img src="flaska.jpg" alt="«Flaska: drikkeflaske»">
+<img src="pennal.jpg" alt="Pennal">
+- **3 vervepoeng**: Handlenett: «Kulturberar» (nye design!)
+<img src="raud.jpg" alt="Raudt handlenett med nytt design">
+<img src="gron.jpg" alt="Grønt handlenett med nytt design">
+<img src="kvit.jpg" alt="Kvitt handlenett med nytt design">
+- **4 vervepoeng**: T-skjorte: «nynorsk.» eller «Mangfald for faen!»
+<img src="nynorskt-kvit.jpg" alt="T-skjorte: «nynorsk.»">
+<img src="nynorskt-svart.jpg" alt="T-skjorte: «nynorsk.»">
+<img src="mangfaldt.jpg" alt="T-skjorte: «Mangfald for faen!»">
+- **4 vervepoeng**: Bok: Ung Målstrid i 60 år
+<img src="jubileum.jpg" alt="Bok: Ungd Målstrid i 60 år">
+- **5 vervepoeng**: Hettegenser med reiseruta til Ivar Aasen
+<img src="reiseruta.jpg" alt="Hettegenser med reiseruta til Ivar Aasen">
+- **10 vervepoeng**: Gåvekort på Samlaget
+<img src="samlaget.jpg" alt="Gåvekort på Samlaget">
+- **13 vervepoeng**: To festivalpass til nynorskfestival! (t.d Vinjerock, Malakoff, eller Fres)
+<img src="vinjerock.jpg" alt="Festivalpass">
+----
+class: box
+---
+class: box
+---
+toppbilete: toppbilete.jpg
