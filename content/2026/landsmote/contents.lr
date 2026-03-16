@@ -1,3 +1,104 @@
-_model: redirect
+_model:
+
+page-advanced
+
 ---
-target: https://lm25.malungdom.no/
+tittel: Landsmøtet 2026
+---
+ingress:
+
+Velkommen til landsmøtet i Norsk Målungdom, 20. til 22. mars 2026!
+
+---
+tekst:
+
+#### text-block ####
+content:
+
+Praktisk
+=======
+**Kvar**: [St. Paul skole](https://kart.1881.no?lat=60.3887901306152&lon=5.32359075546265&z=17&v=&r=100356053S2&o=&layer=)
+
+**Når:** 20.-22. mars 2026
+
+**Påmelding:** [Meld deg på så fort som mogleg, dersom du veit at du er utsending/observatør.](https://docs.google.com/forms/d/e/1FAIpQLSfty8UDfpQ8M5VO9kxAQ7JFKcNm92yLGsPJMOawP_cqpzrfSA/viewform?usp=sf_link)
+
+**Utloger:** Det er inga deltakaravgift for å delta på landsmøtet. Dei lokallaga som ikkje har monalege inntekter utanom Frifond, kan få dekt reiseutlogene sine av sentrallekken.
+
+**Reise:** Vi ser helst at dei som kan bestiller reise sjølv, og seinare får tilbakebetalt reiseutlogene. Om du treng hjelp til bestilling av reise kan du ta kontakt med skrivarstova på e-post, [norsk@malungdom.no](mailto:norsk@malungdom.no) <em>
+</em>
+
+**Overnatting og mat**: Det er overnatting i sovesal. Hugs liggjeunderlag og sovepose el.l. Om du har ønskjer til overnattinga, kan du skrive det i påmeldingsskjemaet. Alle måltid er inkludert, hugs å skrive i påmeldingsskjemaet om du har allergiar. 
+----
+class: box
+#### text-block ####
+content:
+
+Saker og køyreplan
+=======
+
+**Innstillingar frå møtenemndene:** Innstillingane frå møtenemndene kjem når møtenemndene har nemnda.
+
+Her finn du alle [sakspapira](https://drive.google.com/file/d/1YoC_2D2ZbiyCsScQK9wc1VsUNnV4qcJr/view?usp=drive_link) samla. 
+
+<b>Endringsframleggsskjema og benkeskjema finn du <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMNg_1d-W2gg20GC36tGldAYnL85yXxTlK-kOClwRvAOQ3YA/viewform?usp=dialog">her</a>.</b><br/><br/>
+Årsmelding for arbeidsåret 2025-2026 kjem.
+
+**Dei opphavlege dokumenta finn du her:**
+<ul>
+<li><a href="/politikk/styringsdokument/lovene/">Lovene</a>
+<li><a href="/politikk/program/nynorsk-i-laerarutdanningane/">Program for nynorsk i lærarutdanningane</a>
+ </ul>
+
+----
+class: box
+
+#### text-block ####
+content:
+
+Fristar
+=======
+**[Send inn framlegg her.](https://docs.google.com/forms/d/e/1FAIpQLSeMNg_1d-W2gg20GC36tGldAYnL85yXxTlK-kOClwRvAOQ3YA/viewform?usp=dialog)**
+
+Nye (heile) fråsegner, og framlegg som av andre praktiske grunnar ikkje kan sendast gjennom skjemaet, kan sendast til [norsk@malungdom.no](mailto:norsk@malungdom.no).
+
+**8. februar 2026:**
+* Frist for å sende inn framlegg til lovendringar.
+* Frist for å sende inn framlegg til tuftendringar.
+* Frist for å sende inn framlegg til endringar i politiske program.
+* Frist for å sende inn framlegg til andre saker de vil ha opp på landsmøtet.
+* Framlegg til andre saker som kjem inn etter dette, må ha 2/3 fleirtal på landsmøtet for å bli handsama.
+
+**22. februar 2026**
+* Frist for å velje utsendingar til landsmøtet.
+* Påmeldingsfrist til landsmøtet. [Meld deg på her.](https://docs.google.com/forms/d/e/1FAIpQLSfty8UDfpQ8M5VO9kxAQ7JFKcNm92yLGsPJMOawP_cqpzrfSA/viewform?usp=sf_link)
+
+**15. mars 2026**
+<ul><li>Frist for å sende inn fråsegner til skrivarstova.</li></ul>
+
+Vil du eller lokallaget ditt fremje ei fråsegn til landsmøtet? Dokker kan lese tips til korleis ein skriv ei fråsegn i [Den vesle fråsegnsskulen](https://drive.google.com/a/malungdom.no/file/d/10Zo__GKPLp0Fl7g0ORRBDbHPk6OX4yBL/view?usp=sharing). Send fråsegna til [norsk@malungdom.no](mailto:norsk@malungdom.no).
+----
+class: box
+#### text-block ####
+content:
+
+Førebuing
+======
+Viss ein er på sitt første landsmøte kan det vere mykje å setje seg inn på ein gong. Her er nokre tips til kva du kan lese viss du ønskjer å vere godt budd. 
+
+[Politiske dokument og styringsdokument](https://malungdom.no/politikk/), som politiske program, tufta, lovene og fråsegner er dokument det kan vere kjekt å kjenne til før landsmøtet. 
+
+På landsmøtet nyttar ein seg av mange ord og uttrykk ein kanskje ikkje nyttar til dagleg. Er du litt usikker på kva eit endringsframlegg er, eller kva det vil seie å brigde noko? Sjekk ut [landsmøteordlista](ordliste).
+----
+class: box
+---
+oversikt_tittel:
+
+Landsmøte
+
+---
+oversikt_skjult: no
+---
+_discoverable: yes
+---
+_hidden: no
