@@ -618,10 +618,33 @@ img:not([src*='.svg']) {
   color-scheme: light dark;
   }
 }
+/* Cognito-form for reiserekningsskjema, CSS vibekoda av Sebastian, ikkje gjer som han!
 
+/* ========================================================== */
+/* GLOBALE STILAR (Gjeld for både lys og mørk modus)          */
+/* ========================================================== */
+
+/* Mjuke, avrunda hjørne for inndatafelt, knappar og signatur */
+.cog-cognito .el-input__inner,
+.cog-cognito .el-textarea__inner,
+.cog-signature__pad,
+.cog-button {
+  border-radius: 8px !important;
+}
+
+/* Mjuke hjørne for sjølve hovudskjemaet */
+.cog-form {
+  border-radius: 12px !important;
+  overflow: hidden; /* Syt for at innhaldet ikkje stikk utanfor ramma */
+}
+
+
+/* ========================================================== */
+/* MØRK MODUS                                                 */
+/* ========================================================== */
 @media (prefers-color-scheme: dark) {
-  /* 1. UNIVERSAL BACKGROUNDS */
-  /* This targets the container, the form, and every section inside it */
+  
+  /* 1. UNIVERSELLE BAKGRUNNAR */
   .cog-cognito, 
   .cog-form, 
   .cog-section, 
@@ -635,7 +658,7 @@ img:not([src*='.svg']) {
     border-color: #34383a !important;
   }
 
-  /* 2. UNIVERSAL TEXT (Headings, Labels, Instructions) */
+  /* 2. UNIVERSELL TEKST (Overskrifter, etikettar, instruksjonar) */
   .cog-cognito,
   .cog-page__title,
   .cog-section__heading,
@@ -643,7 +666,7 @@ img:not([src*='.svg']) {
   .cog-text,
   .cog-instruction,
   .cog-helptext,
-  .cog-page__header *, /* Catch-all for text inside headers */
+  .cog-page__header *,
   .el-checkbox__label,
   .el-radio__label {
     color: #ffffff !important;
@@ -651,7 +674,7 @@ img:not([src*='.svg']) {
     --label__font-color: #ffffff !important;
   }
 
-  /* 3. INPUT BOXES & TEXTAREAS */
+  /* 3. INNDATAFELT & TEKSTBOKSAR (Mørk bakgrunn) */
   .el-input__inner,
   .el-textarea__inner {
     background-color: #2a2d2e !important;
@@ -659,41 +682,59 @@ img:not([src*='.svg']) {
     border: 1px solid #44484a !important;
   }
 
-  /* 4. PLACEHOLDERS (The hint text inside boxes) */
+  /* 4. PLASSHALDARAR (Hjelpetekst inni boksane) */
   .cog-cognito ::placeholder {
     color: #aaaaaa !important;
     opacity: 1;
   }
 
-  /* 5. FIX FOR BUTTONS (Optional) */
-  /* If your buttons disappear, this ensures they stay visible */
+  /* 5. H2 OVERSKRIFTER OG KNAPPAR */
   .cog-button {
-    text-transform: none; /* Keeps your original casing */
+    text-transform: none; /* Tek vare på store/små bokstavar */
   }
-  /* This targets the H2 section titles like "Kven betala?" */
+  
   .cog-cognito h2, 
   .cog-cognito .cog-section__heading,
   .cog-cognito .cog-section__header {
     color: #ffffff !important;
   }
-  /* Target the signature footer area and every link/button inside it */
-  .cog-signature__footer,
-  .cog-signature__footer *, 
-  .cog-signature__toggle,
-  .cog-signature__toggle-item,
-  .cog-signature__footer-links a {
-    color: #000000 !important;
-    border-color: #ffffff !important;
-    opacity: 1 !important;
-  }
-  /* Specifically target the active state (the blue underlined one) */
-  .cog-signature__toggle-item.is-active,
-  .cog-signature__toggle-item:hover {
-    color: #000000 !important;
+
+  /* ========================================= */
+  /* 6. SIGNATURFELTET I MØRK MODUS            */
+  /* ========================================= */
+  .cog-cognito .cog-signature__pad {
+    background-color: #2a2d2e !important; /* Mørk bakgrunn */
+    color: #ffffff !important;             /* KVITT blekk */
+    border: 1px solid #44484a !important;
   }
 
-  /* Make sure the text 'tegne' and 'skrive inn' aren't being washed out */
-  .cog-signature .el-button--text {
-    color: #000000 !important;
+  /* 7. TEKST OG KNAPPAR I SIGNATURFELTET ("tegne", "skrive inn", 'X') */
+  .cog-signature button,
+  .cog-signature .cog-button,
+  .cog-signature .cog-button--link,
+  .cog-signature__clear,
+  .cog-signature button span,
+  .cog-signature button .el-icon-close {
+    color: #aaaaaa !important; /* Mjuk gråtekst */
   }
+  
+  /* Den aktive fanen (med blå strek under) vert heilt kvit */
+  .cog-signature button.is-active span,
+  .cog-signature button.is-active .el-icon-close {
+    color: #ffffff !important;
+  }
+}
+
+
+/* ========================================================== */
+/* LYS MODUS (Skuddsikker låsing av signaturfeltet)           */
+/* ========================================================== */
+@media (prefers-color-scheme: light) {
+  
+  .cog-cognito .cog-signature__pad {
+    background-color: #ffffff !important; /* Kvit bakgrunn */
+    color: #000000 !important;             /* SVART blekk */
+    border: 1px solid #cccccc !important;  /* Lys grå ramme */
+  }
+  
 }
