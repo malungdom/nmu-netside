@@ -2,7 +2,7 @@ _model: styrepersonliste
 ---
 tittel:
 
-Sentralstyret 2024-2025 
+Sentralstyret 2025-2026 
 ---
 tekst:
 
@@ -13,12 +13,6 @@ tittel: Leiar
 ----
 kortom: frå Alver, fødd 2003
 ----
-om: 
-----
-kontakt:
-
-E-post: [sebastian@malungdom.no](mailto:sebastian@malungdom.no)
-Telefon: [99 50 80 11](tel:+4799508011)
 #### styreperson ####
 namn: Synne Solberg
 ----
@@ -26,25 +20,13 @@ tittel: 1. nestleiar
 ----
 kortom: frå Sør-Fron, fødd 2002
 ----
-om: 
-----
-kontakt:
-
-E-post: [synne@malungdom.no](mailto:synne@malungdom.no)
-Telefon: [95 80 68 35](tel:+4795806835)
 #### styreperson ####
-namn: Janne Kristin Nordholmen Urkegjerde
+namn: Janne Kristin Urkegjerde
 ----
 tittel: 2. nestleiar
 ----
 kortom: frå Stranda, fødd 2005
 ----
-om: 
-----
-kontakt:
-
-E-post: [janne@malungdom.no](mailto:janne@malungdom.no)
-Telefon: [46 50 01 22](tel:+4746500122)
 #### styreperson ####
 namn: Johannes Rønning
 ----
@@ -52,12 +34,6 @@ tittel: Sentralstyremedlem
 ----
 kortom: frå Ørlandet, fødd 2002
 ----
-om: 
-----
-kontakt:
-
-E-post: [johannes@malungdom.no](mailto:johannes@malungdom.no)
-Telefon: [95 52 00 53](tel:+4795520053)
 #### styreperson ####
 namn: Elin Haugen Meldal
 ----
@@ -65,12 +41,6 @@ tittel: Sentralstyremedlem
 ----
 kortom: frå Nord-Fron, fødd 2002
 ----
-om: 
-----
-kontakt:
-
-E-post: [elin@malungdom.no](mailto:elin@malungdom.no)
-Telefon: [46 86 13 58](tel:+4746861358)
 #### styreperson ####
 namn: Endre Helland Gujord
 ----
@@ -78,9 +48,32 @@ tittel: Sentralstyremedlem
 ----
 kortom: frå Fana, fødd 2006
 ----
-om: 
+#### styreperson ####
+namn: Dina Kvittingen
 ----
-kontakt:
+tittel: Sentralstyremedlem
+----
+kortom: frå Samnanger, fødd 2007
+----
+#### styreperson ####
+namn: Sigrid Sofia Grip Skovly
+----
+tittel: Sentralstyremedlem
+----
+kortom: frå Nordre Follo, fødd 2000
+----
+#### styreperson ####
+namn: Maciej Łukasz Szymanski
+----
+tittel: Sentralstyremedlem
+----
+kortom: frå Ulsteinvik, fødd 2006
+----
 
-E-post: [endre@malungdom.no](mailto:endre@malungdom.no)
-Telefon: [94 85 01 09](tel:+4794850109)
+#### styreperson ####
+namn: Lauritz Dworak Senneseth
+----
+tittel: 1. vara
+----
+kortom: frå Bergen, fødd 2006
+----

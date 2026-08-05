@@ -1,0 +1,34 @@
+_model: page-advanced
+---
+tittel: Me søker frivillige til å laga medlemsbladet vårt Motmæle!
+---
+toppbilete: ingen
+---
+ingress: Send søknad eller spørsmål til norsk@malungdom.no innan 15. august.
+---
+tekst:
+
+#### text-block ####
+content:
+
+#Bladfyk
+
+Motmæle kjem ut to gonger i året og har eit lite bladstyre med 5-6 bladfykar (journalistar) og ein bladstyrar (redaktør). Det er fint om du har litt skriveerfaring, men det viktigaste er at du er innstilt på å produsere spennande stoff til kvart blad! Motmæle har ein blanding av saker som handlar om organisasjonen, om målsak elles, og litt ymse moro på nynorsk. Du bør vera interessert i å snakke med folk, glad i å ta bilete, ikkje redd for å ringe, god på fristar og glad i å skrive. Det er også veldig fint om du kan bidra med illustrasjonar!
+----
+class: box
+#### text-block ####
+content:
+
+# Bladstyrar
+
+Me treng også ein bladstyrar til å organisere jamnlege bladstyremøte, fordele saker mellom bladfykane og eksterne bidragsytarar, bistå og motivere bladfykane, og til slutt seta heile bladet saman. Det er ikkje forventa at bladstyrar skriv saker sjølv, anna enn leiaren, men elles er det ditt ansvar å fylle alle sidene med interessant stoff og balansere bilete, illustrasjonar og grafikk. Du bør like å ha overordna ansvar, delegere arbeid, gje ærlege tilbakemeldingar, redigere tekst og følge med på det som skjer i den unge målrørsla. Det er ein fordel om du har erfaring med journalistikk eller grafisk utforming og har eit stort nettverk av folk som kan tene som kjelder og bidragsytarar til bladet. Bladstyrarvervet blir honorert.
+----
+class: box
+---
+oversikt_tittel: 
+---
+_discoverable: yes
+---
+_hidden: no
+---
+oversikt_skjult: no
