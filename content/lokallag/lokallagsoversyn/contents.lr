@@ -5,7 +5,19 @@ tittel: Lokallag
 ingress: <center>Me har lokallag over heile landet. Her finn du eit oversyn over alle laga våre og korleis du kan koma i kontakt med dei!</center>
 ---
 tekst:
+#### text-block ####
+content:
 
+<img src="aasen.jpg" alt="Aasen Målungdom">
+==
+**Stad:** Ørsta og Volda <br>
+**Leiar:** Andreas Vadstein<br>
+**Kontakt:** [aasen@malungdom.no](mailto:aasen@malungdom.no)
+
+**Finn dei på:**<br>
+[Instagram](https://www.instagram.com/aasenmalungdom/)
+----
+class: box
 #### text-block ####
 content:
 
@@ -62,7 +74,7 @@ content:
 <img src="fron.jpg" alt="Fron Målungdom">
 ==
 **Stad:** Vinstra i Innlandet <br>
-**Leiar:** Åste Sulheim Viken <br>
+**Leiar:** Inga Marie Lauvstad Vestrum <br>
 **Kontakt:** [fron@malungdom.no](mailto:fron@malungdom.no)
 
 **Finn dei på:**<br>
@@ -99,7 +111,6 @@ content:
 <img src="aas.jpg" alt="Ås Studentmållag">
 ==
 **Stad:** Ås i Akershus <br>
-**Leiar:** Mikkel Teigen Refsnes <br>
 **Kontakt:** [studentmallag@gmail.com](mailto:studentmallag@gmail.com)
 
 **Finn dei på:**<br>
@@ -124,7 +135,7 @@ content:
 <img src="smib.jpg" alt="Studentmållaget i Bergen">
 ==
 **Stad:** Bergen i Vestland
-<br>**Leiar:** Stina Ringdal Strøm
+<br>**Leiar:** Pernille Bertelsen Fosse
 <br>**Kontakt:** [smib@malungdom.no](mailto:smib@malungdom.no)
 
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/smibergen/) ∙ [Facebook](https://www.facebook.com/SmiBergen)  ∙ [Nettstad](https://smib.no)
@@ -136,7 +147,7 @@ content:
 <img src="smin.jpg" alt="Studentmållaget i Nidaros">
 ==
 **Stad:** Trondheim i Trøndelag
-<br>**Leiar:** Borghild Kvæven
+<br>**Leiar:** Oliver Hovden
 <br>**Kontakt:** [smin@malungdom.no](mailto:smin@malungdom.no)
 
 **Finn dei på:**<br> [Instagram](https://www.instagram.com/sminidaros/) ∙ [Facebook](https://www.facebook.com/sminidaros)
@@ -160,7 +171,6 @@ content:
 Studentmållaget i Rauland
 ==
 **Stad:** Rauland
-<br>**Leiar:** Jori Gjelland Lid
 <br>**Kontakt:** [smir@malungdom.no](mailto:smir@malungdom.no)
 
 **Finn dei på:**<br> [Instagram]() ∙ [Facebook]()
