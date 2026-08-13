@@ -10,7 +10,7 @@ bilete: framsidebilete.jpg
 body:
 
 <h1>Velkomen til Norsk Målungdom</h1>
-<a href="/meld-deg-inn" target="_blank" class="button bli-medlem-stor">Bli medlem!</a>
+<a href="https://malungdom.hypersys.no/page/blimedlem/signup" target="_blank" class="button bli-medlem-stor">Bli medlem!</a>
 ---
 tekst:
 
