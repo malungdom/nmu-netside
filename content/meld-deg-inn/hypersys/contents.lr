@@ -13,6 +13,6 @@ content:
 
 <iframe class="hypersys-skjema" src="https://malungdom.hypersys.no/old/forms/innmeldingsskjema/iframe/" title="Innmeldingsskjema">Lastar...</iframe>
 ----
-class: .hypersys-skjema
+class: hypersys-skjema
 ---
 oversikt_tittel: HyperSys
