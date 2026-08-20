@@ -11,12 +11,8 @@ tekst:
 #### text-block ####
 content:
 
-<iframe 
-  src="https://malungdom.hypersys.no/old/forms/innmeldingsskjema/iframe/" 
-  style="width: 100%; max-width: 700px; height: 850px; border: none; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); background-color: #ffffff; display: block; margin: 0 auto;" 
-  title="Innmeldingsskjema for Norsk Målungdom">
-  Lastar...
-</iframe>
-class: big-box
+<iframe class="hypersys-skjema" src="https://malungdom.hypersys.no/old/forms/innmeldingsskjema/iframe/" title="Innmeldingsskjema">Lastar...</iframe>
+----
+class: .hypersys-skjema
 ---
-oversikt_tittel: Hypersys
+oversikt_tittel: HyperSys
