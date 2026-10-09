@@ -9,14 +9,7 @@ ingress:
 ---
 
 tekst:
-class: box
-#### text-block ####
-content:
 
-<img src="hovudmal-skuggelue.png" alt="«Hovudmål»-skuggelue">
-<center> **«Hovudmål»-skuggelue**
-<br>200 kroner
-----
 #### text-block ####
 content:
 
@@ -24,6 +17,14 @@ content:
 <center> **«Gå for nynorsken»-sokkar**
 <br>70 kroner
 <br><small>Storleik 35–38, 39–42, 43–46</small>
+----
+class: box
+#### text-block ####
+content:
+
+<img src="hovudmal-skuggelue.png" alt="«Hovudmål»-skuggelue">
+<center> **«Hovudmål»-skuggelue**
+<br>200 kroner
 ----
 class: box
 #### text-block ####
