@@ -7,7 +7,16 @@ ingress:
 <center> Kjøp tilfang frå Norsk Målungdom. Nedst på sida finn du skjema der du legg inn bestillinga di. Porto kjem i tillegg, vanlegvis på 30 eller 50 kr. 
 
 ---
+
 tekst:
+class: box
+#### text-block ####
+content:
+
+<img src="hovudmal-skuggelue.png" alt="«Hovudmål»-skuggelue">
+<center> **«Hovudmål»-skuggelue**
+<br>200 kroner
+----
 #### text-block ####
 content:
 
