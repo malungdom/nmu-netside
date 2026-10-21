@@ -65,6 +65,9 @@ content:
 
 <div data-dark="true" data-display-header="true"  data-layout="list" data-viewer="mime" data-manual="true" data-manual-list="NB_SEARCH_LIST" data-manual-comment-list="NB_SEARCH_LIST_COMMENTS" data-nb-plugin="search" data-sorting="desc" data-title="Nasjonalbiblioteket"></div><script type="text/javascript">
 	var NB_SEARCH_LIST = [
+    "81b77b04cb86e18753e24e69318746c2", //1/26
+    "e159edf569ae67269b838db598635a1b", //2/25
+    "c6b80307aea3351485640b70ff5b6d91", //1/25
     "2522045521ee51b24d3ecc4a35ad866b", //3/24
     "1c05f5c14ae88fb0fdf9129a3ad3ef9c", //2/24
     "e4d4cf3b7ac146bf883238df6c167dce", //1/24
