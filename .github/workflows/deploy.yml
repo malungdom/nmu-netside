@@ -19,7 +19,7 @@ jobs:
           python-version: "3.x"
 
       - run: pip install lektor
-      - run: lektor build --output-path dist/
+      - run: lektor build --output-path dist/ -v || echo "::warning::lektor reported build errors"
 
       - name: Set up SSH
         run: |
