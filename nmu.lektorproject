@@ -2,11 +2,11 @@
 name = Norsk Målungdom
 url_style = absolute
 
-[servers.production]
-name = Production
-enabled = yes
-default = yes
-target = rsync://ny.malungdom.no/srv/www/ny.malungdom.no/htdocs
+# [servers.production]
+# name = Production
+# enabled = yes
+# default = yes
+# target = rsync://ny.malungdom.no/srv/www/ny.malungdom.no/htdocs
 
 [packages]
 lektor-thumbnail-generator = 0.5

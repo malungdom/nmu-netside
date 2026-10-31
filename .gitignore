@@ -1,9 +1,9 @@
 env/
 
-# Ikkje vis vedlegg (held dei utanfor Git-repoet)
-*.pdf
-*.jpg
-*.png
+# # Ikkje vis vedlegg (held dei utanfor Git-repoet)
+# *.pdf
+# *.jpg
+# *.png
 .DS_Store
 content/kontakt/.gunnhild2.jpg.icloud
 *.icloud
