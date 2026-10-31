@@ -21,12 +21,19 @@ jobs:
       - run: pip install lektor
       - run: lektor build --output-path dist/ -v || echo "::warning::lektor reported build errors"
 
+
+
       - name: Set up SSH
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
           echo "${{ secrets.DEPLOY_KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+
+      - name: Install magick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
 
       - name: Upload site
         run: rsync -avz --delete dist/ "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:./"
