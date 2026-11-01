@@ -26,8 +26,6 @@ jobs:
       - run: pip install lektor
       - run: lektor build --output-path dist/ -v || echo "::warning::lektor reported build errors"
 
-
-
       - name: Set up SSH
         run: |
           mkdir -p ~/.ssh
