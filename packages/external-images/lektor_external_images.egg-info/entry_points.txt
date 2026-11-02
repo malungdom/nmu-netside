@@ -1,0 +1,2 @@
+[lektor.plugins]
+external-images = lektor_external_images:ExternalImagesPlugin
