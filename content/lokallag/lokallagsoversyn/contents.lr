@@ -97,6 +97,18 @@ class: box
 #### text-block ####
 content:
 
+<img src="troms.jpg" alt="Troms Målungdom">
+==
+**Stad:** Troms fylke <br>
+**Leiar:** Marius Myrvoll <br>
+**Kontakt:** [troms@malungdom.no](mailto:troms@malungdom.no)
+
+**Finn dei på:**<br> [Instagram](https://www.instagram.com/troms_malungdom) ∙ [Facebook](https://www.facebook.com/profile.php?id=61596224297382)
+----
+class: box
+#### text-block ####
+content:
+
 <img src="trondersk.jpg" alt="Trøndersk Målungdom">
 ==
 **Stad:** Trondheim i Trøndelag
@@ -169,7 +181,7 @@ class: box
 #### text-block ####
 content:
 
-Studentmållaget i Rauland
+<img src="smir.jpg" alt="Studentmållaget i Rauland">
 ==
 **Stad:** Rauland
 <br>**Kontakt:** [smir@malungdom.no](mailto:smir@malungdom.no)
